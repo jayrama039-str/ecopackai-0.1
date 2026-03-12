@@ -1,0 +1,5001 @@
+material_type,durability_score,weight_capacity_kg,biodegradability_score,recyclability_percent,co2_emission_score,cost_per_unit_usd
+Bagasse Fiber,6,13,6,73,2.49,0.5
+Paper Foam,7,3,6,97,2.66,0.51
+Mycelium Packaging,8,4,7,79,2.71,0.55
+Recycled PET,5,3,5,93,3.29,1.04
+PLA Bioplastic,8,4,6,88,4.78,0.75
+Cornstarch Packaging,5,6,6,62,3.57,0.52
+Mycelium Packaging,9,14,7,69,2.58,0.48
+Corrugated Board,6,3,6,79,2.8,0.64
+Bagasse Fiber,9,3,9,61,3.15,1.04
+Honeycomb Paperboard,9,16,5,86,3.87,0.69
+Biodegradable Plastic,8,6,9,91,3.32,0.53
+Bagasse Fiber,6,7,8,69,3.18,0.72
+PLA Bioplastic,5,13,5,99,3.69,0.84
+PLA Bioplastic,5,15,8,76,2.73,0.42
+Cornstarch Packaging,7,18,6,92,2.24,0.9
+Corrugated Board,5,15,7,65,2.07,0.72
+Paper Foam,8,4,9,98,2.75,0.41
+Cornstarch Packaging,9,18,8,77,2.27,0.94
+Cornstarch Packaging,9,8,6,68,3.01,0.97
+Biodegradable Plastic,9,16,9,67,4.32,0.9
+Recycled Paper Wrap,6,3,9,84,4.15,0.67
+Corrugated Board,5,19,8,90,3.83,0.82
+Molded Pulp,8,13,6,63,4.56,0.71
+Cornstarch Packaging,6,5,7,79,2.85,0.96
+Seaweed Packaging,7,13,8,87,4.66,0.87
+Bamboo Fiber Packaging,8,7,9,99,3.2,0.47
+Recycled Paper Wrap,8,19,9,60,3.2,0.91
+Molded Pulp,8,9,5,99,3.22,0.95
+Seaweed Packaging,9,12,6,82,2.29,0.7
+Corrugated Board,8,13,5,72,4.93,1.1
+Recycled Cardboard,5,5,7,75,2.42,1.07
+Seaweed Packaging,8,12,8,85,3.02,0.54
+Honeycomb Paperboard,9,12,9,90,2.96,1.12
+Recycled Paper Wrap,8,16,6,60,2.22,0.75
+Mycelium Packaging,7,14,9,76,2.46,0.98
+Seaweed Packaging,7,17,5,75,2.13,1.05
+Kraft Paper,9,12,5,96,2.88,0.8
+Recycled Cardboard,5,12,8,69,4.6,0.72
+PLA Bioplastic,5,3,6,97,3.02,1.13
+PLA Bioplastic,6,12,6,90,2.37,0.58
+Recycled PET,9,4,8,69,3.94,0.61
+Honeycomb Paperboard,8,19,5,93,4.99,0.69
+Seaweed Packaging,9,9,5,65,2.7,1.09
+Seaweed Packaging,6,9,5,87,2.84,1.15
+Recycled PET,9,11,9,87,4.92,0.58
+Bamboo Fiber Packaging,9,4,7,72,2.54,1.09
+Bamboo Fiber Packaging,6,16,5,71,3.53,0.61
+Recycled PET,5,19,7,99,2.72,1.18
+Bamboo Fiber Packaging,8,3,7,61,4.8,0.88
+Biodegradable Plastic,6,11,6,67,4.94,0.41
+Seaweed Packaging,7,6,8,68,4.44,0.43
+Bagasse Fiber,5,10,9,67,2.94,0.52
+Paper Foam,7,15,7,62,3.21,0.55
+Kraft Paper,5,6,9,68,2.73,1.01
+Biodegradable Plastic,8,11,6,72,4.67,0.58
+Corrugated Board,8,11,5,68,4.74,1.18
+Biodegradable Plastic,9,14,7,90,3.26,0.91
+Bagasse Fiber,7,12,8,84,3.97,0.95
+Corrugated Board,5,13,6,67,2.5,0.57
+Kraft Paper,8,9,9,90,3.3,1.11
+Bagasse Fiber,6,11,5,90,3.89,0.93
+Molded Pulp,8,8,9,76,3.16,1.09
+Paper Foam,6,18,8,78,3.07,1.17
+Kraft Paper,5,17,7,62,2,0.5
+Seaweed Packaging,8,9,8,89,4.41,0.48
+Bamboo Fiber Packaging,8,18,9,69,4.67,1.04
+Molded Pulp,5,7,9,88,4.91,1.09
+Honeycomb Paperboard,8,18,8,99,4.16,0.87
+Kraft Paper,6,3,8,77,3.65,0.69
+Honeycomb Paperboard,8,7,8,71,2.81,0.92
+Corrugated Board,7,9,5,82,5,0.64
+Molded Pulp,9,7,9,70,3.77,0.59
+Paper Foam,6,19,6,68,4.04,0.79
+Seaweed Packaging,7,10,5,83,4.05,0.57
+Recycled PET,5,3,5,84,4.54,0.79
+Seaweed Packaging,6,4,5,84,2.03,1.17
+Bagasse Fiber,9,17,6,68,2.66,1.07
+Seaweed Packaging,9,13,8,71,4,1.15
+Mycelium Packaging,5,12,9,70,4.69,1.05
+Cornstarch Packaging,5,6,7,97,4.06,0.68
+Recycled PET,6,7,7,87,3.24,1.05
+Biodegradable Plastic,8,6,9,67,3.08,1.14
+Bamboo Fiber Packaging,5,15,6,69,4.21,1.16
+Recycled Cardboard,8,15,7,84,4.22,0.95
+Paper Foam,7,4,5,95,3.82,0.57
+Molded Pulp,9,18,7,68,2.87,0.43
+Cornstarch Packaging,8,3,9,67,4.78,0.52
+Paper Foam,9,11,5,62,3.66,1.17
+Molded Pulp,8,5,7,77,4.37,0.77
+Bamboo Fiber Packaging,7,9,9,94,2.64,1.08
+Recycled Paper Wrap,5,12,6,76,3.03,0.77
+Recycled Paper Wrap,7,3,9,95,4.62,0.93
+Honeycomb Paperboard,5,12,6,87,2.15,0.42
+Paper Foam,5,11,5,74,3.54,0.6
+Recycled Paper Wrap,9,17,9,78,3.45,0.75
+Mycelium Packaging,7,17,8,81,4.25,0.9
+Recycled PET,8,5,8,65,2.85,0.54
+Molded Pulp,7,7,8,66,2.66,1.01
+Honeycomb Paperboard,9,11,8,68,4.78,0.69
+Seaweed Packaging,5,11,8,79,3.72,1.05
+Molded Pulp,9,9,6,96,2.31,0.48
+Honeycomb Paperboard,6,14,9,70,2.58,0.94
+Bamboo Fiber Packaging,6,11,5,61,5,0.63
+Paper Foam,8,8,8,81,2.59,1.04
+Bamboo Fiber Packaging,9,4,8,95,3.83,0.72
+Recycled PET,8,11,5,64,3.26,0.93
+Recycled PET,8,19,5,66,4.66,1.15
+Cornstarch Packaging,6,3,8,65,4.27,0.42
+Bamboo Fiber Packaging,8,8,6,81,3.79,0.41
+Bagasse Fiber,6,7,5,69,2.03,1.02
+Seaweed Packaging,5,4,9,99,4.64,0.92
+Kraft Paper,9,11,9,79,3.33,0.63
+Bamboo Fiber Packaging,8,16,6,87,4.79,0.8
+Cornstarch Packaging,6,6,7,82,3.49,0.43
+Corrugated Board,7,6,6,94,4.08,0.55
+Mycelium Packaging,8,17,8,60,2.21,0.74
+Molded Pulp,5,10,7,88,4.24,1.07
+Recycled PET,5,6,8,68,3.01,0.78
+Corrugated Board,7,18,9,68,3.05,0.87
+Cornstarch Packaging,6,6,5,81,2.36,1.1
+Honeycomb Paperboard,8,18,8,61,2.44,0.65
+Kraft Paper,6,14,9,75,2.56,0.96
+Seaweed Packaging,5,18,6,99,2.98,1.09
+Seaweed Packaging,6,10,8,65,4.68,0.56
+Seaweed Packaging,5,8,9,72,3.1,0.69
+Mycelium Packaging,6,12,5,92,4.17,1.18
+Kraft Paper,7,7,8,78,2.25,1.19
+Mycelium Packaging,9,12,9,74,3.77,0.58
+Recycled PET,7,12,8,92,3.45,0.45
+Mycelium Packaging,7,9,5,69,4.93,0.62
+Recycled Cardboard,9,3,8,60,4.54,0.72
+Kraft Paper,9,9,8,71,3.36,0.75
+Bagasse Fiber,8,3,9,88,4.33,0.9
+Kraft Paper,8,17,7,76,2.58,1.12
+Cornstarch Packaging,7,6,8,63,3.69,0.66
+Recycled Cardboard,7,12,7,88,2.22,1.08
+Seaweed Packaging,5,11,6,66,3.04,0.47
+Cornstarch Packaging,5,4,8,72,2.68,0.43
+Cornstarch Packaging,8,16,7,64,4.16,0.8
+Recycled PET,8,18,6,65,3.47,0.45
+PLA Bioplastic,5,3,9,93,4.25,0.71
+Biodegradable Plastic,5,4,8,66,3.55,1.12
+Recycled Cardboard,6,9,9,87,2.26,0.59
+Cornstarch Packaging,6,12,6,69,4.21,0.96
+Biodegradable Plastic,5,3,9,63,4.5,0.64
+Biodegradable Plastic,6,15,9,62,4.71,0.44
+Recycled Cardboard,9,3,5,84,3.72,0.85
+PLA Bioplastic,8,7,6,82,4.26,1.07
+Corrugated Board,8,18,9,86,4.26,0.73
+Honeycomb Paperboard,5,17,7,73,2.47,0.89
+Bagasse Fiber,7,19,6,97,2.49,1.12
+Honeycomb Paperboard,5,18,5,91,2.21,1.03
+Kraft Paper,6,15,8,82,2.96,0.56
+Seaweed Packaging,7,13,9,99,3.42,0.99
+Bagasse Fiber,6,19,7,96,4.99,0.8
+Kraft Paper,9,19,5,62,3.29,1
+Cornstarch Packaging,6,4,6,94,4.18,0.8
+Seaweed Packaging,9,15,9,72,4.08,0.5
+Molded Pulp,9,16,5,93,2.61,0.86
+Recycled Cardboard,6,13,5,83,2.18,0.79
+Bagasse Fiber,6,12,7,60,3.64,0.81
+Bagasse Fiber,9,5,8,71,4.1,1.1
+Bamboo Fiber Packaging,7,19,8,67,4.99,1.12
+Cornstarch Packaging,9,17,8,78,3.08,0.76
+Corrugated Board,8,11,6,68,4.69,0.76
+Biodegradable Plastic,9,12,5,87,3.15,0.81
+Seaweed Packaging,7,10,6,73,4.07,0.82
+Cornstarch Packaging,8,15,5,86,3.79,1.16
+Recycled Paper Wrap,5,7,7,77,2.16,0.92
+PLA Bioplastic,5,8,7,65,2.24,0.62
+Biodegradable Plastic,7,19,6,92,2.06,0.83
+Recycled Cardboard,9,13,6,96,3.11,0.9
+Biodegradable Plastic,6,18,7,84,4.24,0.91
+Corrugated Board,7,11,9,72,2.52,0.87
+Recycled PET,8,4,8,82,3.82,0.54
+Bamboo Fiber Packaging,8,7,8,95,2.87,0.43
+Biodegradable Plastic,5,3,7,92,4.39,0.67
+Recycled Cardboard,8,6,8,80,4.4,0.74
+Corrugated Board,7,6,9,93,4.33,0.45
+Honeycomb Paperboard,8,5,9,95,3.57,1.05
+Bagasse Fiber,7,11,5,76,2.85,0.68
+Recycled PET,6,14,6,69,4.43,1.13
+Bamboo Fiber Packaging,5,12,8,82,2.56,0.52
+Bagasse Fiber,8,4,9,61,2.87,0.45
+PLA Bioplastic,7,13,6,94,2.55,0.79
+Kraft Paper,9,12,6,73,4.02,0.55
+Recycled PET,5,8,5,61,4.06,1.15
+Recycled PET,6,4,6,78,3.96,0.41
+Honeycomb Paperboard,7,4,6,75,3.25,0.73
+Honeycomb Paperboard,6,12,7,84,2.3,1.14
+Seaweed Packaging,6,18,5,60,4.73,0.71
+Mycelium Packaging,8,14,5,61,3.52,0.47
+Biodegradable Plastic,8,3,8,86,3.22,0.64
+Recycled PET,7,10,6,61,3.77,0.8
+Bagasse Fiber,9,18,8,89,2.58,0.55
+Recycled Cardboard,7,15,9,69,2.4,0.77
+Paper Foam,9,17,6,78,3.22,1.07
+Mycelium Packaging,6,14,9,75,2.68,1.1
+Paper Foam,5,10,7,72,2.73,0.44
+Bamboo Fiber Packaging,7,12,6,67,4.68,0.53
+Corrugated Board,7,16,8,90,3.59,0.62
+Bagasse Fiber,9,7,8,84,3.45,0.88
+Bagasse Fiber,6,17,6,98,4.07,0.69
+Mycelium Packaging,6,8,8,80,4.85,1.08
+Recycled PET,9,13,6,97,2.34,0.97
+PLA Bioplastic,6,13,5,88,4.5,0.48
+Mycelium Packaging,8,12,8,65,3.75,0.9
+Paper Foam,5,4,6,77,2.44,0.49
+Mycelium Packaging,7,11,6,94,2.89,0.6
+Bagasse Fiber,5,16,8,86,3.45,0.54
+PLA Bioplastic,7,12,5,64,4.07,0.54
+Biodegradable Plastic,8,6,8,66,2.73,0.89
+Recycled Paper Wrap,6,8,6,69,3.6,0.85
+Seaweed Packaging,9,16,5,69,4.05,0.54
+Molded Pulp,8,6,9,87,3.35,1.19
+Honeycomb Paperboard,5,17,7,95,4.59,0.74
+Mycelium Packaging,9,18,8,69,4.61,0.48
+Bamboo Fiber Packaging,6,9,6,94,3.41,0.5
+Kraft Paper,8,19,5,94,4.92,0.87
+Corrugated Board,9,19,5,96,2.23,1.18
+Recycled Paper Wrap,8,8,9,79,2.01,0.86
+Seaweed Packaging,8,13,8,72,3.14,1.16
+Seaweed Packaging,6,18,5,70,3.8,0.76
+Seaweed Packaging,7,10,9,78,3.89,0.75
+Seaweed Packaging,9,13,6,87,3.43,0.8
+Paper Foam,6,9,9,97,2.37,0.96
+Bamboo Fiber Packaging,8,12,8,63,2.51,0.69
+Bamboo Fiber Packaging,6,11,9,96,4.56,1.09
+PLA Bioplastic,7,6,5,78,4.6,0.42
+Honeycomb Paperboard,9,17,5,96,4.02,0.75
+Bagasse Fiber,7,15,7,73,3.99,0.81
+Seaweed Packaging,5,4,9,90,3.79,0.89
+Kraft Paper,9,4,6,87,2.61,0.62
+Bagasse Fiber,7,18,8,95,3.28,0.74
+Bamboo Fiber Packaging,8,11,7,97,4.09,0.79
+Recycled Cardboard,9,15,9,78,3.61,0.95
+Recycled Cardboard,9,5,6,60,2.06,1.02
+Kraft Paper,6,11,7,82,4.86,0.99
+PLA Bioplastic,8,15,5,87,4.53,0.67
+Bamboo Fiber Packaging,5,4,8,63,2.78,1.2
+Kraft Paper,7,10,9,77,3.85,1.08
+Paper Foam,6,11,6,98,4.77,0.61
+Mycelium Packaging,7,18,5,84,2.29,0.56
+Kraft Paper,5,4,7,77,3.51,0.65
+Biodegradable Plastic,5,8,8,65,3.37,0.76
+Bagasse Fiber,9,10,7,78,3.23,1.08
+Recycled Paper Wrap,5,7,7,71,4.51,1.02
+Cornstarch Packaging,7,11,6,84,3.14,1.08
+PLA Bioplastic,8,3,5,94,2.19,0.62
+Kraft Paper,8,11,9,60,2.2,0.87
+Bamboo Fiber Packaging,9,12,6,64,2.13,0.63
+Corrugated Board,7,6,8,60,3.23,0.49
+Recycled Cardboard,7,5,7,67,4.16,0.95
+Biodegradable Plastic,5,12,8,98,2.61,0.51
+Honeycomb Paperboard,7,17,6,77,3.94,0.93
+Seaweed Packaging,6,13,6,68,4.06,0.92
+Cornstarch Packaging,5,16,9,64,2.77,1.05
+Recycled PET,6,8,7,63,3.8,0.51
+PLA Bioplastic,9,14,6,88,4.05,1.03
+Recycled Paper Wrap,8,15,8,60,3.4,1.2
+Cornstarch Packaging,9,19,9,89,3.01,1.08
+Kraft Paper,8,18,8,60,3.86,1
+Paper Foam,9,5,7,62,4.93,0.93
+Recycled Cardboard,7,4,9,81,3.28,0.74
+Bamboo Fiber Packaging,6,13,9,67,3.18,0.98
+Recycled Cardboard,8,11,9,77,3.39,0.98
+Honeycomb Paperboard,5,5,5,84,2.23,0.91
+Paper Foam,6,17,9,79,3.66,1.04
+Seaweed Packaging,5,16,8,90,2.99,0.76
+Bamboo Fiber Packaging,6,4,8,89,2.36,0.5
+Bagasse Fiber,6,19,7,75,3.4,0.85
+Molded Pulp,9,10,6,61,2.01,0.61
+Biodegradable Plastic,8,12,6,76,3.21,0.71
+Recycled Cardboard,8,10,5,69,2.32,0.41
+Corrugated Board,6,10,9,66,2.07,0.71
+Recycled Cardboard,7,5,5,68,4.47,1.05
+Cornstarch Packaging,7,5,7,76,4.75,0.83
+Recycled Cardboard,5,14,7,68,2.62,0.41
+PLA Bioplastic,5,19,6,68,3.62,0.78
+Recycled Cardboard,9,6,7,96,2.83,0.63
+Molded Pulp,6,19,9,83,3.48,0.78
+Molded Pulp,5,16,8,98,3.31,0.72
+Seaweed Packaging,5,11,7,70,2.81,1.15
+Recycled Paper Wrap,6,14,5,67,4.1,0.43
+Bagasse Fiber,9,7,9,84,2.38,0.95
+Corrugated Board,5,13,7,61,2.16,1.08
+Recycled Cardboard,9,5,7,69,4.3,1.17
+Recycled Cardboard,8,17,9,83,4,0.54
+Biodegradable Plastic,9,16,7,75,3.5,0.83
+Bamboo Fiber Packaging,7,13,8,78,3.4,0.43
+Molded Pulp,7,10,6,90,3.49,0.8
+Corrugated Board,9,6,9,70,3.31,0.5
+Seaweed Packaging,7,14,5,65,3.18,1.07
+Honeycomb Paperboard,8,10,7,65,3.5,0.49
+Recycled Paper Wrap,6,8,6,91,3.59,0.81
+Bagasse Fiber,7,17,5,98,4.08,0.82
+Paper Foam,7,14,5,72,4.13,1.18
+Bagasse Fiber,9,18,8,62,3.13,0.92
+PLA Bioplastic,8,18,6,94,3.24,0.63
+Cornstarch Packaging,6,6,9,97,3.12,0.59
+PLA Bioplastic,9,13,6,76,3.61,0.5
+Recycled Cardboard,9,15,6,62,3.36,1.01
+Recycled PET,8,11,5,93,4.67,0.95
+Recycled Paper Wrap,6,6,8,71,4.09,0.89
+Cornstarch Packaging,8,14,8,83,4.7,0.43
+Corrugated Board,6,11,6,65,4.13,1.01
+Paper Foam,8,15,6,70,4.91,0.91
+Molded Pulp,9,18,7,86,3.91,1.17
+Recycled Paper Wrap,9,8,5,83,4.89,0.87
+Recycled Paper Wrap,5,12,9,77,2.47,0.64
+PLA Bioplastic,7,15,9,86,2.16,0.71
+Recycled PET,8,9,8,80,3.74,0.54
+Recycled Cardboard,5,19,5,93,4.95,0.98
+Kraft Paper,7,15,8,92,3.25,0.97
+Seaweed Packaging,8,15,9,77,2.64,0.56
+PLA Bioplastic,6,4,6,62,3.56,0.53
+Recycled Paper Wrap,7,12,5,83,3.95,0.46
+Mycelium Packaging,9,15,5,60,2.95,1.13
+Biodegradable Plastic,5,11,7,65,4.14,0.59
+Paper Foam,7,3,6,78,4.93,0.68
+Seaweed Packaging,7,16,6,81,4.69,0.62
+PLA Bioplastic,9,18,8,67,2.87,0.73
+Paper Foam,8,17,5,64,2.98,0.97
+Biodegradable Plastic,6,3,8,68,3.11,1.1
+Honeycomb Paperboard,9,19,6,80,3.18,0.55
+Biodegradable Plastic,6,15,7,87,2.3,0.95
+Recycled PET,8,17,5,63,4.29,0.68
+Biodegradable Plastic,7,18,6,83,3.1,1.18
+Paper Foam,6,18,7,67,4.64,0.64
+Bagasse Fiber,5,4,9,76,4.78,0.41
+Paper Foam,5,19,6,93,2.07,0.81
+Kraft Paper,9,13,9,79,4.97,0.52
+Recycled Cardboard,8,10,8,75,4.13,0.44
+Cornstarch Packaging,9,5,9,69,3.56,0.96
+Bagasse Fiber,9,14,6,93,3.17,0.99
+Molded Pulp,9,18,9,69,3.56,0.77
+Cornstarch Packaging,5,16,5,89,2.97,0.94
+Recycled Cardboard,5,18,6,89,3.87,0.83
+PLA Bioplastic,9,19,7,84,2.28,0.9
+Seaweed Packaging,5,13,9,66,3.86,0.88
+Kraft Paper,8,19,5,79,2.83,0.93
+Kraft Paper,9,3,8,76,2.05,0.56
+Molded Pulp,5,14,8,62,3.66,0.61
+Bagasse Fiber,6,17,9,99,3.74,0.75
+Recycled PET,9,16,8,95,3.28,0.76
+Bamboo Fiber Packaging,9,3,7,85,2.22,1.02
+Honeycomb Paperboard,8,15,6,69,4.68,0.69
+Biodegradable Plastic,7,17,5,93,3.83,0.53
+Bagasse Fiber,7,9,9,73,2.35,0.6
+Seaweed Packaging,8,17,8,67,3.53,0.57
+Honeycomb Paperboard,8,12,6,86,3.49,0.99
+Kraft Paper,8,16,7,69,2.18,0.78
+Paper Foam,7,8,8,74,3.82,0.97
+Seaweed Packaging,8,16,8,96,4.42,0.73
+Recycled Cardboard,5,14,5,81,4.25,1.11
+Molded Pulp,9,13,7,90,2.61,1.19
+Recycled Cardboard,9,4,7,61,4.59,0.94
+Bamboo Fiber Packaging,6,3,9,90,3.03,1.09
+Seaweed Packaging,6,10,5,73,4.84,0.81
+Corrugated Board,9,16,9,69,2.22,1.15
+Corrugated Board,5,11,5,89,3.46,1.07
+PLA Bioplastic,7,4,7,95,3.79,1.19
+Bagasse Fiber,7,7,5,99,2.74,0.9
+Kraft Paper,5,10,5,74,4.31,1.02
+Kraft Paper,7,18,5,73,3.88,0.83
+Biodegradable Plastic,8,18,6,90,2.05,0.61
+Biodegradable Plastic,9,15,6,88,3.83,0.68
+Biodegradable Plastic,9,17,7,86,3.47,1.12
+Paper Foam,5,3,5,80,2.59,0.44
+Cornstarch Packaging,7,5,7,68,4.99,0.87
+Recycled Paper Wrap,6,8,6,79,4.69,0.7
+Cornstarch Packaging,6,16,5,94,2.88,0.71
+Recycled Cardboard,7,6,9,74,3.62,1.11
+Cornstarch Packaging,6,17,6,83,2.95,1.08
+Paper Foam,5,11,6,75,4.33,0.88
+PLA Bioplastic,5,5,6,95,4.79,0.62
+Recycled Cardboard,7,12,5,70,3.08,0.78
+Cornstarch Packaging,6,19,8,67,4.42,0.73
+Paper Foam,5,9,9,62,3.5,0.68
+Recycled Paper Wrap,5,17,9,78,3.19,0.48
+Cornstarch Packaging,8,3,7,62,4.82,0.83
+Paper Foam,8,13,5,95,3.53,0.64
+Bamboo Fiber Packaging,5,19,6,84,3.4,0.93
+Biodegradable Plastic,7,7,8,95,4.02,0.66
+Bamboo Fiber Packaging,9,9,5,70,2.78,0.74
+Kraft Paper,9,17,5,75,2.97,0.44
+Biodegradable Plastic,5,5,8,76,4.8,1.19
+Kraft Paper,5,17,6,83,4.04,0.81
+Mycelium Packaging,5,7,5,76,4.48,0.42
+Molded Pulp,7,14,9,79,2.81,0.83
+Bamboo Fiber Packaging,8,7,9,81,3.63,1.1
+Molded Pulp,5,5,8,65,4.91,1.02
+Molded Pulp,5,11,6,66,2.96,0.96
+Recycled Paper Wrap,6,11,8,73,2.48,0.51
+Biodegradable Plastic,7,9,5,70,3.53,0.93
+Mycelium Packaging,5,4,9,71,3.16,1.01
+Kraft Paper,6,18,7,64,2.48,0.86
+Paper Foam,9,11,8,64,4.67,1.11
+Recycled Cardboard,5,15,7,79,4.97,0.62
+Paper Foam,5,19,7,74,3.71,0.59
+Recycled Cardboard,6,8,9,85,4.32,1.1
+Bamboo Fiber Packaging,7,6,8,92,4.58,0.9
+Corrugated Board,5,3,7,89,4.1,0.4
+Paper Foam,9,11,5,83,2.13,0.68
+Cornstarch Packaging,5,15,6,82,2.47,1.09
+Cornstarch Packaging,9,10,6,68,2.21,0.42
+Bagasse Fiber,8,15,9,62,2.03,0.4
+Biodegradable Plastic,8,17,8,95,2.92,0.63
+Recycled Cardboard,9,13,8,66,3.18,1.13
+Recycled Cardboard,7,14,6,81,2.72,1.12
+Seaweed Packaging,5,16,5,73,2.19,0.82
+PLA Bioplastic,5,6,6,88,3.59,0.84
+Biodegradable Plastic,8,3,6,75,2.82,0.67
+Recycled Paper Wrap,9,6,8,93,4.39,0.59
+Bagasse Fiber,5,11,7,69,2.02,1.05
+Recycled Paper Wrap,5,12,5,66,4.53,0.49
+Bamboo Fiber Packaging,7,6,8,84,4.86,0.79
+Bamboo Fiber Packaging,6,11,6,86,4.15,0.91
+Recycled Paper Wrap,8,15,7,74,4.2,0.48
+Recycled Paper Wrap,8,14,5,91,4.8,0.82
+Mycelium Packaging,6,13,9,87,2.63,0.86
+Biodegradable Plastic,5,14,5,68,4.98,0.99
+Recycled Paper Wrap,7,14,5,66,4.32,0.59
+Cornstarch Packaging,7,18,6,75,4.18,0.63
+PLA Bioplastic,8,7,6,85,3.08,0.86
+PLA Bioplastic,7,14,9,94,3.64,1.19
+Molded Pulp,6,13,9,76,3.96,0.57
+Corrugated Board,5,11,9,82,3.86,1.19
+Bamboo Fiber Packaging,6,5,8,67,4.11,0.97
+Recycled Cardboard,9,19,8,61,2.25,1.06
+Seaweed Packaging,8,16,6,90,3.07,0.47
+Recycled PET,7,3,6,91,3.3,0.64
+Recycled Cardboard,9,19,9,88,2.78,0.45
+Corrugated Board,7,10,8,62,2.52,0.7
+Seaweed Packaging,5,7,7,67,2.42,1.19
+Mycelium Packaging,5,7,8,61,3.1,0.48
+Biodegradable Plastic,5,11,6,90,3.48,0.85
+Paper Foam,7,5,8,96,2.19,0.4
+Biodegradable Plastic,9,11,6,79,4.84,0.97
+Recycled Cardboard,5,18,9,88,4.3,0.56
+Recycled Cardboard,9,3,9,76,4.19,0.5
+Seaweed Packaging,7,4,9,69,2.52,0.67
+Seaweed Packaging,9,16,7,81,3.81,1.02
+Bamboo Fiber Packaging,7,16,7,65,3.59,0.49
+Mycelium Packaging,7,3,6,93,4.95,0.58
+Bamboo Fiber Packaging,8,18,5,90,4.24,0.41
+Corrugated Board,7,17,7,71,3.73,1.17
+Recycled Paper Wrap,7,17,6,71,4.55,0.87
+Biodegradable Plastic,6,14,8,75,2.47,0.98
+Seaweed Packaging,5,18,9,84,2.05,0.92
+Kraft Paper,8,16,9,81,4.07,0.52
+Corrugated Board,8,17,9,86,2.29,0.88
+Cornstarch Packaging,8,17,6,83,2.35,0.51
+Mycelium Packaging,6,10,9,71,4.23,0.72
+Recycled Cardboard,7,4,7,77,2.81,0.86
+Bamboo Fiber Packaging,5,4,8,75,3.89,0.85
+Corrugated Board,9,12,9,63,4.75,0.5
+Recycled PET,7,5,6,71,2.95,0.43
+Biodegradable Plastic,6,19,8,92,2.65,1.04
+Seaweed Packaging,7,10,9,81,2.32,0.98
+Recycled Cardboard,7,6,5,77,2.39,0.47
+Paper Foam,6,16,9,92,2.19,0.5
+Recycled PET,8,12,7,86,2.26,1.11
+Mycelium Packaging,8,3,8,78,3.3,1.02
+Corrugated Board,5,6,7,73,2.96,1.2
+Bagasse Fiber,5,3,5,84,4.12,0.6
+Recycled Cardboard,8,19,5,93,4.61,0.79
+Biodegradable Plastic,9,19,7,83,4.35,0.59
+Molded Pulp,7,9,8,97,3.59,0.9
+Kraft Paper,9,17,5,82,2.31,0.49
+Honeycomb Paperboard,7,15,5,64,4.13,0.5
+Recycled PET,8,4,9,95,3.09,0.46
+Recycled Paper Wrap,5,15,6,83,2.26,0.95
+Honeycomb Paperboard,5,13,5,95,4.53,0.8
+Biodegradable Plastic,9,17,8,64,3.01,0.89
+Cornstarch Packaging,5,12,8,98,2.65,1.1
+Bamboo Fiber Packaging,8,11,9,65,4.61,0.99
+Cornstarch Packaging,9,11,8,95,4.71,0.77
+Molded Pulp,7,3,9,63,3.02,1.19
+Recycled PET,5,19,5,69,3.06,0.77
+Recycled Paper Wrap,6,14,5,60,3.74,0.49
+Bagasse Fiber,5,12,5,80,4.2,1.19
+Molded Pulp,7,7,5,99,2.19,0.42
+Recycled PET,9,17,6,98,3.78,0.84
+PLA Bioplastic,7,8,6,96,4.86,0.65
+Honeycomb Paperboard,6,9,5,62,2.79,0.8
+Molded Pulp,8,19,8,90,4.73,0.85
+Honeycomb Paperboard,5,8,9,86,4.85,0.59
+Recycled Cardboard,9,10,7,76,2.81,0.85
+Cornstarch Packaging,8,14,9,82,4.26,1
+Recycled Cardboard,7,16,7,72,2.72,0.61
+Kraft Paper,9,14,7,86,4.21,0.71
+PLA Bioplastic,8,12,5,79,4.39,0.61
+Recycled Paper Wrap,9,17,7,72,2.74,1.06
+Bagasse Fiber,6,9,5,83,4.15,0.98
+Mycelium Packaging,6,11,6,62,4.44,1.1
+Honeycomb Paperboard,5,12,8,69,3.08,0.54
+Bagasse Fiber,5,12,7,60,2.5,0.46
+Honeycomb Paperboard,6,18,8,72,2.28,0.5
+Biodegradable Plastic,9,9,5,73,3.73,0.53
+Molded Pulp,6,7,7,92,4.93,0.83
+Kraft Paper,5,5,9,61,4.47,1.18
+Cornstarch Packaging,6,13,6,61,3.31,0.69
+Mycelium Packaging,6,17,6,98,3.61,1.17
+Seaweed Packaging,9,7,7,90,2.84,0.43
+Honeycomb Paperboard,8,14,6,63,2.49,1.14
+Bagasse Fiber,5,6,9,93,3.45,0.54
+Kraft Paper,9,17,8,78,3.39,1.13
+Paper Foam,6,11,9,96,3.57,0.44
+Mycelium Packaging,6,9,6,68,4.86,1.16
+Paper Foam,8,12,8,83,3.81,0.56
+Recycled Cardboard,5,15,9,72,3.82,0.64
+Cornstarch Packaging,5,10,5,89,2.38,0.79
+Bamboo Fiber Packaging,7,14,5,78,4.99,0.7
+Bamboo Fiber Packaging,5,3,8,69,4.32,0.93
+Seaweed Packaging,8,18,8,73,4.63,1.18
+Biodegradable Plastic,7,19,8,99,3.24,0.89
+Bagasse Fiber,7,13,5,79,3.51,0.98
+Recycled PET,6,9,9,63,3.57,0.47
+Seaweed Packaging,6,10,8,97,2.58,0.9
+Molded Pulp,5,8,5,98,4.07,0.76
+Molded Pulp,7,9,8,64,4.71,1.11
+Bagasse Fiber,6,12,8,91,2.49,0.71
+Recycled PET,8,13,8,65,2.26,0.94
+Recycled Paper Wrap,6,15,5,73,4.21,0.58
+Biodegradable Plastic,6,11,9,65,2.82,0.61
+Kraft Paper,7,9,5,73,3.87,0.7
+Honeycomb Paperboard,7,11,5,71,4.09,0.64
+Recycled PET,9,15,8,86,2.97,0.6
+Bamboo Fiber Packaging,8,5,7,85,4.45,0.44
+Mycelium Packaging,7,5,7,71,3.65,1.07
+Recycled Paper Wrap,5,3,7,67,4.61,0.45
+Honeycomb Paperboard,8,4,5,69,4.29,1.11
+Honeycomb Paperboard,8,5,8,75,4.61,0.5
+Recycled Paper Wrap,7,17,7,85,2.06,0.45
+Recycled Cardboard,8,8,6,67,2.73,0.85
+Paper Foam,7,15,6,88,2.27,0.8
+Honeycomb Paperboard,6,3,6,79,3.33,0.79
+Recycled Paper Wrap,9,3,9,76,4.67,0.86
+Recycled PET,6,4,8,78,3.4,0.63
+Recycled Paper Wrap,7,17,5,76,4.55,0.93
+PLA Bioplastic,7,16,5,98,2.98,0.8
+Seaweed Packaging,6,13,8,60,3.02,0.67
+Corrugated Board,5,17,9,88,4.69,1.06
+Recycled Cardboard,5,8,8,73,3.28,0.98
+Cornstarch Packaging,5,11,9,76,4.37,0.71
+Corrugated Board,7,7,7,72,2.71,1.08
+Seaweed Packaging,8,4,7,88,4.85,1.14
+Seaweed Packaging,7,8,9,93,3.72,0.83
+Seaweed Packaging,8,11,8,86,4.28,0.57
+Corrugated Board,6,8,7,92,2.27,1.13
+Bagasse Fiber,9,16,8,88,3.48,0.55
+Paper Foam,8,15,7,96,4.7,0.44
+Recycled Paper Wrap,5,13,8,98,4.63,0.66
+Mycelium Packaging,7,14,8,78,2.14,0.98
+Paper Foam,6,15,6,83,2.91,1.14
+Bamboo Fiber Packaging,5,16,9,73,3.33,0.91
+Recycled PET,6,14,5,96,2.52,1.16
+Biodegradable Plastic,9,6,9,64,4.19,0.47
+Bagasse Fiber,7,12,8,83,2.55,0.45
+Cornstarch Packaging,7,19,8,93,3.04,0.88
+Paper Foam,9,6,9,90,3.99,1.17
+Mycelium Packaging,7,14,8,89,3.45,0.8
+Molded Pulp,8,15,7,68,4.22,0.44
+Seaweed Packaging,6,6,8,86,4.88,0.58
+Honeycomb Paperboard,5,12,9,87,2.35,0.6
+Bamboo Fiber Packaging,9,5,9,85,4.13,0.67
+Biodegradable Plastic,8,17,9,77,2.69,0.43
+Recycled Cardboard,5,4,6,95,3.24,1.12
+Cornstarch Packaging,5,19,6,67,2.1,0.81
+Recycled PET,9,8,6,77,2.41,0.94
+Biodegradable Plastic,8,10,6,79,2.96,0.45
+Seaweed Packaging,5,5,6,91,3.03,0.44
+Honeycomb Paperboard,5,3,6,88,4.7,0.87
+Bagasse Fiber,8,18,6,77,4.23,1.11
+Honeycomb Paperboard,7,9,9,66,4.92,0.82
+Corrugated Board,5,5,5,60,3.8,1.1
+Honeycomb Paperboard,6,6,6,87,2.73,1.05
+Corrugated Board,8,11,9,92,2.98,0.46
+Bamboo Fiber Packaging,5,7,5,63,2.96,0.56
+Bagasse Fiber,9,17,6,79,2.98,0.93
+Recycled PET,6,10,5,95,4.02,0.75
+Kraft Paper,5,8,5,90,3.59,0.63
+Seaweed Packaging,6,17,7,97,3.16,0.73
+Corrugated Board,6,9,8,87,2.45,0.76
+Recycled Cardboard,7,12,7,62,2.07,1.13
+Honeycomb Paperboard,6,8,5,65,2.66,0.48
+Honeycomb Paperboard,7,16,9,82,2.32,0.62
+Recycled Cardboard,8,19,6,66,4.36,0.83
+Recycled PET,7,11,8,95,2.34,0.96
+Molded Pulp,9,7,6,60,4.17,0.9
+Bamboo Fiber Packaging,5,9,9,65,3.16,1.15
+Recycled Paper Wrap,8,9,8,83,2.22,1.04
+Kraft Paper,8,4,7,96,4.44,0.85
+Cornstarch Packaging,9,18,5,95,3.74,0.57
+Mycelium Packaging,7,15,9,83,2.71,0.76
+Corrugated Board,5,10,5,97,4.68,0.95
+Recycled Cardboard,7,8,5,88,2.14,1.07
+Mycelium Packaging,6,8,6,96,2.61,1.17
+Bagasse Fiber,7,11,9,91,4.26,0.88
+Recycled PET,8,6,5,84,4.13,0.82
+Corrugated Board,5,13,7,69,2.87,0.41
+Recycled Paper Wrap,7,7,8,94,2.19,0.46
+Mycelium Packaging,5,19,9,84,4.57,0.52
+Bagasse Fiber,5,9,6,86,2.94,0.44
+Biodegradable Plastic,6,17,9,91,2.59,0.72
+Seaweed Packaging,6,17,6,71,3.55,0.67
+Honeycomb Paperboard,8,16,8,63,4.73,0.91
+Biodegradable Plastic,9,15,7,85,2.13,0.83
+Corrugated Board,5,13,5,62,4.3,0.88
+Recycled Paper Wrap,9,15,9,76,3.72,0.78
+Kraft Paper,8,11,6,68,3.28,0.62
+Mycelium Packaging,5,12,8,88,4.23,1.16
+Bamboo Fiber Packaging,5,6,5,60,4.9,0.47
+Seaweed Packaging,9,19,8,77,2.69,1.15
+Corrugated Board,7,16,7,79,2.43,0.65
+Recycled PET,6,13,5,93,4.74,0.81
+Recycled Cardboard,7,18,5,87,4.01,0.49
+Bamboo Fiber Packaging,9,3,5,94,3.31,0.46
+Bamboo Fiber Packaging,6,9,6,75,3.72,0.74
+Bamboo Fiber Packaging,7,12,5,80,4.24,0.99
+Paper Foam,6,11,8,72,4.32,0.62
+Corrugated Board,5,5,6,94,4.76,0.85
+Seaweed Packaging,7,16,5,91,3.28,0.62
+Honeycomb Paperboard,6,17,8,97,2.88,0.71
+Honeycomb Paperboard,6,4,8,65,3.92,1.13
+Corrugated Board,6,16,9,97,3.25,1.08
+Bagasse Fiber,7,18,8,97,3.78,0.81
+Paper Foam,8,9,7,72,3.26,0.59
+Recycled Cardboard,7,6,5,98,2.46,0.55
+Bamboo Fiber Packaging,9,7,5,72,3.41,1.16
+Bamboo Fiber Packaging,7,8,5,71,4.07,0.56
+Corrugated Board,6,9,8,92,4.4,1.05
+Bagasse Fiber,5,17,8,87,3.48,0.7
+Honeycomb Paperboard,7,3,5,62,2.5,1.19
+Honeycomb Paperboard,7,6,6,77,3.24,0.69
+Recycled Paper Wrap,6,3,6,85,4.36,0.68
+Corrugated Board,5,13,7,99,3.24,0.91
+Paper Foam,5,16,9,61,4.09,1.17
+Molded Pulp,9,13,7,63,3.52,1.18
+Paper Foam,7,12,5,87,2.72,0.97
+Recycled PET,5,19,5,87,4.39,1
+Honeycomb Paperboard,5,6,5,84,2.25,0.85
+Honeycomb Paperboard,8,17,9,85,3.57,1
+Biodegradable Plastic,8,18,8,61,2.63,1.09
+Honeycomb Paperboard,5,15,9,93,2.2,0.79
+Recycled Cardboard,9,11,7,89,3.51,0.9
+Cornstarch Packaging,5,13,8,80,3.5,0.83
+Corrugated Board,6,13,8,96,4.12,0.85
+Mycelium Packaging,7,8,7,82,4.23,1.11
+Paper Foam,9,3,8,92,4.18,0.68
+Cornstarch Packaging,6,8,6,61,3.23,0.57
+Bagasse Fiber,9,15,7,86,3.9,0.77
+Molded Pulp,6,7,7,81,3.73,0.57
+Recycled Cardboard,7,17,6,93,3.26,0.8
+Seaweed Packaging,7,16,9,75,3.79,1.12
+PLA Bioplastic,8,17,9,79,4.84,0.89
+Paper Foam,6,7,9,85,2.58,1.08
+Cornstarch Packaging,8,6,8,75,4.72,0.53
+Seaweed Packaging,6,4,6,65,2.16,1.12
+Molded Pulp,8,9,7,82,2.93,0.88
+Biodegradable Plastic,7,12,7,96,2.86,0.43
+Seaweed Packaging,9,18,7,67,3.88,0.91
+Recycled Cardboard,8,12,8,65,2.39,1.16
+Recycled Cardboard,6,19,8,96,4.65,0.46
+Mycelium Packaging,6,15,9,81,4.49,0.87
+Biodegradable Plastic,7,3,8,65,3.96,1.13
+PLA Bioplastic,6,3,9,91,3.38,0.41
+Corrugated Board,5,17,9,76,4.8,0.9
+Seaweed Packaging,9,3,7,97,4.49,0.78
+Biodegradable Plastic,8,8,8,76,3.5,0.68
+Recycled Cardboard,9,15,9,96,4.11,0.9
+Recycled Cardboard,7,3,6,82,3.7,0.44
+Cornstarch Packaging,8,7,6,72,3.76,1
+Honeycomb Paperboard,8,11,8,91,2.99,0.4
+PLA Bioplastic,5,19,7,81,3.39,0.65
+Seaweed Packaging,7,18,7,66,2.23,0.8
+Mycelium Packaging,6,10,9,81,3.07,0.7
+Mycelium Packaging,5,19,8,80,4.09,0.65
+Seaweed Packaging,5,17,6,65,4.86,1.06
+Recycled PET,9,3,9,73,4.89,1.15
+Bamboo Fiber Packaging,9,14,9,75,3.67,1.1
+Molded Pulp,9,7,5,62,3.82,0.82
+Mycelium Packaging,5,8,8,68,2.56,1.11
+Biodegradable Plastic,6,3,9,80,4.09,1.14
+Molded Pulp,8,3,6,89,2.21,0.73
+Biodegradable Plastic,9,12,5,89,2.85,0.63
+Bagasse Fiber,6,12,6,91,4.01,0.48
+Recycled Cardboard,7,5,7,82,2.93,0.78
+Honeycomb Paperboard,9,19,5,62,2.15,1.16
+Cornstarch Packaging,8,13,5,60,4.5,0.85
+Mycelium Packaging,7,4,9,62,2.93,0.93
+Honeycomb Paperboard,7,11,7,96,2.19,0.49
+Honeycomb Paperboard,8,19,9,66,2.22,0.51
+Honeycomb Paperboard,9,16,8,62,2.76,0.77
+Bamboo Fiber Packaging,5,6,6,95,2.53,1.16
+Molded Pulp,8,19,6,62,4.32,0.69
+Biodegradable Plastic,8,19,9,63,2.97,1.1
+Kraft Paper,8,14,6,90,4.41,0.5
+Bagasse Fiber,7,5,6,61,2.52,0.89
+Paper Foam,6,13,8,73,3.48,0.88
+Honeycomb Paperboard,5,6,7,96,4.06,1.09
+Corrugated Board,9,19,5,90,3.96,0.4
+Molded Pulp,9,7,9,61,3.8,0.55
+Mycelium Packaging,6,16,9,90,4.77,0.58
+PLA Bioplastic,8,12,8,81,2.69,1.16
+Mycelium Packaging,5,17,8,69,3.48,0.52
+Cornstarch Packaging,9,3,5,89,4.65,0.43
+Paper Foam,9,18,7,92,2.23,0.83
+Kraft Paper,8,13,9,78,2.17,0.82
+Corrugated Board,6,8,8,84,2.7,1.08
+Mycelium Packaging,5,18,9,60,3.9,1.16
+Kraft Paper,6,4,6,91,2.78,0.83
+Paper Foam,6,3,9,84,2.57,1.14
+Honeycomb Paperboard,5,11,7,76,3.38,0.98
+Corrugated Board,5,14,7,73,3.84,0.61
+Kraft Paper,9,19,9,72,2.75,1.14
+Cornstarch Packaging,9,17,6,97,2.9,0.93
+Biodegradable Plastic,5,12,7,98,3.84,0.73
+Recycled Cardboard,7,14,8,61,4.84,0.94
+Biodegradable Plastic,9,16,9,91,4.02,0.72
+Paper Foam,7,11,6,91,4.35,0.49
+Molded Pulp,5,15,8,99,3.1,0.98
+Recycled Cardboard,9,5,9,65,2.82,1.06
+Bagasse Fiber,6,16,6,84,3.36,0.98
+Cornstarch Packaging,5,12,8,62,4.42,0.58
+Bagasse Fiber,8,18,7,77,3.37,1.17
+Bamboo Fiber Packaging,7,9,9,97,4.54,0.42
+Corrugated Board,5,6,9,62,4.97,0.67
+Seaweed Packaging,5,13,7,64,2.22,0.61
+Recycled Cardboard,9,18,5,83,2.14,0.44
+Bagasse Fiber,9,6,8,93,2.45,0.72
+Mycelium Packaging,9,19,7,98,3.15,0.9
+Bagasse Fiber,8,15,9,83,2.39,1.11
+Kraft Paper,9,13,8,95,4.61,1.19
+Biodegradable Plastic,5,5,8,87,2.07,1.05
+Kraft Paper,9,11,5,93,2.95,0.77
+Bamboo Fiber Packaging,6,8,9,75,2.55,0.98
+Recycled Cardboard,9,13,6,95,4.79,1.07
+Recycled Cardboard,8,18,5,66,4.01,0.77
+Bamboo Fiber Packaging,6,7,5,77,4.74,1.03
+Paper Foam,5,16,6,65,4.92,0.79
+Kraft Paper,5,19,6,87,3.49,0.71
+Recycled Paper Wrap,7,5,5,98,2.7,0.82
+Mycelium Packaging,6,6,8,93,2.58,0.94
+PLA Bioplastic,7,18,7,88,2.67,0.98
+Biodegradable Plastic,6,18,7,63,4.13,0.69
+Recycled Cardboard,6,6,5,73,2.12,0.86
+Paper Foam,8,19,8,64,2.15,1.13
+Seaweed Packaging,7,15,6,84,3.82,1.18
+Mycelium Packaging,8,3,5,98,3.93,0.58
+Kraft Paper,6,14,9,67,4,0.55
+Biodegradable Plastic,5,6,8,74,3.12,0.94
+Seaweed Packaging,6,13,9,78,4.42,0.73
+Kraft Paper,8,7,9,70,3.6,0.42
+Bagasse Fiber,7,4,5,79,2.32,0.68
+Seaweed Packaging,7,19,8,95,4.39,1.05
+Bamboo Fiber Packaging,8,10,9,77,4.86,1.04
+Recycled PET,7,8,8,73,2.18,0.8
+Paper Foam,9,11,7,97,3.17,0.78
+Biodegradable Plastic,5,15,9,84,3.46,0.86
+Honeycomb Paperboard,5,13,9,75,2.44,0.58
+Recycled PET,5,18,8,77,4.6,0.82
+Corrugated Board,7,18,7,60,2.85,0.41
+Corrugated Board,7,4,9,99,4.35,0.78
+Biodegradable Plastic,6,12,5,60,4.01,0.67
+Seaweed Packaging,6,14,8,60,3.79,0.94
+Kraft Paper,5,10,8,80,2.58,0.91
+Paper Foam,9,13,9,84,2.66,0.7
+PLA Bioplastic,6,12,7,86,2.14,0.41
+Corrugated Board,6,15,9,69,2.72,0.6
+Paper Foam,7,19,6,71,3.04,0.91
+Corrugated Board,9,9,9,87,4.5,0.46
+Bagasse Fiber,5,5,6,91,3.1,0.49
+Kraft Paper,6,15,5,92,4.26,0.92
+Bagasse Fiber,9,9,8,67,3.32,1
+Mycelium Packaging,9,11,8,85,4.35,0.66
+Corrugated Board,5,15,7,61,4.93,0.79
+Honeycomb Paperboard,9,10,9,94,2.72,1.16
+Honeycomb Paperboard,9,4,5,93,4.59,1.16
+Bagasse Fiber,9,13,6,65,3.87,0.65
+Bamboo Fiber Packaging,6,3,7,90,4.45,1.05
+Recycled PET,5,16,5,82,3.95,0.88
+Honeycomb Paperboard,9,18,5,71,3.27,1.18
+Corrugated Board,9,13,6,87,2.68,0.78
+Biodegradable Plastic,6,3,6,74,2.21,1.02
+Bagasse Fiber,5,9,8,78,3.61,1.01
+Mycelium Packaging,7,18,9,71,4.97,0.8
+PLA Bioplastic,6,16,7,61,4.21,1.04
+PLA Bioplastic,5,17,9,70,2.98,0.61
+Molded Pulp,9,16,7,96,4.48,0.5
+Recycled PET,5,13,5,97,4.31,0.74
+Seaweed Packaging,5,18,6,84,2.84,1.15
+Kraft Paper,5,19,6,80,2.04,0.8
+Honeycomb Paperboard,7,8,5,95,2.35,0.91
+Honeycomb Paperboard,5,13,5,68,4.63,0.9
+Seaweed Packaging,7,19,7,71,4.51,0.51
+Recycled Cardboard,9,11,5,69,2.89,0.71
+Mycelium Packaging,7,19,7,64,2.86,0.97
+Recycled Paper Wrap,9,14,9,92,4.38,1.18
+Bagasse Fiber,9,7,6,64,4.81,0.53
+Bamboo Fiber Packaging,7,13,6,75,4.34,0.73
+Mycelium Packaging,6,6,6,96,3.82,0.48
+Cornstarch Packaging,8,6,9,96,2.73,0.59
+Honeycomb Paperboard,5,5,9,88,3.58,0.7
+Kraft Paper,8,19,8,77,2.7,0.83
+Molded Pulp,5,9,7,88,4.42,0.58
+PLA Bioplastic,5,6,7,65,3.16,0.58
+Honeycomb Paperboard,9,15,8,77,4.5,1.02
+Molded Pulp,5,14,6,91,3.14,1.17
+Corrugated Board,5,3,7,90,4.47,0.66
+Mycelium Packaging,7,13,7,70,3,0.95
+Corrugated Board,8,5,6,85,3.32,0.61
+Recycled Paper Wrap,7,19,5,87,3.85,1.14
+Biodegradable Plastic,5,14,5,86,2.21,0.94
+Cornstarch Packaging,9,12,8,78,4.84,1.04
+Mycelium Packaging,7,10,9,86,3.72,0.44
+Recycled Cardboard,7,17,7,79,3.52,0.88
+Recycled Paper Wrap,6,7,7,62,4.52,0.82
+Paper Foam,5,6,8,75,4.6,0.63
+Recycled Cardboard,9,6,8,98,3.57,0.61
+Recycled PET,7,17,7,88,4.78,0.86
+Bagasse Fiber,7,19,6,74,2.19,0.97
+Kraft Paper,9,14,6,89,2.34,0.43
+Mycelium Packaging,5,5,9,99,3.79,0.85
+Paper Foam,6,12,7,60,3.06,0.54
+Paper Foam,7,17,7,88,3.39,0.51
+Recycled Paper Wrap,6,12,7,89,2.98,0.9
+Seaweed Packaging,8,3,7,99,3.21,0.65
+Recycled PET,5,5,8,91,4.47,0.75
+Biodegradable Plastic,8,14,5,69,3.78,0.69
+Mycelium Packaging,8,3,7,86,4.99,0.92
+Seaweed Packaging,8,5,5,67,4.36,0.78
+Recycled Paper Wrap,5,5,6,95,2.82,1.17
+Bagasse Fiber,5,7,9,94,2.79,0.68
+PLA Bioplastic,9,3,6,95,3.01,0.99
+Honeycomb Paperboard,6,6,7,95,4.53,0.61
+Honeycomb Paperboard,6,6,6,84,2.08,0.81
+Biodegradable Plastic,9,19,8,79,2.69,0.84
+Bagasse Fiber,9,16,5,76,4.71,0.66
+Bamboo Fiber Packaging,8,3,7,82,3.92,0.78
+Biodegradable Plastic,9,18,8,84,2.68,0.62
+Mycelium Packaging,7,5,5,90,2.66,0.4
+Mycelium Packaging,6,11,8,65,4.59,0.57
+Molded Pulp,9,6,6,94,4.68,0.96
+Seaweed Packaging,7,7,7,63,2.77,1.02
+Bamboo Fiber Packaging,7,13,6,99,3.26,0.62
+Honeycomb Paperboard,7,11,9,79,4.5,0.73
+Paper Foam,7,5,7,60,4.31,0.43
+Seaweed Packaging,8,8,6,85,4.44,0.59
+Cornstarch Packaging,7,13,7,93,3.56,1.02
+Mycelium Packaging,8,11,5,69,4.73,0.88
+Recycled PET,8,17,7,82,2.98,0.56
+Kraft Paper,7,5,7,83,2.47,0.61
+Bagasse Fiber,6,3,5,72,4.13,1.05
+Recycled Cardboard,7,16,6,88,3.62,0.57
+Biodegradable Plastic,7,19,7,86,4.56,0.67
+Mycelium Packaging,7,16,8,90,2.24,0.93
+Seaweed Packaging,6,19,7,69,4.53,0.85
+Bamboo Fiber Packaging,5,16,6,90,2.88,0.77
+Kraft Paper,5,14,5,98,3.96,1.12
+Recycled PET,8,18,6,69,2.12,0.58
+Seaweed Packaging,8,3,9,83,3.83,0.99
+Recycled Cardboard,6,15,7,92,4.15,0.53
+Kraft Paper,9,8,7,73,3.11,0.89
+Cornstarch Packaging,5,19,5,94,2.65,1.1
+Recycled Cardboard,8,14,7,93,3.61,0.77
+Recycled Paper Wrap,5,8,8,76,4.5,0.98
+Corrugated Board,6,9,8,80,2.97,1.06
+Recycled Paper Wrap,6,3,6,91,2.76,0.51
+Honeycomb Paperboard,9,3,5,62,2.84,0.96
+Seaweed Packaging,9,7,9,74,4.85,1.14
+Mycelium Packaging,6,8,6,67,3.08,0.86
+Mycelium Packaging,8,18,5,91,2.01,0.55
+Mycelium Packaging,5,18,5,97,4.35,0.5
+Recycled PET,7,16,6,85,4.1,0.61
+Corrugated Board,9,3,6,89,2.39,0.48
+Recycled Paper Wrap,7,15,7,68,4.95,0.81
+Corrugated Board,8,12,9,91,3.82,0.46
+PLA Bioplastic,9,12,8,70,3.5,0.58
+Seaweed Packaging,7,11,7,81,3.15,0.75
+Corrugated Board,8,15,5,93,4.7,0.78
+Paper Foam,5,5,9,77,2.73,0.85
+Biodegradable Plastic,8,4,9,78,2.86,0.96
+Biodegradable Plastic,9,19,6,77,2.37,0.44
+Paper Foam,6,15,9,96,4.28,0.46
+Kraft Paper,5,15,9,77,3.79,0.45
+Molded Pulp,7,3,5,71,3.83,0.74
+Recycled PET,9,4,7,63,2.66,0.43
+Kraft Paper,6,3,9,86,3.95,1
+Recycled Cardboard,8,7,6,64,4.3,0.58
+Bamboo Fiber Packaging,6,5,7,65,3.07,1.15
+Recycled PET,9,9,6,72,4.4,0.79
+Recycled PET,9,15,9,82,3.05,0.76
+Recycled Cardboard,6,9,7,84,4.27,1.02
+Corrugated Board,8,3,9,63,2.1,0.97
+Recycled Paper Wrap,6,7,5,91,3.65,0.89
+Recycled Paper Wrap,9,19,7,74,4.91,1.15
+Biodegradable Plastic,9,10,6,85,4.94,0.74
+Bagasse Fiber,7,17,5,70,2.85,1.05
+Kraft Paper,7,6,8,68,3.32,0.7
+PLA Bioplastic,5,4,6,70,2.19,1.07
+Seaweed Packaging,9,7,9,61,4.62,0.61
+Honeycomb Paperboard,7,3,6,86,3.71,0.63
+Cornstarch Packaging,6,7,8,85,3.16,0.94
+Recycled Paper Wrap,8,8,6,67,2.34,0.57
+Seaweed Packaging,6,4,5,80,4.84,0.58
+Cornstarch Packaging,8,3,6,80,3.59,0.64
+Seaweed Packaging,7,6,7,67,2.85,0.94
+Corrugated Board,5,9,8,60,3.05,1.11
+Cornstarch Packaging,6,3,6,97,2.81,0.94
+Honeycomb Paperboard,6,3,8,72,3.81,1.06
+Seaweed Packaging,6,10,5,68,4.79,0.83
+Paper Foam,8,18,7,87,4.57,0.46
+Honeycomb Paperboard,7,15,9,65,3.38,0.48
+Cornstarch Packaging,6,12,6,82,4.48,0.84
+Honeycomb Paperboard,6,14,5,95,3.27,0.66
+Seaweed Packaging,5,3,8,76,2.76,0.58
+Molded Pulp,5,12,8,68,4.95,0.77
+Seaweed Packaging,7,11,5,71,2.91,0.93
+Seaweed Packaging,7,5,6,81,2.97,0.71
+Corrugated Board,9,11,9,71,4.97,1.04
+Kraft Paper,5,12,6,65,2.4,0.99
+Paper Foam,9,18,7,68,4.28,0.99
+PLA Bioplastic,8,16,6,96,4.81,1.19
+Recycled Paper Wrap,9,5,7,62,3.54,0.64
+Recycled PET,6,4,8,93,2.01,0.92
+Recycled Cardboard,9,3,7,67,3.13,1.08
+Kraft Paper,7,11,9,69,2.33,0.86
+Recycled Cardboard,8,15,5,68,3.25,1.03
+Corrugated Board,6,4,7,73,4.37,0.73
+Paper Foam,9,9,6,96,3.32,0.87
+Mycelium Packaging,8,18,7,86,3.3,0.44
+Seaweed Packaging,8,17,8,91,3.67,1.19
+Mycelium Packaging,6,13,7,63,3.75,1.04
+Mycelium Packaging,9,3,9,61,4.57,1.1
+Bamboo Fiber Packaging,8,9,7,92,2.93,0.96
+Biodegradable Plastic,8,10,9,80,4.47,0.55
+Mycelium Packaging,5,12,6,60,3.7,0.42
+Recycled Paper Wrap,8,7,8,70,2.9,1.09
+Molded Pulp,5,11,5,60,2.89,0.72
+Biodegradable Plastic,9,3,6,70,3.08,0.61
+Corrugated Board,9,4,6,66,3.87,0.85
+Recycled PET,9,16,5,61,2.69,0.74
+Kraft Paper,7,12,7,74,4.76,0.92
+Molded Pulp,9,11,7,67,3.72,0.79
+Honeycomb Paperboard,8,12,7,85,4.76,0.96
+Cornstarch Packaging,6,8,8,99,2.14,1.08
+Bamboo Fiber Packaging,5,19,6,94,3.03,0.56
+Molded Pulp,7,8,9,80,2.07,0.66
+PLA Bioplastic,9,6,5,97,2.82,0.75
+Mycelium Packaging,9,5,6,67,4.59,1.17
+Corrugated Board,6,6,7,91,2.11,0.69
+Bagasse Fiber,6,10,5,67,3.31,0.7
+Cornstarch Packaging,7,19,9,69,2.35,0.92
+Recycled Cardboard,5,7,6,82,3.25,0.74
+Recycled Paper Wrap,9,15,6,63,4.52,1.16
+Recycled Cardboard,7,3,8,97,3.87,1.12
+Molded Pulp,8,15,6,89,4.21,0.81
+Recycled PET,8,6,6,82,3.05,0.92
+Recycled Cardboard,7,16,9,64,4.83,0.45
+PLA Bioplastic,9,5,9,80,4.13,0.96
+Corrugated Board,7,7,5,65,3.27,0.97
+Honeycomb Paperboard,9,9,7,76,3.28,0.69
+Recycled PET,6,3,9,84,4.76,0.58
+Kraft Paper,7,14,5,83,3.73,1.13
+Recycled Paper Wrap,9,13,6,81,4.12,0.74
+PLA Bioplastic,7,10,5,72,3.25,0.92
+PLA Bioplastic,7,8,5,76,2.67,0.43
+Recycled Cardboard,9,4,5,73,4.17,0.73
+Mycelium Packaging,9,16,5,93,3.82,1.05
+Recycled Cardboard,5,3,9,85,3.5,0.71
+Molded Pulp,7,12,7,78,3.87,0.88
+Kraft Paper,8,18,5,85,2.62,0.57
+Biodegradable Plastic,7,6,8,62,4.38,0.73
+Recycled PET,7,13,6,61,4.84,1.14
+Recycled Cardboard,9,18,6,87,4.67,0.85
+Corrugated Board,7,3,6,61,2.96,1.12
+Bagasse Fiber,7,18,6,81,3.22,1.12
+Recycled Paper Wrap,8,11,6,66,4.43,1.16
+Seaweed Packaging,9,11,5,63,3.79,1.12
+Recycled Cardboard,7,11,7,97,3.64,0.4
+Corrugated Board,6,19,8,98,4.78,1.15
+Recycled PET,5,14,9,79,3.61,0.51
+Corrugated Board,8,15,8,65,3.54,0.43
+Recycled Paper Wrap,7,10,9,68,2.13,0.44
+Biodegradable Plastic,6,18,9,90,2.21,0.68
+Corrugated Board,7,3,8,85,2.02,0.9
+Bagasse Fiber,7,3,5,95,4.74,0.72
+Corrugated Board,9,14,6,85,3.23,0.42
+Corrugated Board,9,8,5,87,3.41,0.78
+Corrugated Board,9,11,6,64,4.54,0.75
+Honeycomb Paperboard,6,7,7,69,3.83,1.01
+Honeycomb Paperboard,7,18,9,77,3.83,0.62
+Biodegradable Plastic,5,19,8,74,2.89,0.57
+Recycled Cardboard,8,3,7,92,4.5,0.6
+Corrugated Board,9,10,6,64,2.5,0.64
+Bamboo Fiber Packaging,9,5,5,96,2.16,0.88
+Kraft Paper,7,7,8,99,2.57,0.78
+Bamboo Fiber Packaging,7,10,9,81,2.8,0.67
+Recycled Cardboard,6,3,7,81,2.85,0.7
+Biodegradable Plastic,6,17,9,81,4.01,0.7
+Mycelium Packaging,9,9,6,74,2.65,1.18
+Mycelium Packaging,7,18,9,76,4.03,0.59
+Paper Foam,5,18,5,87,2.27,1.05
+Bamboo Fiber Packaging,8,17,7,81,2.44,0.97
+Recycled Cardboard,7,8,7,80,3.53,0.4
+Recycled Cardboard,7,11,5,76,4.77,1.19
+Cornstarch Packaging,6,9,9,64,4.58,1.01
+Molded Pulp,8,16,5,77,4.91,0.95
+Seaweed Packaging,9,13,8,76,3.95,0.72
+Recycled PET,7,18,5,63,4.03,0.84
+Cornstarch Packaging,9,8,9,66,3.88,0.6
+Bagasse Fiber,7,18,5,84,3.87,0.43
+Honeycomb Paperboard,9,18,6,96,2.44,1.07
+Honeycomb Paperboard,8,14,5,99,3.63,1.12
+Molded Pulp,6,19,5,99,3.16,0.53
+Recycled Paper Wrap,8,7,9,68,3.33,1.03
+Recycled Paper Wrap,5,15,8,78,3.57,0.99
+Biodegradable Plastic,6,10,8,68,2.39,0.54
+PLA Bioplastic,8,7,9,82,3.08,0.74
+Molded Pulp,5,14,9,90,2.19,0.74
+Seaweed Packaging,7,11,9,91,4.94,1.01
+Recycled Cardboard,7,5,6,90,2.36,1.07
+Recycled Paper Wrap,9,5,7,76,2.78,0.48
+Seaweed Packaging,6,3,5,98,4.67,0.85
+Corrugated Board,7,14,9,81,3.45,1.01
+Bamboo Fiber Packaging,6,11,9,94,2.41,1.03
+Bamboo Fiber Packaging,7,11,9,89,3.15,0.52
+PLA Bioplastic,9,9,8,99,2.35,0.82
+Kraft Paper,8,6,9,96,2.6,1.09
+Recycled Cardboard,9,15,5,85,2.16,0.65
+Recycled PET,5,19,9,65,3.31,0.74
+Recycled PET,7,4,5,93,4.42,1.04
+Bagasse Fiber,5,16,6,91,3.76,0.47
+Recycled PET,5,5,7,84,3.82,1.09
+Corrugated Board,6,7,8,72,2.6,0.65
+Corrugated Board,7,16,5,97,3.03,0.4
+Bamboo Fiber Packaging,5,5,6,97,4.54,0.59
+Molded Pulp,8,9,7,61,2.26,0.47
+PLA Bioplastic,5,15,7,64,4.57,0.47
+Biodegradable Plastic,8,12,7,70,3.45,0.95
+Bagasse Fiber,6,15,5,70,4.51,0.57
+Recycled Paper Wrap,5,18,6,83,2.95,1.15
+Seaweed Packaging,9,11,9,73,3.02,0.81
+Molded Pulp,6,4,6,89,4.25,0.77
+Recycled Paper Wrap,8,7,6,99,4.35,0.75
+Molded Pulp,6,19,6,94,2.69,0.95
+Molded Pulp,5,6,5,80,4.92,0.76
+Molded Pulp,7,19,5,64,2.25,0.5
+Bamboo Fiber Packaging,7,11,5,97,2.21,1.1
+Recycled PET,8,4,6,61,3.79,0.74
+PLA Bioplastic,8,13,5,99,4.17,0.46
+Biodegradable Plastic,7,15,7,96,4.88,0.82
+Recycled PET,8,10,5,93,3.21,0.92
+Molded Pulp,6,3,8,70,2.08,0.62
+Paper Foam,9,19,5,95,3.81,1.04
+Kraft Paper,9,14,5,70,2.87,0.94
+Recycled Paper Wrap,6,6,5,68,3.3,0.92
+Recycled Cardboard,9,15,5,65,3.47,0.74
+Cornstarch Packaging,5,11,8,93,2.19,1.17
+Recycled PET,6,9,9,96,3.46,0.62
+Seaweed Packaging,8,7,5,91,3.28,0.86
+Bamboo Fiber Packaging,6,7,7,71,4.14,0.65
+Bagasse Fiber,7,19,8,91,3.94,1
+Honeycomb Paperboard,8,11,9,76,2.56,0.44
+Biodegradable Plastic,7,8,5,63,2.62,0.44
+Recycled Cardboard,8,18,9,92,2.75,1.05
+Corrugated Board,9,4,7,68,2.54,0.75
+Mycelium Packaging,6,12,8,93,3.97,0.67
+Paper Foam,5,18,8,98,4.98,0.89
+Honeycomb Paperboard,8,7,9,89,3.96,0.96
+Cornstarch Packaging,8,17,5,79,3.82,0.56
+Recycled Cardboard,7,15,6,98,3.23,0.55
+Honeycomb Paperboard,9,15,8,82,2.94,1.17
+Recycled Cardboard,7,15,6,94,4.73,0.87
+Seaweed Packaging,7,17,8,82,4.91,0.71
+Paper Foam,9,16,5,98,3.49,1.04
+Cornstarch Packaging,5,10,5,82,2.87,0.82
+Corrugated Board,7,13,8,96,4.31,0.59
+Molded Pulp,7,6,9,82,2.4,0.57
+Recycled Paper Wrap,8,12,5,98,4.3,0.72
+Corrugated Board,9,3,5,87,4.46,1.09
+Molded Pulp,6,7,7,78,2.37,0.45
+Mycelium Packaging,5,15,5,89,4.93,0.57
+Bamboo Fiber Packaging,5,3,7,80,4.96,1.11
+PLA Bioplastic,9,10,5,83,4.81,0.5
+PLA Bioplastic,8,5,5,80,3.49,0.9
+PLA Bioplastic,8,5,9,85,2.74,0.57
+Biodegradable Plastic,9,9,9,95,3.75,0.88
+Recycled PET,8,6,5,85,3.26,0.71
+Kraft Paper,5,5,8,92,2.62,0.48
+Bagasse Fiber,5,17,8,95,3.27,0.87
+Bagasse Fiber,6,10,5,63,3.99,0.95
+Recycled PET,9,5,8,68,2.21,0.94
+PLA Bioplastic,7,9,5,67,3,0.91
+Recycled Paper Wrap,7,13,9,61,2.05,0.8
+Cornstarch Packaging,6,13,6,88,4.25,0.82
+Paper Foam,6,19,7,82,3.92,0.91
+Cornstarch Packaging,8,8,8,65,2.19,0.95
+Paper Foam,6,10,8,95,4.89,0.92
+Cornstarch Packaging,6,3,9,80,2.07,0.87
+Kraft Paper,7,12,8,81,3.77,0.52
+Biodegradable Plastic,8,5,5,68,4.33,0.57
+Biodegradable Plastic,6,6,5,93,4.36,0.61
+PLA Bioplastic,6,13,6,85,2.1,1.14
+Mycelium Packaging,8,17,6,60,4.72,1.01
+Molded Pulp,9,3,6,95,4.76,0.84
+Mycelium Packaging,8,11,5,64,3.68,0.6
+Honeycomb Paperboard,7,13,6,81,3.45,0.49
+Biodegradable Plastic,9,15,6,63,2.13,1.12
+Biodegradable Plastic,5,18,5,61,3.69,1.11
+Corrugated Board,8,6,9,75,3.23,0.49
+Corrugated Board,7,3,8,75,4.32,1.04
+Molded Pulp,9,15,7,81,3.21,0.76
+Seaweed Packaging,8,3,5,60,4.05,0.66
+Honeycomb Paperboard,6,7,5,74,2.3,0.99
+Mycelium Packaging,8,7,7,83,2.4,0.89
+Recycled Paper Wrap,5,16,7,63,2.42,1.02
+Corrugated Board,8,16,6,77,2.14,0.46
+Recycled Paper Wrap,9,10,7,76,3.62,0.65
+Recycled Cardboard,9,6,8,66,4.38,0.66
+Corrugated Board,8,9,8,69,3.83,0.66
+Kraft Paper,9,17,8,60,3.72,0.8
+Seaweed Packaging,6,6,8,61,4.04,0.63
+Honeycomb Paperboard,8,11,8,81,3.02,0.76
+Bamboo Fiber Packaging,6,15,6,91,3.09,0.69
+Molded Pulp,6,16,5,88,2.94,0.99
+Recycled Cardboard,7,16,7,94,4.14,0.88
+Bamboo Fiber Packaging,8,12,5,76,2.48,0.92
+Honeycomb Paperboard,9,18,7,71,2.04,0.57
+Mycelium Packaging,6,7,6,83,3.79,0.66
+PLA Bioplastic,7,8,6,89,4.83,0.42
+Kraft Paper,8,4,9,89,3.83,0.49
+Honeycomb Paperboard,8,15,9,79,4.35,0.61
+Kraft Paper,5,15,6,66,4.02,0.45
+Recycled PET,5,3,6,97,3.49,0.88
+Kraft Paper,6,10,7,66,4.16,1.2
+Recycled Paper Wrap,5,18,6,89,4.47,0.48
+Recycled PET,6,4,5,71,2.67,1.06
+Cornstarch Packaging,9,10,7,90,3.01,0.5
+Bamboo Fiber Packaging,6,8,6,77,2.67,0.94
+PLA Bioplastic,5,18,7,61,3.36,0.91
+Recycled PET,9,13,7,92,4.66,1.12
+Mycelium Packaging,5,19,8,70,3.04,0.49
+Recycled Cardboard,6,13,9,93,3.12,0.65
+Honeycomb Paperboard,7,10,7,75,4.58,0.47
+Paper Foam,8,6,7,94,3.55,0.73
+Recycled Cardboard,5,13,8,92,3.61,1.13
+Cornstarch Packaging,6,10,6,80,4.58,1.03
+Recycled Cardboard,9,11,7,79,3.47,0.98
+Biodegradable Plastic,5,4,8,67,4.04,0.83
+Mycelium Packaging,5,18,5,85,2.26,1.11
+Paper Foam,8,8,8,92,2.54,0.76
+Recycled PET,6,10,9,85,3.21,0.52
+Recycled PET,7,16,9,96,3.48,1.07
+Recycled PET,9,18,6,89,4.9,0.62
+Cornstarch Packaging,6,14,6,90,4.91,0.44
+Recycled Paper Wrap,9,7,9,92,4.55,0.5
+Bamboo Fiber Packaging,5,11,9,70,2.95,0.89
+Honeycomb Paperboard,8,4,7,64,4.89,0.89
+Seaweed Packaging,8,14,9,61,4.07,0.61
+Bagasse Fiber,7,4,6,72,3.18,0.98
+Bamboo Fiber Packaging,8,12,9,77,4.11,1.02
+Cornstarch Packaging,5,3,6,85,2.05,1.14
+Molded Pulp,7,6,5,84,2.44,0.87
+Mycelium Packaging,6,14,9,73,4.49,1.02
+Honeycomb Paperboard,8,11,6,64,3.94,1
+Bamboo Fiber Packaging,7,6,8,61,3.09,0.61
+PLA Bioplastic,5,11,7,63,3.5,0.65
+Cornstarch Packaging,9,8,6,71,4.72,0.78
+Biodegradable Plastic,9,3,9,70,3.89,0.42
+Bagasse Fiber,5,12,9,63,3.19,0.64
+Biodegradable Plastic,5,16,5,68,2.36,0.78
+Recycled PET,9,8,8,69,2.88,0.49
+Bagasse Fiber,7,18,6,86,4.94,0.5
+Bamboo Fiber Packaging,9,17,8,65,3.31,0.77
+PLA Bioplastic,5,18,5,74,3.42,0.98
+Recycled PET,8,10,7,90,3.5,1.07
+Seaweed Packaging,6,15,8,81,4.65,0.84
+Mycelium Packaging,8,13,5,65,3.81,0.78
+Molded Pulp,8,9,6,92,4.08,0.71
+Honeycomb Paperboard,5,19,7,88,3.17,0.55
+Recycled Paper Wrap,9,15,9,80,2.09,0.52
+Biodegradable Plastic,7,17,5,89,4.79,1.03
+Biodegradable Plastic,8,3,9,80,4.85,0.77
+Recycled PET,9,18,7,95,4.85,1.03
+Kraft Paper,7,7,5,81,4.83,0.96
+Bagasse Fiber,8,5,5,79,4.45,0.56
+Corrugated Board,7,12,7,81,4.05,0.81
+Seaweed Packaging,9,7,6,99,4.53,0.76
+Honeycomb Paperboard,6,9,5,70,3.8,0.74
+Bagasse Fiber,9,16,7,90,2.4,0.83
+Kraft Paper,5,5,8,99,3.17,1.19
+Recycled Cardboard,7,15,9,72,4.91,1.05
+Bagasse Fiber,6,15,5,77,3.05,1.12
+Recycled Paper Wrap,7,12,8,81,4.6,0.42
+Honeycomb Paperboard,7,4,5,76,2.28,0.51
+Bamboo Fiber Packaging,8,8,6,97,3,0.47
+Seaweed Packaging,5,10,7,84,3.05,0.61
+Kraft Paper,7,6,5,91,2.15,0.75
+Recycled Cardboard,9,14,7,74,2.36,0.91
+Mycelium Packaging,9,17,5,72,2.58,0.8
+Paper Foam,8,10,6,85,4.51,1.12
+Kraft Paper,5,9,6,70,2.19,1.15
+Paper Foam,5,16,8,72,2.9,0.53
+Honeycomb Paperboard,9,16,6,92,2.03,1.08
+Biodegradable Plastic,6,15,7,96,4.09,0.79
+Kraft Paper,8,3,6,97,3.86,0.76
+Mycelium Packaging,8,3,5,60,3.93,1.03
+Molded Pulp,9,6,6,98,3.12,0.47
+Recycled PET,9,12,7,86,2.62,1.11
+Paper Foam,6,5,5,95,4.16,0.94
+Recycled PET,6,11,8,91,4.43,1.1
+Recycled Paper Wrap,5,5,8,74,2.42,1.2
+Molded Pulp,8,8,8,90,3.46,0.81
+Recycled PET,8,8,5,65,2.75,0.47
+Cornstarch Packaging,9,14,8,84,2.5,0.53
+Cornstarch Packaging,5,3,6,77,4.2,0.66
+Recycled Cardboard,8,18,5,81,3.61,0.48
+Seaweed Packaging,5,7,5,90,2.65,1.05
+Biodegradable Plastic,5,11,5,95,2.93,0.64
+Honeycomb Paperboard,9,12,9,68,4.9,1.18
+Kraft Paper,5,15,7,62,4.55,0.96
+Corrugated Board,6,17,9,92,4.64,0.54
+Recycled Paper Wrap,6,14,9,86,3.38,0.78
+Paper Foam,7,7,9,60,3.87,0.77
+Honeycomb Paperboard,9,7,7,68,3.13,0.79
+Molded Pulp,7,14,9,64,2.23,0.83
+PLA Bioplastic,6,5,8,74,3.2,0.42
+Cornstarch Packaging,7,9,5,68,3.78,0.95
+PLA Bioplastic,9,19,5,87,2.86,0.79
+Mycelium Packaging,9,3,6,72,4.54,1.03
+Recycled Paper Wrap,5,7,8,83,2.45,1.05
+Corrugated Board,8,4,7,69,3.1,0.58
+Kraft Paper,5,3,5,81,2.37,0.44
+Recycled Cardboard,9,9,9,98,3.21,0.96
+Corrugated Board,6,13,6,81,2.12,1.18
+Recycled Paper Wrap,6,13,6,96,2.82,0.76
+Corrugated Board,5,19,5,98,3.2,0.61
+Recycled Paper Wrap,9,4,8,79,3.43,0.53
+Recycled Paper Wrap,6,9,6,69,3.63,0.63
+Bagasse Fiber,9,9,5,69,2.82,0.66
+Paper Foam,6,12,8,85,3.57,0.74
+Bamboo Fiber Packaging,9,5,5,84,3.53,0.92
+PLA Bioplastic,7,14,5,87,2.95,0.62
+Bamboo Fiber Packaging,9,5,8,72,4.49,0.44
+Bamboo Fiber Packaging,9,13,8,74,3.64,0.7
+Bamboo Fiber Packaging,5,14,8,65,3,1.08
+Recycled PET,7,6,5,71,4.84,0.8
+Cornstarch Packaging,8,18,6,78,4.54,1.17
+Bagasse Fiber,5,6,7,91,4.95,0.8
+Kraft Paper,8,8,7,70,4.08,0.62
+Bagasse Fiber,6,17,5,97,3.13,0.55
+Biodegradable Plastic,8,3,5,92,2.84,0.96
+Biodegradable Plastic,9,5,6,61,3.99,0.83
+Recycled PET,8,7,8,74,4.94,0.88
+Cornstarch Packaging,5,19,5,95,3.88,1
+Corrugated Board,5,16,9,64,4.64,0.98
+Paper Foam,8,11,8,74,2.99,0.43
+Cornstarch Packaging,5,5,5,69,3.22,1.04
+Recycled PET,5,15,9,76,4.72,0.83
+Recycled Paper Wrap,8,5,6,93,4.27,0.71
+Molded Pulp,7,13,9,83,4.94,0.83
+Paper Foam,7,4,5,69,4.32,0.89
+Seaweed Packaging,6,17,7,89,3.35,0.52
+PLA Bioplastic,5,15,5,62,3.59,0.73
+Paper Foam,8,18,7,96,4.7,0.67
+Recycled PET,5,9,6,62,3.65,0.68
+Recycled Paper Wrap,9,15,6,99,2.77,0.47
+Recycled Paper Wrap,5,6,8,64,3.31,0.53
+Recycled Cardboard,5,11,8,87,3.55,0.53
+Bamboo Fiber Packaging,7,12,7,73,2.29,0.7
+Cornstarch Packaging,8,11,7,98,4.23,1.12
+Recycled Paper Wrap,5,9,6,70,2.33,0.56
+Biodegradable Plastic,7,17,9,67,3.21,0.73
+Bamboo Fiber Packaging,6,10,7,96,4.41,0.65
+Kraft Paper,7,13,7,67,3.4,1.03
+Molded Pulp,7,7,9,71,4.53,0.44
+Recycled PET,7,4,8,74,3.03,0.56
+PLA Bioplastic,5,12,8,78,4.87,0.57
+Cornstarch Packaging,5,18,7,87,2.63,1.19
+Honeycomb Paperboard,6,15,8,66,2.11,0.86
+Biodegradable Plastic,9,10,8,99,4.62,0.51
+Mycelium Packaging,9,11,8,66,4.26,0.62
+Seaweed Packaging,9,13,6,89,2.7,0.53
+Corrugated Board,6,13,5,77,4.95,0.5
+Recycled Paper Wrap,9,18,7,83,3.51,1.04
+Honeycomb Paperboard,9,12,7,65,4.85,0.8
+Recycled Paper Wrap,7,14,6,63,3.52,0.9
+Paper Foam,5,8,5,62,3.42,0.67
+Biodegradable Plastic,5,14,5,65,3.35,0.84
+Paper Foam,7,12,6,85,3,0.61
+Recycled Cardboard,7,6,9,97,3.6,0.65
+Paper Foam,7,11,9,70,3.36,0.92
+Recycled Cardboard,5,9,5,88,2.11,0.52
+Seaweed Packaging,9,10,9,79,2.78,0.89
+Recycled PET,7,13,9,69,2.64,1.08
+Recycled Cardboard,6,9,9,85,4.6,0.5
+Honeycomb Paperboard,7,11,5,86,3.8,1.12
+Bamboo Fiber Packaging,8,10,9,73,4.29,0.46
+Recycled Paper Wrap,7,5,7,95,4.87,0.68
+Corrugated Board,5,19,5,71,3.93,0.89
+Bamboo Fiber Packaging,7,4,6,82,4.95,0.85
+PLA Bioplastic,8,17,9,80,2.94,0.48
+Recycled PET,6,16,8,67,2.56,1.04
+Paper Foam,9,18,5,98,3.21,1.18
+Mycelium Packaging,7,6,6,68,3.41,0.54
+PLA Bioplastic,8,8,7,83,4.69,1.12
+Biodegradable Plastic,8,8,6,90,3.68,0.85
+Recycled Cardboard,6,13,9,84,2.88,1.15
+Recycled Paper Wrap,5,19,8,76,4.23,0.54
+Molded Pulp,7,5,9,88,3.52,1.03
+Cornstarch Packaging,8,15,6,62,2.49,0.45
+Honeycomb Paperboard,6,5,5,80,3.73,1.11
+Corrugated Board,9,18,8,67,4.73,0.94
+Bagasse Fiber,8,17,8,73,4.53,0.7
+Honeycomb Paperboard,6,13,6,98,3.76,0.55
+Seaweed Packaging,5,17,9,75,3.13,1.05
+Molded Pulp,5,7,6,77,2.26,0.88
+Mycelium Packaging,8,18,8,90,3.41,0.69
+Cornstarch Packaging,8,18,6,70,4.26,0.76
+Molded Pulp,7,19,8,97,3.08,1.06
+Paper Foam,6,11,9,79,2.71,0.67
+Recycled Cardboard,8,5,5,63,4.79,0.47
+Recycled PET,7,15,5,79,4.46,1.13
+Corrugated Board,7,5,6,90,3.91,0.71
+Kraft Paper,8,9,8,79,2.41,0.68
+Recycled Cardboard,5,8,5,70,2.43,0.56
+Kraft Paper,6,11,8,60,2.31,1.12
+PLA Bioplastic,6,14,9,77,3.85,0.57
+Recycled PET,5,17,6,98,2.35,0.91
+Cornstarch Packaging,8,5,8,92,4.53,1.1
+Recycled Paper Wrap,6,12,6,95,4.98,0.43
+Bagasse Fiber,8,3,8,77,3.1,1.06
+Biodegradable Plastic,8,15,8,90,3.36,0.73
+Bamboo Fiber Packaging,7,14,9,94,4.14,0.93
+Recycled PET,5,3,6,98,4.81,0.7
+Recycled Cardboard,8,18,7,97,4.68,0.96
+Corrugated Board,9,17,8,74,2.17,0.6
+Bamboo Fiber Packaging,5,18,8,65,2.51,0.42
+Seaweed Packaging,6,13,5,67,4.26,1.16
+Seaweed Packaging,7,8,6,99,4.07,0.41
+Molded Pulp,6,13,7,81,2.4,1.06
+Bamboo Fiber Packaging,6,5,9,60,3.51,0.54
+Corrugated Board,5,17,7,72,4.34,0.71
+Cornstarch Packaging,6,3,9,83,2.66,1.06
+PLA Bioplastic,8,9,7,80,4.61,0.56
+Kraft Paper,6,3,7,63,2.16,1.09
+Molded Pulp,7,19,6,66,4.35,0.8
+Seaweed Packaging,7,11,5,71,3.85,0.69
+Biodegradable Plastic,9,15,7,72,2.95,0.93
+Biodegradable Plastic,7,13,8,75,4.16,0.67
+Recycled Cardboard,6,8,8,65,4.35,0.68
+Cornstarch Packaging,7,3,8,73,4.8,0.99
+Recycled Paper Wrap,5,9,5,90,3.1,0.65
+Seaweed Packaging,7,14,7,95,4.06,0.56
+Mycelium Packaging,8,19,9,96,3.81,1.05
+Cornstarch Packaging,5,6,9,94,3.58,1.04
+PLA Bioplastic,9,5,6,69,4.67,0.8
+Kraft Paper,8,3,5,76,2.01,0.82
+Corrugated Board,6,17,7,89,2.85,0.96
+Bamboo Fiber Packaging,6,10,8,66,3.61,0.81
+Seaweed Packaging,6,3,5,77,2.53,0.73
+Bamboo Fiber Packaging,8,16,5,78,4.72,1.2
+Biodegradable Plastic,8,6,7,74,3.94,0.52
+Corrugated Board,8,7,6,98,3.43,0.87
+Corrugated Board,5,15,6,81,4.44,1.11
+Corrugated Board,5,17,6,98,3.35,0.95
+Biodegradable Plastic,6,8,8,89,3.68,1.1
+PLA Bioplastic,7,3,8,79,2.01,0.67
+Bamboo Fiber Packaging,6,15,7,91,3.1,0.62
+Honeycomb Paperboard,9,8,6,84,2.42,1.08
+Bamboo Fiber Packaging,5,17,7,82,4.07,0.72
+Paper Foam,8,18,6,64,3.44,0.97
+Kraft Paper,5,18,5,89,2.91,0.52
+Mycelium Packaging,8,12,9,98,3.4,1
+Honeycomb Paperboard,9,11,9,86,2.63,0.84
+Kraft Paper,9,11,6,96,4.78,0.61
+Molded Pulp,5,19,7,66,2.16,0.8
+Cornstarch Packaging,8,19,8,64,4.6,0.96
+Cornstarch Packaging,9,19,6,74,3.53,0.41
+Bagasse Fiber,6,14,6,67,3.86,0.91
+Cornstarch Packaging,6,15,8,68,2.91,0.83
+Bamboo Fiber Packaging,8,14,6,70,4.9,0.58
+Biodegradable Plastic,5,16,5,81,2.85,1
+Mycelium Packaging,9,12,8,93,3.77,0.64
+Recycled Paper Wrap,5,4,5,94,4.98,0.62
+Recycled Cardboard,6,6,9,72,4.64,0.78
+Bagasse Fiber,9,9,8,70,3.61,0.94
+Recycled PET,5,17,8,91,4.97,1.14
+Recycled PET,7,17,7,74,4.1,0.51
+Recycled Cardboard,8,8,7,97,2.63,0.72
+Kraft Paper,8,5,8,60,3.22,0.45
+Recycled Cardboard,7,8,9,83,3,1.01
+Recycled Cardboard,6,18,6,99,3.03,0.76
+Recycled PET,9,4,7,81,4.28,0.97
+Bagasse Fiber,8,9,9,62,3.75,0.66
+Molded Pulp,7,13,9,73,2.11,1.08
+Bamboo Fiber Packaging,7,9,7,61,4.63,0.83
+Corrugated Board,6,6,6,91,2.89,1.15
+Cornstarch Packaging,6,9,7,97,4.99,0.46
+Cornstarch Packaging,5,6,9,92,4.86,0.81
+Biodegradable Plastic,8,14,5,65,4.82,1.01
+Bagasse Fiber,5,7,7,98,4.43,0.88
+Biodegradable Plastic,7,7,9,84,2.66,0.42
+Recycled Paper Wrap,9,5,7,93,3.6,1.18
+Recycled Paper Wrap,9,13,9,70,2.67,0.64
+Biodegradable Plastic,6,9,6,96,2.78,0.6
+Bagasse Fiber,9,19,9,66,3.83,0.79
+Biodegradable Plastic,9,11,8,81,2.12,0.83
+Cornstarch Packaging,9,11,5,98,4.91,1.01
+Honeycomb Paperboard,7,12,9,69,4.76,0.71
+Paper Foam,9,15,7,80,3.14,0.75
+Recycled PET,9,17,7,65,3.55,0.83
+Recycled PET,9,7,9,60,3.4,0.72
+Mycelium Packaging,5,5,8,93,4.65,1.13
+Recycled Cardboard,7,10,9,73,4.07,1.08
+Paper Foam,6,12,6,95,2.83,0.76
+Bamboo Fiber Packaging,5,15,8,86,3.34,0.4
+Bagasse Fiber,8,5,9,68,3.29,1.12
+PLA Bioplastic,7,10,5,65,4.88,0.5
+Paper Foam,7,11,8,90,2.53,0.6
+Mycelium Packaging,8,14,9,76,2.27,0.52
+Recycled Paper Wrap,8,13,5,95,4.64,0.54
+Kraft Paper,8,4,9,80,4.69,1.04
+Recycled Cardboard,6,11,6,86,4.62,0.86
+Mycelium Packaging,9,4,7,87,3.53,1.16
+Corrugated Board,7,4,9,75,3.98,0.59
+PLA Bioplastic,9,5,8,94,3.69,0.79
+Bagasse Fiber,9,18,9,95,2.21,1.18
+Recycled Cardboard,8,6,9,94,3.79,1.06
+Bamboo Fiber Packaging,6,12,9,78,2.04,0.98
+Paper Foam,5,13,9,80,2.97,0.55
+Recycled Paper Wrap,6,19,8,92,4.8,1.02
+Molded Pulp,9,18,8,82,2.91,0.68
+Honeycomb Paperboard,6,15,9,65,4.82,0.82
+Corrugated Board,8,4,7,91,2.75,0.89
+PLA Bioplastic,5,4,9,81,2.94,0.89
+Honeycomb Paperboard,8,16,8,62,3.89,0.98
+Recycled Cardboard,5,6,6,94,4.28,0.93
+Recycled Paper Wrap,9,19,9,75,3.5,0.45
+Recycled Paper Wrap,5,15,9,84,4.65,0.77
+Mycelium Packaging,5,6,9,76,2.12,0.93
+Recycled PET,5,5,9,98,4.77,0.64
+Recycled PET,6,14,5,72,2.59,0.65
+Paper Foam,6,10,9,87,4.65,0.5
+Mycelium Packaging,9,4,8,70,3.2,0.73
+Cornstarch Packaging,5,8,8,69,4.5,1.19
+Paper Foam,7,12,5,98,4.01,0.63
+Cornstarch Packaging,9,14,9,83,2.53,0.83
+Recycled PET,5,12,7,97,4.75,0.99
+Mycelium Packaging,5,12,9,83,2.74,0.41
+Cornstarch Packaging,6,5,8,92,2.73,1.12
+Corrugated Board,9,12,6,76,4.44,0.71
+Mycelium Packaging,5,11,6,95,2.32,1.1
+Recycled PET,5,16,7,94,2.67,0.43
+Paper Foam,9,4,9,65,3.51,0.52
+Seaweed Packaging,7,7,5,75,4.49,0.66
+Mycelium Packaging,9,10,9,87,2.44,0.68
+Molded Pulp,9,9,7,91,3.64,1.08
+PLA Bioplastic,7,8,7,85,4.13,0.41
+Recycled PET,9,13,7,70,4.58,0.91
+Biodegradable Plastic,5,14,6,84,4.81,0.51
+Biodegradable Plastic,9,12,9,90,4.35,1.06
+Paper Foam,7,16,9,80,3.96,1.02
+Paper Foam,8,5,5,62,3.3,0.8
+Honeycomb Paperboard,9,17,7,71,2.34,0.57
+PLA Bioplastic,6,8,7,99,4.13,0.91
+PLA Bioplastic,5,12,8,84,4.98,0.53
+Corrugated Board,5,14,8,76,4.21,0.55
+Paper Foam,6,9,6,97,2.05,0.9
+PLA Bioplastic,6,19,9,95,3.49,1.19
+Bamboo Fiber Packaging,9,3,5,95,3.84,1.11
+Honeycomb Paperboard,6,17,5,78,4.07,0.87
+Cornstarch Packaging,8,3,7,61,4.16,0.83
+Recycled Paper Wrap,7,7,5,76,3.67,1.2
+Recycled Paper Wrap,6,17,7,89,2.67,0.84
+Cornstarch Packaging,6,5,9,69,4.83,0.74
+Bagasse Fiber,8,3,5,94,4.09,1.13
+Recycled PET,5,10,7,95,2.71,0.59
+Honeycomb Paperboard,5,14,9,92,2.97,0.48
+Bamboo Fiber Packaging,9,14,9,60,4.77,0.91
+PLA Bioplastic,8,15,7,77,4.66,0.48
+Seaweed Packaging,7,3,7,63,3.22,0.7
+Honeycomb Paperboard,7,8,6,86,2.11,0.74
+Mycelium Packaging,8,10,9,84,2.15,0.84
+Cornstarch Packaging,7,6,7,87,2.85,1.19
+Bamboo Fiber Packaging,5,7,9,81,3.89,0.58
+Molded Pulp,7,9,5,84,3.75,0.7
+Kraft Paper,7,6,8,76,3.9,0.51
+Recycled Cardboard,8,6,8,71,4.15,0.89
+Recycled PET,8,17,7,75,2.06,0.98
+Cornstarch Packaging,7,7,7,96,2.32,0.79
+Seaweed Packaging,6,11,9,75,3.08,0.6
+PLA Bioplastic,8,4,7,76,2.46,0.9
+Seaweed Packaging,9,9,9,90,2.23,0.83
+Seaweed Packaging,9,19,7,74,3.92,0.54
+Paper Foam,5,18,9,72,4.45,0.72
+Paper Foam,7,19,7,99,4.26,0.75
+Corrugated Board,6,4,6,86,4.45,1.19
+Cornstarch Packaging,5,13,9,80,4,1.08
+Corrugated Board,7,4,6,61,4.21,0.99
+Cornstarch Packaging,8,3,6,67,2.82,1.11
+Recycled PET,9,4,6,66,4.98,0.99
+Honeycomb Paperboard,6,11,6,69,2.55,1.12
+Recycled Cardboard,9,4,5,63,2.64,0.44
+Seaweed Packaging,8,17,8,95,2.87,0.76
+Recycled PET,7,12,5,94,4.93,1
+Honeycomb Paperboard,8,17,7,62,4.96,0.87
+Kraft Paper,8,12,7,77,4.38,0.54
+Recycled Paper Wrap,9,19,8,83,3.89,0.67
+Biodegradable Plastic,6,11,8,91,3.56,0.65
+Mycelium Packaging,8,6,8,93,4.91,0.61
+Bamboo Fiber Packaging,9,11,6,61,4.09,0.67
+Cornstarch Packaging,6,18,5,61,4.83,0.81
+Kraft Paper,7,6,7,69,2.95,1.08
+Recycled Paper Wrap,7,18,5,82,3,0.99
+PLA Bioplastic,5,3,5,74,4.56,1.07
+Bagasse Fiber,9,8,5,71,2.45,1.11
+Recycled Cardboard,6,12,8,76,4.84,0.73
+Bamboo Fiber Packaging,8,18,8,77,3.52,0.68
+Corrugated Board,7,6,7,73,4.78,0.45
+Corrugated Board,6,15,7,76,3.01,1.14
+Honeycomb Paperboard,9,18,7,74,4.15,0.45
+Bamboo Fiber Packaging,5,8,5,71,3.45,0.99
+Paper Foam,7,13,8,75,3.88,0.7
+Recycled Paper Wrap,6,5,6,91,3.51,1.16
+Bagasse Fiber,6,12,5,82,4.9,0.74
+Kraft Paper,6,3,9,97,4.08,1.05
+Recycled Cardboard,9,13,5,93,2.75,0.63
+Recycled PET,9,14,8,93,4.73,0.64
+Recycled Paper Wrap,9,16,9,75,2.88,0.88
+Bagasse Fiber,8,10,5,93,3.11,1.2
+Biodegradable Plastic,6,13,8,99,2.31,0.81
+Cornstarch Packaging,7,6,8,66,4.7,1.15
+Recycled PET,9,9,6,92,2.86,1.03
+Corrugated Board,9,12,5,63,2.78,1.04
+Recycled PET,6,6,8,66,4.76,0.75
+Kraft Paper,9,4,7,77,4.42,0.71
+Corrugated Board,8,16,8,63,2.42,0.55
+Kraft Paper,8,18,6,70,4.31,1.17
+Honeycomb Paperboard,9,13,8,79,4.74,1.17
+Paper Foam,6,12,5,70,2.24,1
+Kraft Paper,6,19,5,74,4.48,0.64
+Corrugated Board,6,16,9,76,3.64,0.6
+Honeycomb Paperboard,5,6,5,93,4.01,1.19
+Kraft Paper,9,4,9,71,3.48,0.45
+Biodegradable Plastic,6,9,7,87,4.09,1.07
+Recycled PET,8,11,6,94,2.1,0.68
+Paper Foam,7,18,7,67,4.29,0.74
+Kraft Paper,7,18,9,86,2.1,1.07
+Honeycomb Paperboard,6,13,8,81,3.37,0.47
+PLA Bioplastic,7,9,8,83,2.45,0.68
+Recycled Paper Wrap,7,11,7,61,4.47,1.16
+Molded Pulp,5,6,8,90,2.94,0.96
+Bagasse Fiber,8,15,9,81,3.36,1
+Molded Pulp,8,6,6,60,3.29,1.01
+PLA Bioplastic,5,4,5,73,4.32,0.45
+Molded Pulp,5,11,9,84,3.44,0.56
+PLA Bioplastic,7,14,9,95,4.37,0.79
+Recycled Cardboard,9,4,5,95,2.22,0.69
+PLA Bioplastic,7,8,5,62,2.57,0.73
+PLA Bioplastic,5,7,6,64,3.65,1.03
+Seaweed Packaging,8,7,6,60,4.84,0.41
+PLA Bioplastic,7,7,6,78,2.22,0.93
+Biodegradable Plastic,9,6,8,92,2.13,0.4
+Recycled Paper Wrap,7,11,9,89,2.47,0.45
+Cornstarch Packaging,6,12,5,71,3.92,0.73
+Kraft Paper,7,18,9,69,3.2,1.07
+Bagasse Fiber,5,12,9,93,4.48,0.52
+Paper Foam,8,12,6,75,2.22,0.84
+Recycled Paper Wrap,8,12,6,99,2.59,0.94
+Corrugated Board,5,8,9,88,2.9,0.58
+Cornstarch Packaging,6,19,6,74,3.88,0.81
+Recycled Cardboard,5,7,8,70,4.06,1.13
+Recycled Cardboard,7,8,5,93,2.37,0.81
+Mycelium Packaging,5,17,9,95,4.83,0.53
+Recycled PET,5,6,5,89,3.02,0.9
+PLA Bioplastic,6,10,8,94,4.14,0.87
+Recycled Paper Wrap,7,18,6,68,3.57,0.42
+Honeycomb Paperboard,9,5,7,77,2.67,0.47
+Seaweed Packaging,9,12,8,78,4.54,0.53
+Molded Pulp,8,4,7,98,4.45,0.51
+Corrugated Board,5,6,5,63,3.19,0.61
+Recycled Cardboard,8,8,9,65,3.77,0.76
+Bagasse Fiber,6,13,6,92,2.77,0.7
+Recycled Cardboard,9,16,8,91,4.07,1.11
+Paper Foam,5,18,6,75,2.93,0.89
+Kraft Paper,6,4,7,70,4.53,1.1
+Recycled Cardboard,6,19,7,81,2.65,0.82
+Paper Foam,5,11,9,95,2.04,0.47
+Recycled Paper Wrap,6,19,7,82,2.81,0.77
+Recycled Paper Wrap,5,17,9,85,2.57,1.06
+Seaweed Packaging,5,9,8,90,3.52,0.56
+Recycled PET,7,5,9,88,2.61,0.47
+Mycelium Packaging,8,3,7,64,4.29,0.66
+Cornstarch Packaging,6,6,5,97,2.72,0.71
+Recycled Cardboard,6,10,9,84,4.12,0.65
+Bagasse Fiber,7,8,6,93,3.74,0.51
+Recycled Cardboard,7,3,5,71,4.96,0.6
+Mycelium Packaging,7,10,9,81,5,0.95
+Bamboo Fiber Packaging,9,3,6,68,4.61,0.71
+Bagasse Fiber,9,13,5,79,4.28,0.91
+Biodegradable Plastic,9,17,9,88,3.16,0.83
+PLA Bioplastic,5,13,8,88,4.26,0.84
+Cornstarch Packaging,6,12,6,86,4.87,0.6
+Biodegradable Plastic,8,14,8,76,2.07,0.82
+Bamboo Fiber Packaging,5,3,7,64,3.61,0.42
+Bamboo Fiber Packaging,6,9,9,72,2.65,0.75
+Mycelium Packaging,6,19,9,74,3.67,0.86
+Recycled Cardboard,7,12,6,74,3.4,0.55
+Mycelium Packaging,7,8,9,77,3.73,0.61
+Mycelium Packaging,5,19,7,61,3.65,0.58
+Bamboo Fiber Packaging,7,7,9,82,4.88,0.46
+Cornstarch Packaging,6,19,5,72,3.66,0.68
+Biodegradable Plastic,7,18,8,63,4.54,1.18
+Molded Pulp,9,10,7,84,2.96,0.68
+Recycled Cardboard,7,15,7,70,3.31,0.77
+Bamboo Fiber Packaging,6,18,8,71,3.41,0.92
+Biodegradable Plastic,5,13,8,72,2.84,0.92
+Recycled PET,8,8,7,68,3.14,1.16
+Molded Pulp,7,5,8,97,3.8,1.09
+Molded Pulp,6,3,6,65,3.74,1.04
+Recycled Paper Wrap,8,7,8,69,3.91,1.16
+Seaweed Packaging,8,15,5,82,3.06,0.58
+Recycled Cardboard,9,12,5,74,2.95,0.89
+Molded Pulp,8,7,6,82,3.83,1.11
+Bamboo Fiber Packaging,6,16,8,99,2.4,0.9
+Recycled Paper Wrap,6,19,5,96,2.76,1.18
+Biodegradable Plastic,7,3,9,93,2.13,0.48
+Recycled PET,7,4,8,75,2.22,0.75
+Paper Foam,7,9,6,91,2.73,1.18
+Recycled Cardboard,8,12,8,97,2.06,0.7
+Cornstarch Packaging,8,9,7,99,2.74,0.99
+Mycelium Packaging,9,18,7,64,3.96,0.42
+Bagasse Fiber,7,7,5,76,2.18,0.96
+Bagasse Fiber,5,14,7,81,3.31,1.15
+Biodegradable Plastic,9,19,6,98,4.74,0.71
+Honeycomb Paperboard,5,18,5,77,4.37,0.42
+Honeycomb Paperboard,8,18,6,87,2.92,0.42
+Biodegradable Plastic,9,17,6,72,4.77,1.11
+Bamboo Fiber Packaging,9,14,7,60,2.99,0.98
+Molded Pulp,6,12,7,78,2.22,0.49
+Seaweed Packaging,8,4,6,93,4.98,0.44
+Recycled Cardboard,8,9,7,63,4.61,1.04
+Bagasse Fiber,9,15,7,62,3.4,1.05
+Bagasse Fiber,8,5,7,69,4,0.5
+Seaweed Packaging,9,17,8,87,4.01,0.64
+Molded Pulp,6,3,6,93,2.58,1.02
+Bagasse Fiber,9,5,9,98,2.6,0.82
+Mycelium Packaging,8,12,6,78,3.41,1.17
+Cornstarch Packaging,8,17,5,95,4.73,0.78
+Recycled Cardboard,9,8,7,62,2.03,0.94
+Kraft Paper,9,17,7,82,4.35,0.81
+Bagasse Fiber,9,9,9,76,2.17,1.15
+Biodegradable Plastic,7,7,5,66,3.43,0.72
+Cornstarch Packaging,8,6,8,85,3.91,0.58
+Bagasse Fiber,8,5,6,77,4.06,0.66
+PLA Bioplastic,7,19,8,65,2.18,1.08
+Recycled PET,9,4,5,90,3.26,0.8
+Mycelium Packaging,6,15,9,88,3.75,0.68
+Cornstarch Packaging,9,17,5,68,2.2,0.84
+Recycled Paper Wrap,9,7,9,94,2.41,0.51
+Kraft Paper,7,5,8,76,3.99,0.4
+Recycled PET,8,7,8,71,3.56,0.62
+Corrugated Board,9,7,5,95,2.49,0.88
+Biodegradable Plastic,8,7,5,83,3.61,0.97
+Biodegradable Plastic,5,5,7,69,4.74,1.06
+Recycled Cardboard,8,5,9,89,2.05,1.14
+Seaweed Packaging,6,6,7,88,3.93,0.73
+Recycled PET,6,3,6,98,2.22,0.99
+Cornstarch Packaging,9,18,6,69,2.02,0.46
+Molded Pulp,8,10,5,98,2.45,0.45
+Biodegradable Plastic,9,19,8,87,3.27,0.5
+Cornstarch Packaging,7,10,6,77,4.41,0.76
+Bamboo Fiber Packaging,6,9,6,76,2.85,0.57
+Cornstarch Packaging,9,10,7,70,3.88,0.63
+Bamboo Fiber Packaging,7,14,7,60,3.23,0.92
+PLA Bioplastic,9,18,6,76,2.7,0.69
+Paper Foam,8,14,5,95,3.54,0.85
+Paper Foam,8,12,7,95,4.39,0.73
+Corrugated Board,8,9,6,68,4.5,0.54
+Recycled Paper Wrap,8,14,8,87,4.54,0.46
+Corrugated Board,5,7,7,92,3.02,0.59
+Bamboo Fiber Packaging,7,18,6,62,4.38,0.45
+Recycled PET,7,11,9,67,2.64,0.89
+Bagasse Fiber,8,9,7,65,4.22,1.04
+Molded Pulp,5,16,9,65,4.85,0.67
+Bagasse Fiber,8,13,7,88,2.04,0.71
+Honeycomb Paperboard,5,9,7,96,3.32,1.05
+Bagasse Fiber,8,12,9,71,3.94,0.58
+Recycled Cardboard,6,11,5,68,4.11,0.5
+Bagasse Fiber,6,6,6,78,2.53,0.8
+Corrugated Board,9,18,5,76,4.92,0.92
+Biodegradable Plastic,8,12,5,91,3.85,0.88
+Mycelium Packaging,7,19,6,94,2.49,0.97
+Biodegradable Plastic,9,11,8,73,2.06,0.45
+Paper Foam,6,15,5,75,4.35,0.74
+Mycelium Packaging,8,3,5,80,2.24,0.59
+Seaweed Packaging,9,4,5,71,2.42,1.01
+Molded Pulp,8,15,8,83,3.72,1.1
+Molded Pulp,6,11,7,93,3.81,0.63
+Recycled Cardboard,9,9,9,67,4.06,0.48
+Recycled PET,6,18,9,80,3.18,0.6
+Corrugated Board,5,9,8,67,4.32,0.48
+Paper Foam,6,8,5,87,4.92,0.66
+PLA Bioplastic,8,13,9,75,2.81,0.83
+Honeycomb Paperboard,7,14,8,69,4.11,1.18
+Recycled PET,6,12,6,74,4.79,0.72
+Molded Pulp,7,15,9,63,4.06,0.58
+Biodegradable Plastic,5,14,6,85,4.04,0.53
+Bagasse Fiber,9,12,5,74,2.67,0.54
+Bagasse Fiber,9,6,9,95,3.61,0.55
+Seaweed Packaging,7,7,8,91,3.69,1.01
+Paper Foam,9,7,7,97,4.1,0.45
+Corrugated Board,6,14,9,63,4.99,1.2
+Corrugated Board,7,5,9,68,2.1,0.82
+Recycled Paper Wrap,8,10,9,94,2.2,0.84
+Bamboo Fiber Packaging,6,4,9,87,2.23,0.69
+Kraft Paper,6,11,8,96,4.23,0.95
+Molded Pulp,6,15,8,68,2.41,0.78
+Corrugated Board,8,9,7,61,3.87,0.66
+Seaweed Packaging,5,12,8,62,2.97,0.61
+Biodegradable Plastic,9,11,8,64,3.37,1.14
+Paper Foam,7,17,5,69,2.65,0.63
+Honeycomb Paperboard,5,7,5,87,4.6,0.75
+Recycled Paper Wrap,7,14,6,74,3.76,0.68
+Seaweed Packaging,9,3,7,73,4.83,0.47
+Cornstarch Packaging,8,14,5,82,3.72,0.55
+Recycled Cardboard,6,8,7,72,2.37,0.55
+Honeycomb Paperboard,6,18,7,75,2.51,0.95
+Bamboo Fiber Packaging,8,5,9,89,4.97,0.73
+Cornstarch Packaging,5,12,7,99,4.18,1.03
+PLA Bioplastic,5,15,9,67,2.15,0.97
+Bamboo Fiber Packaging,7,5,6,76,4.11,0.55
+Bagasse Fiber,8,5,6,89,3.24,0.85
+Recycled Cardboard,5,14,6,76,2.92,0.99
+Molded Pulp,8,9,9,94,2.46,0.91
+Biodegradable Plastic,9,10,9,60,4.52,0.88
+Recycled Cardboard,6,11,6,83,2.19,0.99
+Bamboo Fiber Packaging,6,16,9,84,2.87,0.45
+Kraft Paper,6,7,8,61,2.92,0.99
+Cornstarch Packaging,8,18,8,84,2.48,0.62
+Molded Pulp,8,14,9,73,3.52,0.86
+Mycelium Packaging,7,6,9,98,2.04,0.59
+Kraft Paper,6,10,5,92,2.9,1.07
+Bagasse Fiber,7,9,5,76,4.8,0.78
+Kraft Paper,6,17,7,90,2.93,0.91
+Recycled Paper Wrap,7,8,7,69,3.08,1.04
+Recycled Paper Wrap,7,7,7,65,3.42,1.12
+PLA Bioplastic,9,16,6,98,3.69,0.99
+Bamboo Fiber Packaging,7,15,8,84,4.43,0.52
+Paper Foam,8,12,6,97,2.57,1.08
+Honeycomb Paperboard,7,6,9,96,4.62,0.89
+Honeycomb Paperboard,6,10,5,89,4.27,0.89
+Mycelium Packaging,7,13,9,93,4.17,1.14
+Mycelium Packaging,5,19,9,77,2.26,0.6
+Molded Pulp,6,13,5,83,2.06,0.59
+Bagasse Fiber,5,18,9,86,3.78,0.81
+Corrugated Board,6,14,7,86,4.59,1
+PLA Bioplastic,8,15,5,98,3.75,0.76
+Recycled Paper Wrap,8,18,9,80,2.64,0.91
+Molded Pulp,8,3,7,78,2.27,0.76
+Corrugated Board,5,18,7,98,4.1,0.89
+Honeycomb Paperboard,9,17,8,82,4.17,1.06
+Paper Foam,6,8,7,98,2.52,0.54
+Kraft Paper,8,14,6,74,2.08,0.96
+Recycled Paper Wrap,6,10,5,61,3.22,1.03
+Molded Pulp,5,9,5,94,3.75,0.76
+Recycled Cardboard,9,4,5,79,4.12,0.66
+Corrugated Board,5,14,9,87,4.43,0.41
+Kraft Paper,6,16,9,74,3.83,1.04
+Recycled Paper Wrap,9,18,6,75,2.33,0.66
+Honeycomb Paperboard,9,13,7,92,4.05,0.69
+Seaweed Packaging,5,11,9,71,4.95,0.67
+Bagasse Fiber,8,12,7,98,4.72,0.8
+Corrugated Board,6,19,7,98,4.62,0.96
+Honeycomb Paperboard,7,14,9,79,2.91,1.02
+Recycled Paper Wrap,7,8,9,88,4.25,0.71
+Corrugated Board,5,13,6,62,4.55,0.93
+PLA Bioplastic,6,11,8,64,4.03,0.98
+Kraft Paper,6,8,5,61,2.75,0.64
+Recycled PET,5,18,9,82,4.86,0.48
+Recycled Paper Wrap,6,18,9,85,3.35,1.12
+PLA Bioplastic,8,8,7,85,2.39,0.94
+Cornstarch Packaging,5,7,8,66,2.33,0.92
+Molded Pulp,8,6,9,69,3.94,0.45
+Seaweed Packaging,6,4,8,64,3.31,1.05
+Mycelium Packaging,5,8,5,71,2.28,0.85
+Kraft Paper,6,11,7,91,4.22,1.08
+Corrugated Board,5,19,6,90,4.4,1.18
+Bagasse Fiber,6,16,5,81,4.18,1.17
+Honeycomb Paperboard,8,9,8,76,2.61,1.08
+Mycelium Packaging,8,3,8,79,4.07,0.41
+Recycled Cardboard,6,17,5,79,2.03,1.11
+Honeycomb Paperboard,5,5,8,67,2.92,0.46
+Corrugated Board,7,4,6,93,3.2,1.08
+Seaweed Packaging,8,12,6,82,4.51,0.62
+Bamboo Fiber Packaging,8,13,8,97,3.17,0.89
+Honeycomb Paperboard,7,5,8,87,2.03,0.43
+Bamboo Fiber Packaging,6,9,6,72,3.06,1.02
+Molded Pulp,5,10,8,88,3.5,0.49
+Seaweed Packaging,6,15,9,67,4.85,0.73
+Recycled Paper Wrap,9,15,7,70,4.82,1.05
+PLA Bioplastic,8,14,9,77,2.54,0.96
+Recycled Cardboard,9,19,8,84,2.56,0.4
+Biodegradable Plastic,8,14,8,81,2.49,0.72
+Corrugated Board,8,15,7,94,4.37,0.43
+Paper Foam,9,14,8,88,2.02,0.94
+Biodegradable Plastic,9,16,7,80,2.38,1.18
+Honeycomb Paperboard,6,9,6,66,3.61,0.92
+Mycelium Packaging,9,15,7,71,2.74,0.58
+Corrugated Board,6,8,7,95,2.28,0.68
+PLA Bioplastic,6,6,9,83,3.08,1.18
+Cornstarch Packaging,6,11,8,91,2.82,0.58
+PLA Bioplastic,8,18,6,86,3.53,0.85
+Paper Foam,8,6,5,91,4.94,0.72
+Recycled Cardboard,9,8,7,91,2.37,1.01
+PLA Bioplastic,8,10,5,91,3.12,1.09
+Bagasse Fiber,9,18,8,85,4.8,0.67
+Cornstarch Packaging,8,7,7,70,4.63,0.93
+Biodegradable Plastic,5,12,5,77,3.18,0.84
+Recycled Paper Wrap,5,15,9,98,4.1,0.62
+Molded Pulp,9,16,5,64,2.26,0.62
+Bagasse Fiber,8,9,9,75,4.14,0.83
+Recycled PET,8,8,6,70,4.92,0.52
+Cornstarch Packaging,6,9,8,94,3.61,1.05
+Recycled Paper Wrap,7,7,5,70,3.5,0.46
+Recycled Paper Wrap,9,14,7,82,2.56,0.48
+Corrugated Board,7,8,8,93,3.9,0.67
+Cornstarch Packaging,7,3,5,76,3.77,0.49
+Recycled Cardboard,9,6,7,69,3.96,0.78
+Honeycomb Paperboard,8,14,7,77,2.08,0.72
+Paper Foam,9,17,7,67,3.65,0.98
+Recycled PET,7,5,7,85,3.78,1.16
+Paper Foam,8,10,5,62,2.62,1
+Biodegradable Plastic,5,13,6,83,2.62,0.54
+Biodegradable Plastic,9,18,9,62,2.83,1.15
+Paper Foam,9,11,9,97,4.14,0.71
+PLA Bioplastic,8,5,9,61,3.82,0.78
+Recycled Cardboard,5,7,6,94,4.54,0.74
+Bamboo Fiber Packaging,5,16,7,76,2.89,0.62
+PLA Bioplastic,8,17,7,68,4.74,1.12
+Mycelium Packaging,6,8,8,95,4.23,0.67
+PLA Bioplastic,9,6,9,81,3.19,0.86
+Molded Pulp,9,10,9,90,2.29,0.59
+Kraft Paper,7,7,7,93,2.77,1.04
+Honeycomb Paperboard,8,15,9,83,4.87,1.02
+Molded Pulp,7,18,7,68,2.93,0.64
+Corrugated Board,7,3,7,61,2.99,0.95
+Kraft Paper,5,15,7,80,2.57,0.96
+Kraft Paper,9,13,5,93,4.42,0.85
+Cornstarch Packaging,7,10,5,86,2.83,0.88
+Recycled Cardboard,5,10,5,96,2.99,0.86
+Recycled Cardboard,8,16,5,66,3.24,0.47
+Kraft Paper,7,15,6,81,3.3,0.94
+Mycelium Packaging,9,5,8,63,3.23,0.78
+PLA Bioplastic,7,6,8,73,3.51,0.75
+Cornstarch Packaging,8,17,7,93,4.44,1.09
+Honeycomb Paperboard,7,17,9,82,4.46,0.42
+Kraft Paper,9,15,5,84,4.39,0.6
+Bagasse Fiber,5,11,8,60,2.3,0.5
+Biodegradable Plastic,9,12,8,74,4.4,0.43
+Biodegradable Plastic,5,14,5,91,2.36,0.62
+Molded Pulp,6,16,6,73,2.37,1.19
+Corrugated Board,9,3,6,80,4.84,0.62
+Seaweed Packaging,9,16,8,66,4.46,0.93
+Seaweed Packaging,8,16,6,95,3.66,0.49
+Biodegradable Plastic,7,10,5,80,4.62,0.88
+Bamboo Fiber Packaging,5,18,8,99,4.97,1.19
+Recycled Paper Wrap,5,16,5,71,3.83,0.63
+Molded Pulp,8,3,6,74,3.84,1.08
+Seaweed Packaging,8,18,5,74,4.26,1.2
+Biodegradable Plastic,7,9,6,76,2.7,0.87
+Corrugated Board,7,17,6,93,2.5,0.65
+Seaweed Packaging,9,19,5,94,4.28,0.94
+PLA Bioplastic,6,15,6,98,3.03,1.08
+PLA Bioplastic,7,11,7,97,2.41,0.54
+Recycled Cardboard,8,17,5,73,2.94,0.76
+Mycelium Packaging,7,5,7,64,3.08,0.66
+Recycled Cardboard,5,3,5,89,4.9,0.63
+Honeycomb Paperboard,6,18,6,63,4.09,1.09
+Kraft Paper,9,10,6,74,3.59,0.74
+Bagasse Fiber,5,15,8,98,4.91,0.67
+Recycled Cardboard,5,10,8,94,4.71,0.88
+Recycled PET,6,19,7,69,3.54,0.58
+Seaweed Packaging,9,16,6,61,4.72,0.58
+Bamboo Fiber Packaging,8,9,8,83,3.21,0.82
+Cornstarch Packaging,9,17,6,87,2.69,0.73
+Biodegradable Plastic,7,18,5,81,2.7,0.64
+Cornstarch Packaging,5,8,8,91,3.99,0.44
+Recycled PET,7,3,7,90,3.5,0.82
+Corrugated Board,8,14,8,78,3.98,1.05
+Recycled Cardboard,7,18,6,80,4.06,1.08
+Bagasse Fiber,9,14,9,62,2.07,0.59
+Corrugated Board,7,15,9,65,2.16,0.88
+Recycled Paper Wrap,8,10,6,91,3.6,1.08
+Recycled Paper Wrap,8,3,5,61,2.57,0.73
+Cornstarch Packaging,8,9,8,83,3.9,1.15
+Kraft Paper,9,17,9,86,3.66,1.12
+Molded Pulp,8,15,5,68,3.76,0.57
+Kraft Paper,5,15,6,72,2.91,0.61
+Seaweed Packaging,8,11,5,73,3.92,0.54
+Recycled PET,7,17,6,70,4.49,0.56
+PLA Bioplastic,7,6,8,73,4.99,1.13
+Honeycomb Paperboard,7,15,5,75,4.52,1.14
+Kraft Paper,9,14,8,69,3.67,0.44
+Mycelium Packaging,7,7,5,79,2.58,0.87
+Honeycomb Paperboard,9,9,6,75,4.04,0.85
+Recycled PET,9,10,6,93,4.81,0.71
+Honeycomb Paperboard,8,7,5,75,2.64,0.91
+Bagasse Fiber,5,11,6,73,2.77,1.16
+Recycled Cardboard,8,16,7,87,2.45,0.54
+Bagasse Fiber,8,14,7,77,4.21,0.5
+Honeycomb Paperboard,9,6,8,85,3.22,0.43
+Corrugated Board,9,10,7,97,2.19,0.69
+Recycled Paper Wrap,7,19,7,66,4.62,0.67
+Honeycomb Paperboard,7,10,9,93,3.67,0.74
+Bagasse Fiber,8,3,9,66,2.99,0.8
+Bamboo Fiber Packaging,6,4,9,92,3.03,1.01
+Recycled PET,6,6,9,94,2.87,0.71
+Corrugated Board,7,3,6,98,3.37,0.66
+Bagasse Fiber,6,9,8,80,3.01,1.06
+Kraft Paper,7,3,8,87,3.64,1.08
+Biodegradable Plastic,9,11,7,91,4.32,0.59
+Cornstarch Packaging,8,5,8,75,4.02,0.65
+Molded Pulp,5,14,7,69,2.88,1.06
+PLA Bioplastic,8,17,8,82,3.59,0.46
+Bagasse Fiber,7,18,5,74,4.52,0.66
+Mycelium Packaging,7,12,5,65,2.2,0.76
+Molded Pulp,8,8,8,92,2.23,0.55
+Recycled PET,7,19,6,98,3.67,0.54
+Bamboo Fiber Packaging,6,19,7,71,3.92,0.74
+Paper Foam,6,13,8,95,2.63,1
+Bagasse Fiber,7,9,7,90,4.24,1.07
+Biodegradable Plastic,7,12,9,69,3.94,1.18
+Molded Pulp,6,9,8,93,4.77,0.46
+PLA Bioplastic,7,7,6,69,2.51,0.57
+Honeycomb Paperboard,7,14,9,70,4.25,1.01
+Bagasse Fiber,8,18,8,73,2.25,0.83
+Recycled Cardboard,5,5,5,62,3.7,0.66
+Bamboo Fiber Packaging,6,17,8,92,3.66,0.56
+Recycled PET,8,7,5,66,3.17,0.62
+Cornstarch Packaging,5,15,5,63,4.53,0.74
+Biodegradable Plastic,7,14,8,98,2.01,0.54
+Seaweed Packaging,7,7,8,69,3.56,1.17
+Seaweed Packaging,8,8,5,74,2.65,0.49
+Mycelium Packaging,7,9,7,75,4.23,1.19
+Molded Pulp,9,12,9,97,2.13,1.07
+Biodegradable Plastic,8,18,6,63,4.49,0.74
+Corrugated Board,5,10,8,63,4.51,0.99
+PLA Bioplastic,8,11,9,95,4.5,0.94
+Cornstarch Packaging,6,6,9,86,2.46,0.57
+Honeycomb Paperboard,8,10,7,81,3.89,0.67
+Bagasse Fiber,7,9,9,81,2.04,0.81
+Bagasse Fiber,7,17,8,76,4.54,0.91
+Seaweed Packaging,9,5,9,93,4.17,0.83
+Bagasse Fiber,9,19,8,91,3.59,0.78
+Recycled PET,9,13,8,65,4.19,0.75
+Cornstarch Packaging,5,11,5,92,2.28,0.8
+Recycled Cardboard,9,7,7,67,3.59,0.75
+Paper Foam,5,12,6,95,2.87,0.83
+Mycelium Packaging,9,17,5,64,4.92,1.11
+Recycled Paper Wrap,5,16,6,64,4.57,0.91
+Kraft Paper,8,6,8,69,4.2,0.98
+Mycelium Packaging,8,4,5,99,4.8,0.88
+Molded Pulp,7,14,9,66,3.04,0.91
+Recycled Cardboard,5,3,9,71,4.7,0.86
+Mycelium Packaging,6,7,6,89,2.98,0.42
+Honeycomb Paperboard,7,8,8,84,4.2,1.2
+Seaweed Packaging,8,13,6,87,4.21,0.43
+Bamboo Fiber Packaging,5,10,7,72,2.06,0.72
+Molded Pulp,9,9,9,81,3.08,0.48
+Bagasse Fiber,6,6,5,77,2.06,0.48
+Biodegradable Plastic,8,8,5,86,4.99,1.03
+Honeycomb Paperboard,7,18,5,67,2.37,0.74
+Molded Pulp,5,17,9,65,3.63,1.04
+Bamboo Fiber Packaging,6,16,8,70,4.37,0.62
+PLA Bioplastic,5,14,9,88,2.6,0.61
+Bagasse Fiber,9,14,9,64,3.46,0.6
+Mycelium Packaging,7,18,5,66,3.82,0.89
+Mycelium Packaging,5,17,9,81,2.48,1.05
+Molded Pulp,8,15,5,63,4.34,0.76
+Biodegradable Plastic,7,13,8,91,2.9,0.7
+PLA Bioplastic,8,19,7,78,2.63,1.18
+Bagasse Fiber,5,17,5,92,3.67,0.49
+Bamboo Fiber Packaging,7,16,6,60,3.23,0.79
+Paper Foam,8,12,7,67,4.76,0.73
+Mycelium Packaging,9,14,8,91,4.64,0.48
+Bamboo Fiber Packaging,9,18,7,89,3.45,0.61
+Recycled Cardboard,5,17,5,87,3.08,0.42
+Mycelium Packaging,7,12,8,91,2.98,1.1
+Bamboo Fiber Packaging,6,6,6,84,2.8,0.89
+Corrugated Board,7,11,5,93,3.63,1.05
+Seaweed Packaging,9,11,5,92,4.41,0.82
+Kraft Paper,8,13,8,72,2.93,0.88
+Cornstarch Packaging,6,13,8,84,2.57,0.96
+Seaweed Packaging,5,9,7,99,3.43,1.13
+Recycled PET,6,12,6,98,2.21,0.47
+Kraft Paper,5,6,7,69,4.1,0.66
+Honeycomb Paperboard,6,7,7,90,3.56,0.97
+Bamboo Fiber Packaging,5,7,5,70,3.49,1.17
+Kraft Paper,5,13,8,84,2.9,1.18
+Recycled PET,6,11,5,93,4.71,0.91
+Bagasse Fiber,6,18,6,79,2.27,0.55
+Paper Foam,5,11,7,66,4.61,0.5
+Corrugated Board,9,6,6,92,3.13,1.16
+Recycled Cardboard,6,4,8,94,4.64,0.75
+Bamboo Fiber Packaging,7,16,8,88,4.19,0.56
+Recycled Cardboard,8,5,9,71,2.31,1.15
+Biodegradable Plastic,5,8,6,64,4.49,0.48
+Mycelium Packaging,5,13,5,71,4.05,0.98
+Bamboo Fiber Packaging,8,14,6,88,2.1,0.9
+Cornstarch Packaging,9,7,7,94,2.4,0.47
+Bamboo Fiber Packaging,8,11,8,79,3.91,0.67
+Molded Pulp,6,5,8,96,3.99,0.52
+Paper Foam,8,11,6,60,4.24,0.88
+Molded Pulp,5,6,6,75,4.16,0.78
+Bamboo Fiber Packaging,8,19,6,89,3.98,0.4
+Corrugated Board,7,19,7,68,4.3,1.18
+Kraft Paper,6,4,7,69,3.73,0.68
+Recycled Cardboard,8,11,5,72,2.78,0.61
+Corrugated Board,5,11,6,79,4.74,0.58
+Bamboo Fiber Packaging,6,7,5,88,2.05,0.53
+Recycled PET,5,17,9,63,3.1,1.2
+Kraft Paper,9,17,7,87,4.19,0.64
+Recycled PET,7,5,8,96,3.28,0.72
+Recycled Cardboard,9,5,9,72,2.07,1.1
+Kraft Paper,7,8,8,62,2.2,0.91
+Cornstarch Packaging,8,6,9,96,3.95,0.69
+Paper Foam,6,15,5,78,4.89,1.12
+Seaweed Packaging,8,15,5,87,3.66,1
+PLA Bioplastic,7,13,7,78,3.52,0.58
+Honeycomb Paperboard,7,7,8,76,2.95,0.91
+Corrugated Board,7,3,9,77,2.77,1.14
+Mycelium Packaging,5,11,6,77,2.06,0.8
+Corrugated Board,6,19,6,82,2.82,0.99
+PLA Bioplastic,8,3,7,99,3.35,1.18
+Seaweed Packaging,8,5,8,68,2.59,0.95
+Recycled Paper Wrap,9,17,6,88,2.26,0.48
+Bagasse Fiber,7,12,7,88,4.15,0.6
+Cornstarch Packaging,7,10,7,61,4.68,0.88
+Recycled PET,7,14,8,76,4.81,0.62
+Bamboo Fiber Packaging,8,17,6,90,3.85,1.17
+Cornstarch Packaging,9,11,6,87,2.16,0.72
+PLA Bioplastic,5,12,6,98,4.22,0.77
+Bamboo Fiber Packaging,6,11,5,89,2.33,0.96
+Mycelium Packaging,5,17,6,94,4.01,0.82
+Molded Pulp,8,3,9,79,4.34,0.71
+Kraft Paper,7,4,5,75,4.18,0.46
+Bagasse Fiber,6,16,5,93,4.86,0.88
+Paper Foam,8,10,5,73,4.21,1.09
+Paper Foam,8,8,5,85,4.08,0.95
+PLA Bioplastic,8,14,7,79,2.79,0.71
+Cornstarch Packaging,6,17,9,83,4.77,0.5
+Paper Foam,6,16,8,77,2.54,1.05
+Mycelium Packaging,9,3,6,68,4.71,1.15
+Recycled PET,9,13,5,78,2.94,0.71
+Recycled Paper Wrap,5,5,8,79,2.39,0.98
+Corrugated Board,6,4,7,89,4.48,0.73
+Biodegradable Plastic,6,9,8,85,2.01,0.8
+Mycelium Packaging,6,10,5,90,4.5,1.07
+Bamboo Fiber Packaging,9,17,9,94,2.79,0.47
+Honeycomb Paperboard,8,12,8,62,4.65,0.82
+PLA Bioplastic,7,3,5,99,4.07,0.57
+Molded Pulp,9,8,5,88,4,0.67
+Kraft Paper,6,15,6,65,3.1,0.92
+Honeycomb Paperboard,9,16,6,60,2.18,0.42
+Kraft Paper,5,5,9,83,4.49,0.88
+Recycled Cardboard,6,13,6,97,2.51,0.63
+Honeycomb Paperboard,5,5,9,93,3.12,0.94
+Biodegradable Plastic,6,12,7,66,3.8,0.51
+Cornstarch Packaging,9,17,7,70,3.45,0.99
+Recycled Paper Wrap,8,13,6,70,2.6,0.92
+Corrugated Board,7,17,7,95,2.42,1.18
+Corrugated Board,5,15,8,79,2.37,1.13
+Recycled Paper Wrap,9,7,8,75,4.59,0.63
+Recycled PET,8,6,8,64,2.09,0.42
+Bagasse Fiber,9,15,7,83,4.93,0.92
+Recycled Cardboard,5,11,8,89,2.6,0.88
+Kraft Paper,7,19,9,89,2.33,0.42
+Biodegradable Plastic,9,4,5,98,3.73,0.5
+Paper Foam,6,7,6,96,2.24,0.87
+Honeycomb Paperboard,8,18,9,92,3.81,1.13
+Recycled Cardboard,9,9,8,79,4.55,1.13
+Mycelium Packaging,8,3,5,81,2.14,0.52
+PLA Bioplastic,6,14,6,80,4.4,0.71
+Honeycomb Paperboard,7,13,9,96,3.18,0.43
+Biodegradable Plastic,7,14,6,86,2.48,0.78
+Molded Pulp,6,14,7,97,2.53,1
+Molded Pulp,8,14,8,94,4.76,1.03
+Bamboo Fiber Packaging,9,16,9,97,2.33,0.8
+Recycled Cardboard,6,4,9,99,4.6,0.48
+Cornstarch Packaging,5,4,5,65,3.63,0.71
+Biodegradable Plastic,8,6,5,91,2.12,1.15
+Biodegradable Plastic,7,18,5,75,3.39,0.58
+Recycled Paper Wrap,6,12,6,87,4.45,0.66
+Mycelium Packaging,7,15,8,75,4.18,1
+Cornstarch Packaging,8,4,6,86,3.47,0.99
+Mycelium Packaging,7,5,8,62,4.58,1.13
+Recycled PET,6,8,9,80,2.36,0.71
+Kraft Paper,8,10,6,97,4.73,0.81
+Kraft Paper,5,16,6,97,4.54,0.77
+Paper Foam,6,12,6,89,4.12,1.14
+Bamboo Fiber Packaging,9,5,7,81,4.45,1.02
+Corrugated Board,6,8,8,78,3.63,1.07
+Molded Pulp,8,17,8,90,4.03,0.51
+PLA Bioplastic,6,16,6,79,3.68,1.03
+Kraft Paper,5,12,7,78,3.07,0.75
+Cornstarch Packaging,5,17,6,61,3.71,0.42
+Biodegradable Plastic,9,6,8,99,2.77,0.45
+PLA Bioplastic,7,4,9,98,3.32,0.94
+Seaweed Packaging,8,5,7,86,2.84,0.7
+Mycelium Packaging,8,9,7,67,2.37,1.09
+Kraft Paper,7,18,6,86,2.97,0.99
+Biodegradable Plastic,5,12,9,74,4.56,0.42
+Kraft Paper,5,19,8,71,3.14,0.95
+Molded Pulp,6,7,5,73,4.24,0.55
+Seaweed Packaging,9,15,8,66,2.53,0.74
+Honeycomb Paperboard,9,15,8,76,3.27,0.9
+Kraft Paper,9,13,9,85,2.34,1.1
+Recycled PET,6,13,7,96,2.42,0.76
+Cornstarch Packaging,9,18,8,79,3.85,1.05
+Kraft Paper,7,17,7,69,3.82,1.03
+Corrugated Board,6,19,9,78,2.64,0.73
+PLA Bioplastic,7,6,9,77,3.42,0.8
+PLA Bioplastic,6,7,6,89,4.59,0.96
+Molded Pulp,9,9,5,89,2.52,0.42
+Cornstarch Packaging,7,4,9,84,2.06,1.11
+Seaweed Packaging,7,3,9,83,3.96,1.02
+Recycled PET,7,14,7,69,2.16,0.6
+Recycled Paper Wrap,6,12,9,61,4.94,1.18
+Cornstarch Packaging,8,10,8,97,3.83,0.54
+PLA Bioplastic,9,3,6,91,3.41,1.13
+Corrugated Board,7,14,6,94,3.29,0.66
+Honeycomb Paperboard,8,4,8,96,3.72,1.01
+Molded Pulp,9,12,9,66,2.27,0.77
+Recycled Paper Wrap,9,19,5,66,4.79,0.99
+Corrugated Board,7,5,9,86,3.88,0.52
+Seaweed Packaging,7,9,6,69,2.55,0.62
+Mycelium Packaging,6,14,5,92,3.69,0.48
+Seaweed Packaging,8,10,7,66,2.4,1.09
+Corrugated Board,8,14,7,65,2.05,0.64
+Mycelium Packaging,7,5,9,65,3.89,0.96
+Recycled Cardboard,9,19,9,72,3.95,1.06
+Molded Pulp,7,11,5,72,3.75,1.12
+Cornstarch Packaging,9,12,5,61,2.55,0.49
+Mycelium Packaging,9,8,9,78,3.81,1.11
+Bamboo Fiber Packaging,7,3,6,78,2.17,0.56
+Mycelium Packaging,5,14,7,97,3.83,0.99
+Biodegradable Plastic,8,7,5,61,3.66,0.98
+Honeycomb Paperboard,9,15,6,85,3.97,0.41
+Biodegradable Plastic,9,17,9,65,4.69,0.58
+Cornstarch Packaging,5,13,8,79,4.55,0.79
+Cornstarch Packaging,6,10,5,82,4.94,0.74
+Molded Pulp,5,7,8,74,4.93,1.13
+Cornstarch Packaging,5,4,6,65,4.32,0.69
+PLA Bioplastic,9,14,7,87,4.87,1.15
+Mycelium Packaging,8,4,6,94,4.6,0.77
+Mycelium Packaging,5,18,7,70,4.18,1.17
+Recycled Cardboard,6,5,6,67,2.23,0.99
+Recycled Paper Wrap,7,12,5,83,2.15,1.06
+Cornstarch Packaging,5,10,5,80,4.51,0.48
+Biodegradable Plastic,5,9,8,95,3.47,0.87
+Cornstarch Packaging,6,3,6,66,4.44,0.51
+Seaweed Packaging,8,14,6,64,2.94,0.64
+Recycled Cardboard,5,7,8,88,3.19,0.9
+PLA Bioplastic,5,18,9,75,4.1,0.98
+PLA Bioplastic,8,6,6,65,4.75,0.43
+Kraft Paper,6,19,6,73,2.26,0.82
+Mycelium Packaging,5,4,6,61,4.58,0.85
+PLA Bioplastic,8,14,9,84,4.38,0.46
+Mycelium Packaging,5,3,5,90,2.95,0.8
+Kraft Paper,7,14,8,72,3.07,0.97
+Corrugated Board,9,14,9,77,2.14,0.44
+Honeycomb Paperboard,7,14,7,76,2.05,1.01
+Paper Foam,5,19,7,87,3.43,0.86
+Recycled PET,6,13,9,71,2.29,1.07
+PLA Bioplastic,9,15,9,94,2.58,0.57
+Recycled Paper Wrap,7,10,5,81,4.54,1.07
+Seaweed Packaging,8,12,7,98,3.71,0.48
+Bagasse Fiber,6,10,8,60,3.9,0.72
+Corrugated Board,7,10,6,96,2.56,0.56
+PLA Bioplastic,8,11,6,80,4.49,1.1
+Mycelium Packaging,5,9,5,60,4.6,0.96
+Honeycomb Paperboard,8,16,5,63,3.57,0.42
+Kraft Paper,7,4,7,91,4.74,0.41
+Biodegradable Plastic,7,13,8,60,4.53,0.63
+Recycled PET,5,10,8,72,4.19,0.51
+Bagasse Fiber,8,15,9,76,4.2,0.9
+Honeycomb Paperboard,8,17,5,71,2.32,0.93
+Honeycomb Paperboard,5,5,6,66,2.81,1.15
+PLA Bioplastic,8,16,6,62,2.2,1.16
+Corrugated Board,5,17,7,85,2.03,0.93
+Bamboo Fiber Packaging,6,4,6,90,2.47,0.4
+Bagasse Fiber,7,14,8,95,4.64,0.69
+Recycled PET,6,6,8,85,2.72,0.81
+Molded Pulp,9,5,5,62,4.91,0.8
+Paper Foam,9,7,7,87,3.79,0.88
+Molded Pulp,9,5,6,76,2.71,1.17
+Bamboo Fiber Packaging,5,17,5,97,3.49,1.11
+Mycelium Packaging,8,4,9,89,2.66,0.49
+Mycelium Packaging,6,14,9,61,4.95,0.61
+Seaweed Packaging,6,7,6,67,4.54,1.07
+Bagasse Fiber,6,19,6,73,2.08,1.06
+Molded Pulp,6,16,6,96,4.84,0.62
+Mycelium Packaging,9,12,8,94,4.16,0.98
+Bamboo Fiber Packaging,6,5,6,98,2.25,0.94
+PLA Bioplastic,8,6,9,70,4.01,0.78
+Recycled Cardboard,9,8,6,74,3.94,0.56
+Kraft Paper,6,18,7,61,2.66,1.11
+Recycled Cardboard,5,9,9,96,4.28,0.94
+Cornstarch Packaging,7,17,7,91,2.26,0.54
+Recycled PET,7,13,9,99,3.47,0.96
+Molded Pulp,7,3,5,72,2.03,0.99
+Seaweed Packaging,9,7,9,76,4.91,1.11
+Cornstarch Packaging,6,15,9,74,4.25,0.58
+Mycelium Packaging,9,16,7,92,2.48,1.19
+Biodegradable Plastic,8,11,7,75,3.03,0.52
+Recycled Paper Wrap,5,19,9,72,2.48,0.88
+Biodegradable Plastic,5,17,9,81,4.3,0.93
+Bamboo Fiber Packaging,7,9,8,82,2.18,0.74
+Bagasse Fiber,7,14,5,95,4.52,0.78
+Honeycomb Paperboard,7,8,5,69,4.83,1.11
+Kraft Paper,6,18,6,76,4.03,0.92
+Molded Pulp,8,7,9,89,2.64,0.8
+Recycled PET,8,11,9,72,3.08,0.5
+Seaweed Packaging,8,16,9,89,3.43,0.41
+Seaweed Packaging,8,10,9,89,3.81,0.5
+Recycled PET,7,16,5,66,4.01,1.16
+Bamboo Fiber Packaging,5,14,7,69,3.66,1.01
+Corrugated Board,7,12,8,94,3.05,1.17
+Mycelium Packaging,8,15,7,61,4.67,0.43
+Recycled Paper Wrap,7,17,7,89,2.24,0.94
+Paper Foam,8,10,5,78,3.4,0.44
+Paper Foam,9,12,8,98,4.33,1.03
+Paper Foam,5,5,9,96,2.18,0.7
+Molded Pulp,9,5,5,62,4.12,0.48
+Paper Foam,6,7,5,84,4.46,0.85
+PLA Bioplastic,7,18,8,93,3.98,0.62
+Recycled Cardboard,6,19,6,81,2.04,0.93
+Seaweed Packaging,7,8,5,97,2.54,0.93
+Recycled Paper Wrap,9,18,7,73,3.03,0.96
+Recycled Cardboard,8,4,7,98,2.7,1.19
+Honeycomb Paperboard,8,17,9,61,4.89,0.71
+Recycled Paper Wrap,7,3,5,91,3.95,0.77
+Recycled Cardboard,8,14,9,62,2.89,1.04
+Recycled Paper Wrap,9,10,5,67,4.79,0.86
+Honeycomb Paperboard,8,8,8,85,4.22,0.43
+Cornstarch Packaging,9,14,5,91,2.85,1.07
+PLA Bioplastic,6,9,6,70,3.14,0.44
+Molded Pulp,9,16,7,60,2.6,0.54
+Molded Pulp,5,10,8,74,4.91,0.48
+Bamboo Fiber Packaging,5,16,7,63,3.55,0.46
+Recycled PET,5,7,9,63,4.69,0.42
+Mycelium Packaging,7,11,8,87,3.04,0.44
+Seaweed Packaging,7,10,6,69,4.58,0.75
+Paper Foam,7,4,7,70,2.16,0.6
+PLA Bioplastic,9,18,5,82,4.95,0.5
+Biodegradable Plastic,7,15,5,62,4.74,0.93
+Paper Foam,6,9,5,98,3.09,0.58
+Mycelium Packaging,5,18,8,98,4.32,0.42
+Seaweed Packaging,9,9,6,76,4.26,0.73
+Bagasse Fiber,5,16,6,81,4.7,0.65
+Mycelium Packaging,7,16,6,86,2.92,0.65
+PLA Bioplastic,9,14,7,75,3.4,0.76
+Recycled Cardboard,8,3,8,75,4.59,0.94
+Recycled Paper Wrap,6,3,5,99,4.34,0.89
+Recycled PET,7,14,7,62,3.18,1.15
+Recycled PET,7,17,6,92,4.54,0.81
+Biodegradable Plastic,6,6,5,61,2.14,0.78
+PLA Bioplastic,6,9,8,98,4.35,0.57
+Honeycomb Paperboard,8,18,9,86,2.62,1
+Bagasse Fiber,7,5,6,74,2.86,0.51
+Honeycomb Paperboard,7,9,6,66,3.48,0.79
+Molded Pulp,5,8,6,68,3.35,0.74
+Bamboo Fiber Packaging,9,18,6,65,3.56,0.93
+Molded Pulp,9,10,5,71,3.63,1.13
+Mycelium Packaging,5,8,8,89,2.99,1.16
+Paper Foam,9,12,7,79,2.53,0.53
+Recycled Cardboard,6,18,5,79,4.31,0.61
+Biodegradable Plastic,9,13,8,86,3.2,1.05
+Mycelium Packaging,9,15,7,79,3.52,0.81
+Kraft Paper,5,8,6,66,3.93,0.76
+Bagasse Fiber,8,3,8,99,4.73,0.97
+Recycled PET,9,14,6,99,4.12,0.88
+Bagasse Fiber,9,8,8,89,2.14,1.18
+Mycelium Packaging,8,15,9,67,4.52,0.87
+Mycelium Packaging,5,9,6,61,4.97,0.77
+PLA Bioplastic,8,15,6,73,3.42,0.83
+Paper Foam,5,10,6,69,4.91,1.05
+Molded Pulp,6,19,5,77,3.64,0.89
+Recycled PET,5,11,7,77,3.38,0.92
+Bamboo Fiber Packaging,6,15,6,75,2.99,1.18
+Paper Foam,6,4,6,64,3.97,0.89
+Recycled Paper Wrap,5,6,5,90,2.69,0.7
+PLA Bioplastic,7,4,5,96,2.31,0.95
+PLA Bioplastic,5,6,9,79,2.08,0.93
+Biodegradable Plastic,9,7,8,82,2.88,0.41
+Recycled Cardboard,9,12,6,91,3.19,0.77
+Bamboo Fiber Packaging,7,12,8,76,3.66,0.99
+Seaweed Packaging,6,7,5,72,2.88,0.8
+Cornstarch Packaging,7,19,5,72,4.95,1.02
+Seaweed Packaging,9,15,9,76,2.88,0.76
+Mycelium Packaging,7,19,7,74,3.32,1.19
+Corrugated Board,5,11,5,85,2.31,0.63
+Recycled PET,7,14,6,87,2.78,0.47
+Corrugated Board,6,16,9,89,2.14,0.74
+PLA Bioplastic,5,16,7,94,3.68,0.83
+Paper Foam,8,10,9,81,4.25,0.68
+Recycled Paper Wrap,9,7,5,69,2.59,0.59
+Biodegradable Plastic,9,16,7,70,3.1,0.94
+Kraft Paper,7,11,8,97,2.05,0.7
+Corrugated Board,5,9,7,92,4.52,0.91
+Biodegradable Plastic,8,10,6,65,4.34,1.02
+PLA Bioplastic,5,16,8,96,2.19,1.01
+Recycled Cardboard,9,16,8,66,3.09,0.7
+Honeycomb Paperboard,5,13,6,71,4.87,0.85
+Seaweed Packaging,8,16,8,66,3.18,0.76
+Recycled Paper Wrap,7,10,5,61,3.58,1.1
+Recycled PET,6,5,7,60,3.07,1.1
+Molded Pulp,5,5,7,82,3.79,0.67
+Mycelium Packaging,6,15,6,84,4.93,0.47
+Biodegradable Plastic,9,14,5,77,4.99,0.53
+Recycled Cardboard,7,17,8,66,4.32,0.69
+Kraft Paper,7,7,7,62,3.21,0.85
+Cornstarch Packaging,5,9,7,88,3.48,0.93
+Seaweed Packaging,7,13,7,69,3.07,0.67
+Molded Pulp,5,13,7,64,4.96,0.93
+Recycled PET,5,17,9,93,4.12,1.15
+Seaweed Packaging,6,12,6,67,3.35,0.92
+PLA Bioplastic,7,17,8,73,2.04,0.53
+Cornstarch Packaging,5,15,8,99,3.56,0.86
+Seaweed Packaging,6,16,6,65,4.95,0.83
+Bamboo Fiber Packaging,8,19,5,60,3.57,1.1
+Kraft Paper,6,15,6,92,2.55,0.68
+Recycled Cardboard,6,12,7,99,2.07,0.74
+Mycelium Packaging,5,3,7,70,3.06,0.88
+Corrugated Board,9,3,6,83,4.75,0.82
+Cornstarch Packaging,9,17,6,69,4.99,0.98
+Recycled PET,9,18,8,82,4.84,0.43
+PLA Bioplastic,6,14,8,75,4.19,0.85
+Bamboo Fiber Packaging,5,8,9,96,3.67,0.5
+Molded Pulp,7,8,9,75,3.77,0.65
+Paper Foam,6,14,7,90,3.62,0.93
+Bagasse Fiber,6,17,9,65,4.12,0.53
+Biodegradable Plastic,5,6,9,89,3.26,0.65
+Mycelium Packaging,8,6,5,96,4.01,0.96
+Seaweed Packaging,6,4,6,60,2.36,0.92
+Corrugated Board,8,14,8,84,2.8,0.47
+Cornstarch Packaging,8,9,9,80,4.51,0.86
+Seaweed Packaging,9,11,8,94,4.71,0.52
+Honeycomb Paperboard,5,11,9,97,3.62,0.6
+Biodegradable Plastic,8,10,9,64,2.09,0.77
+Paper Foam,5,16,7,71,4.78,0.49
+Bamboo Fiber Packaging,9,3,5,64,4.11,1.19
+Recycled PET,5,14,6,68,3.24,0.53
+Kraft Paper,6,4,6,68,3.8,1.03
+Bamboo Fiber Packaging,8,15,7,94,3.29,1.06
+Bamboo Fiber Packaging,5,6,7,60,3.4,1.2
+Bagasse Fiber,7,18,6,69,4.66,0.74
+Recycled Cardboard,5,16,6,98,2.48,1.1
+Bamboo Fiber Packaging,8,10,5,95,2.31,1.17
+Seaweed Packaging,9,14,9,96,2.01,0.54
+Paper Foam,9,11,5,94,2.94,0.78
+Paper Foam,8,8,6,76,2.44,0.45
+Kraft Paper,6,4,9,72,2.66,0.9
+Recycled Paper Wrap,6,10,6,65,2.03,0.87
+Kraft Paper,9,16,5,96,2.68,0.56
+Seaweed Packaging,9,8,5,91,3,1.04
+Recycled PET,8,12,5,70,2.09,0.43
+Recycled Paper Wrap,6,10,9,76,3.82,1.04
+Recycled Paper Wrap,9,19,8,64,3.71,0.42
+Corrugated Board,6,14,8,65,2.29,0.93
+Corrugated Board,9,19,6,69,3.79,0.46
+Molded Pulp,5,15,9,92,5,0.6
+Cornstarch Packaging,7,14,7,89,4.83,0.98
+Cornstarch Packaging,5,18,8,80,2.01,0.62
+PLA Bioplastic,9,7,9,76,4.39,0.81
+Mycelium Packaging,7,18,9,86,3.06,1.13
+Recycled Cardboard,7,8,8,62,2.19,0.44
+Cornstarch Packaging,9,13,9,88,2.89,1.05
+Corrugated Board,9,19,9,61,2.97,0.45
+Molded Pulp,6,16,8,88,3.57,0.5
+Bamboo Fiber Packaging,9,8,5,95,3.98,0.5
+Molded Pulp,8,13,6,93,4.25,1.2
+Bamboo Fiber Packaging,9,14,7,96,2.74,0.54
+Recycled PET,8,15,6,60,2.97,1.12
+Recycled PET,9,6,5,85,2.93,1.19
+Recycled Paper Wrap,6,9,5,60,3.09,0.71
+PLA Bioplastic,8,4,9,63,5,0.9
+Mycelium Packaging,5,8,6,98,4.33,1.02
+Kraft Paper,8,8,5,73,4.92,0.71
+Recycled Cardboard,6,10,6,77,4.08,0.53
+Seaweed Packaging,8,10,5,93,3.22,0.75
+Recycled Paper Wrap,9,10,7,60,3.17,1.02
+Kraft Paper,9,10,5,81,3.47,1.02
+Cornstarch Packaging,6,3,6,75,3.25,0.58
+PLA Bioplastic,7,4,9,81,4.48,0.54
+Recycled Paper Wrap,9,14,6,75,3.4,1.14
+Biodegradable Plastic,5,17,8,87,2.89,0.44
+Cornstarch Packaging,6,6,6,87,4.32,0.99
+Kraft Paper,8,5,7,81,4.56,0.44
+Recycled Cardboard,8,16,7,65,3.26,1.07
+Seaweed Packaging,5,10,7,84,4,1.12
+Kraft Paper,9,15,5,61,2.18,0.64
+Bamboo Fiber Packaging,6,7,7,66,3.59,0.46
+Recycled PET,5,15,6,76,2.13,0.78
+Recycled Paper Wrap,9,3,9,94,2.09,0.64
+Recycled Paper Wrap,6,18,7,79,3.84,0.73
+Seaweed Packaging,8,4,6,61,2.91,0.93
+Paper Foam,6,9,5,66,4.23,0.57
+Recycled Cardboard,7,8,5,91,4.69,0.69
+Honeycomb Paperboard,6,7,9,78,2.42,1.03
+Cornstarch Packaging,7,6,9,71,4.17,0.92
+Molded Pulp,6,4,6,68,3.54,0.66
+Seaweed Packaging,7,12,9,86,2.34,0.93
+Recycled Cardboard,8,7,9,73,3.95,1.01
+Molded Pulp,9,12,5,61,3.83,0.87
+Recycled Cardboard,7,17,6,80,3.55,0.59
+Recycled Cardboard,7,11,9,63,4.78,0.4
+Kraft Paper,8,13,6,80,3.56,1.04
+Mycelium Packaging,7,19,7,81,4.97,1.06
+Bamboo Fiber Packaging,5,11,5,61,3.53,0.96
+Recycled Cardboard,8,18,5,76,2.35,0.46
+Mycelium Packaging,5,8,5,78,3.41,0.87
+Paper Foam,8,13,8,99,2.55,1.06
+Honeycomb Paperboard,7,19,6,83,3.79,0.71
+Recycled Paper Wrap,5,6,7,79,4.08,0.56
+Bagasse Fiber,7,17,9,97,3.41,0.87
+Molded Pulp,8,3,7,71,2.29,1.06
+Recycled Paper Wrap,7,3,6,84,3.41,0.44
+Bagasse Fiber,5,11,5,82,2.24,0.88
+Honeycomb Paperboard,5,14,8,93,4.05,0.91
+Bamboo Fiber Packaging,7,6,6,91,4.37,0.88
+Honeycomb Paperboard,6,15,6,83,4.89,0.92
+Molded Pulp,8,9,9,84,2.45,0.91
+Recycled PET,8,10,7,62,3.6,0.5
+Molded Pulp,7,15,7,84,3.7,0.59
+Honeycomb Paperboard,6,13,9,87,4.77,0.9
+Bagasse Fiber,5,11,8,71,3.88,0.41
+Seaweed Packaging,9,18,5,85,2.44,0.91
+Recycled Cardboard,9,12,5,67,3.31,0.93
+Cornstarch Packaging,7,13,8,64,3.96,0.59
+PLA Bioplastic,6,14,9,70,4.1,0.88
+Mycelium Packaging,6,16,6,94,4.59,0.83
+Biodegradable Plastic,8,14,7,86,2.54,0.61
+PLA Bioplastic,5,19,6,97,4.85,0.77
+Recycled Paper Wrap,6,5,7,78,2.18,1.13
+Kraft Paper,9,3,6,91,4.95,0.74
+Recycled Paper Wrap,5,6,9,87,4.57,0.9
+Kraft Paper,5,18,9,95,3.98,0.43
+Bagasse Fiber,7,14,8,77,4.2,0.46
+Recycled PET,6,15,6,69,2.22,0.47
+Kraft Paper,7,19,6,91,2.12,1.02
+Molded Pulp,6,10,8,77,2.31,0.68
+Seaweed Packaging,8,15,8,71,2.26,0.58
+Cornstarch Packaging,7,7,9,67,3.64,1
+Cornstarch Packaging,7,17,9,92,2.65,0.54
+Molded Pulp,9,14,6,97,4.58,0.6
+Seaweed Packaging,7,19,9,73,3.34,0.74
+Bamboo Fiber Packaging,6,17,9,61,4.09,0.67
+Paper Foam,9,4,6,68,3.96,0.87
+Bamboo Fiber Packaging,7,8,8,64,2.96,0.67
+Recycled PET,7,19,6,93,2.73,0.71
+PLA Bioplastic,8,18,5,78,3.03,1.09
+Recycled PET,7,19,6,66,4.39,1.11
+Bagasse Fiber,5,11,5,98,3.76,1.06
+PLA Bioplastic,9,7,6,76,2.76,1.09
+Paper Foam,5,3,5,85,4.45,0.86
+Paper Foam,9,8,5,86,2.16,0.92
+Recycled Paper Wrap,8,16,6,87,4.1,0.85
+Honeycomb Paperboard,7,19,9,79,3.32,1.03
+Recycled Paper Wrap,7,3,7,65,4.19,0.84
+Honeycomb Paperboard,7,3,9,67,4.78,0.49
+Recycled PET,9,15,5,91,4.25,1.05
+Biodegradable Plastic,7,16,6,78,3.33,1.01
+Recycled PET,5,8,6,91,2.45,1.06
+Kraft Paper,7,8,6,78,4.42,0.55
+Seaweed Packaging,8,3,6,83,3.38,0.62
+Honeycomb Paperboard,5,16,7,83,2.23,0.64
+Bamboo Fiber Packaging,7,5,8,76,4.16,0.81
+PLA Bioplastic,7,12,5,77,2.88,0.51
+Molded Pulp,6,6,7,71,2.15,0.71
+Recycled Paper Wrap,9,12,9,82,4.71,0.55
+Seaweed Packaging,5,4,8,77,3.45,0.61
+Bagasse Fiber,6,6,8,75,2.84,0.97
+Seaweed Packaging,8,8,6,75,4.15,1.08
+Mycelium Packaging,9,9,7,95,4.66,0.42
+Kraft Paper,5,18,9,82,2,0.85
+Mycelium Packaging,7,9,6,81,4.06,0.43
+Biodegradable Plastic,5,11,6,98,4.3,0.47
+Honeycomb Paperboard,7,12,5,92,2.63,0.96
+Biodegradable Plastic,9,15,8,83,3.47,0.99
+Bagasse Fiber,7,18,9,79,2.27,1.05
+Bamboo Fiber Packaging,8,19,8,92,4.24,0.78
+Paper Foam,7,15,7,90,4.54,1.09
+Mycelium Packaging,8,14,5,99,2.32,0.53
+Cornstarch Packaging,9,12,6,67,4.45,0.6
+Mycelium Packaging,9,3,5,69,4.31,0.51
+Bagasse Fiber,5,10,6,60,3.04,1.04
+Corrugated Board,8,4,5,80,4.07,0.58
+Bagasse Fiber,8,18,6,84,2,0.52
+Biodegradable Plastic,6,14,8,91,4.8,0.9
+Seaweed Packaging,6,11,8,69,3.65,0.46
+Molded Pulp,6,5,8,68,3.86,0.44
+Recycled Paper Wrap,7,6,8,79,3.99,0.49
+Molded Pulp,6,4,5,79,3.68,0.4
+Biodegradable Plastic,8,10,6,99,4.57,0.96
+Recycled Paper Wrap,7,12,8,66,3.83,0.85
+Corrugated Board,9,18,5,70,4.72,0.57
+Cornstarch Packaging,5,13,6,80,3.75,0.59
+Kraft Paper,6,16,5,97,2.51,1.05
+PLA Bioplastic,9,10,8,78,4.74,0.8
+Biodegradable Plastic,8,17,7,74,4.04,0.96
+Seaweed Packaging,5,19,5,65,4.1,0.76
+Honeycomb Paperboard,9,8,8,69,4.96,0.59
+Biodegradable Plastic,5,16,9,75,2.23,1.18
+Biodegradable Plastic,6,5,6,70,3.29,0.85
+Mycelium Packaging,8,9,8,94,2.72,0.5
+Mycelium Packaging,5,17,9,67,3.89,0.72
+Recycled Paper Wrap,9,18,5,87,4.42,0.66
+Recycled PET,6,18,5,62,4.9,0.57
+Recycled PET,6,10,9,61,3.36,1.15
+Recycled Cardboard,9,9,9,73,4.36,1.1
+Bagasse Fiber,9,8,6,88,4.75,0.56
+Seaweed Packaging,5,4,5,62,4.05,0.68
+Recycled Cardboard,7,15,9,60,2.73,1.01
+Bamboo Fiber Packaging,6,14,7,74,3.82,0.57
+Corrugated Board,5,17,7,79,4.91,0.87
+Recycled PET,9,11,9,81,4.96,0.96
+Honeycomb Paperboard,5,4,6,93,3.93,0.92
+Mycelium Packaging,9,19,5,92,4.66,0.97
+Cornstarch Packaging,8,7,7,68,2.6,0.97
+Paper Foam,9,13,9,62,2.74,1.17
+Corrugated Board,9,9,9,61,4.86,0.68
+Paper Foam,9,4,8,63,2.41,1.1
+Seaweed Packaging,7,18,9,75,2.57,0.42
+Seaweed Packaging,9,14,6,92,3.26,0.63
+Bamboo Fiber Packaging,6,17,7,68,3.77,0.44
+Paper Foam,6,3,8,99,3.81,0.92
+Seaweed Packaging,5,15,7,97,2.88,0.48
+Cornstarch Packaging,7,8,7,77,4.76,1.08
+Molded Pulp,5,15,6,75,4.75,0.92
+Recycled Cardboard,6,5,9,67,3.18,0.42
+Biodegradable Plastic,6,3,6,82,3.3,0.97
+Kraft Paper,8,17,9,95,4.11,1.09
+Paper Foam,9,15,8,62,3.99,0.93
+Honeycomb Paperboard,6,7,6,74,3.15,0.42
+Corrugated Board,5,15,6,97,3.24,1.09
+Molded Pulp,5,7,5,92,3.04,0.99
+Paper Foam,9,12,6,77,2.71,0.7
+Molded Pulp,9,10,5,82,3.37,0.66
+Recycled PET,8,17,9,62,4.06,0.78
+Molded Pulp,7,6,9,89,4.23,1.09
+Paper Foam,5,4,9,76,4.34,0.6
+Recycled Paper Wrap,9,8,5,91,3.12,0.48
+Bagasse Fiber,5,5,9,66,4.29,1.09
+Honeycomb Paperboard,9,9,7,98,2.02,0.42
+Biodegradable Plastic,6,12,6,73,3.43,1.13
+Biodegradable Plastic,5,8,5,74,4.38,0.64
+Honeycomb Paperboard,6,18,9,71,3.89,0.81
+Recycled Paper Wrap,5,4,7,67,3.42,0.51
+Mycelium Packaging,7,19,6,75,3.93,1.12
+Seaweed Packaging,8,15,6,93,4.72,1
+Biodegradable Plastic,6,3,9,83,3.7,1.14
+Mycelium Packaging,9,8,7,88,4.4,0.95
+Molded Pulp,7,7,5,75,4.94,0.55
+Cornstarch Packaging,5,15,9,64,4.12,0.65
+Corrugated Board,6,14,6,64,3.72,0.79
+Recycled PET,5,9,6,89,2.11,0.89
+Recycled Cardboard,5,17,6,64,3.12,1.14
+Biodegradable Plastic,5,5,9,72,3.7,0.71
+Honeycomb Paperboard,8,18,8,94,4.39,0.96
+Cornstarch Packaging,8,3,8,84,3.31,1.17
+Paper Foam,9,18,8,73,4.88,0.52
+Bamboo Fiber Packaging,6,14,7,85,2.82,1.09
+Bagasse Fiber,7,10,9,77,4.23,0.74
+Honeycomb Paperboard,7,14,6,79,3.26,0.99
+Seaweed Packaging,7,17,7,93,3.46,0.63
+Bamboo Fiber Packaging,5,4,8,66,4.41,0.67
+Bamboo Fiber Packaging,8,19,5,69,2.89,0.42
+Molded Pulp,6,9,7,74,2.29,1.18
+Bagasse Fiber,5,15,7,76,3.56,1.05
+Corrugated Board,8,3,9,70,3.59,0.48
+Corrugated Board,8,8,7,93,4.39,1.2
+Recycled Paper Wrap,6,15,9,86,4.9,0.88
+Mycelium Packaging,6,13,5,80,2.17,1.08
+Kraft Paper,6,12,6,90,3.78,0.45
+Bamboo Fiber Packaging,5,18,6,63,4.04,0.71
+Recycled Paper Wrap,9,19,8,76,4.96,0.94
+Seaweed Packaging,6,19,8,79,4.83,0.49
+Mycelium Packaging,9,6,5,84,4.14,0.79
+Recycled PET,5,7,6,99,3.57,0.75
+Bamboo Fiber Packaging,9,16,8,82,2.48,0.57
+Cornstarch Packaging,7,12,7,74,3.15,0.64
+Bagasse Fiber,9,16,9,92,3.76,1.17
+Kraft Paper,6,3,8,78,4.18,0.63
+Paper Foam,5,13,5,74,3.91,0.57
+Molded Pulp,6,18,6,64,4.14,0.83
+Bagasse Fiber,7,10,5,75,3.29,0.94
+Recycled Paper Wrap,6,12,9,91,4.18,0.98
+Recycled Cardboard,6,12,9,81,2.43,1
+PLA Bioplastic,6,7,5,91,2.49,0.43
+Kraft Paper,8,12,8,72,2.49,0.72
+Kraft Paper,7,8,8,97,4.67,1.02
+Seaweed Packaging,6,5,6,85,2.23,1.12
+Molded Pulp,6,10,6,76,4.4,0.88
+Biodegradable Plastic,6,11,7,64,2.7,0.44
+Corrugated Board,5,7,7,92,3.41,0.72
+Corrugated Board,8,4,6,86,4.75,0.46
+Recycled PET,5,4,7,64,3.76,1
+Recycled Cardboard,8,9,5,96,2.63,0.45
+Cornstarch Packaging,6,19,8,66,2.85,0.55
+Seaweed Packaging,7,12,7,77,4.76,0.73
+Cornstarch Packaging,9,14,7,90,3.28,0.77
+Paper Foam,9,4,5,65,3.76,0.73
+Mycelium Packaging,6,12,9,61,3.38,0.77
+Bagasse Fiber,5,3,6,72,3.14,0.97
+Recycled PET,7,6,5,70,2.67,0.7
+Recycled PET,8,15,9,85,4.06,0.84
+PLA Bioplastic,6,14,5,80,4.15,0.64
+Honeycomb Paperboard,7,13,8,61,2.82,0.68
+Biodegradable Plastic,7,12,5,99,4.37,0.89
+Recycled Paper Wrap,8,17,5,79,4.56,0.79
+Bamboo Fiber Packaging,7,7,8,76,4.76,0.98
+Honeycomb Paperboard,5,19,6,75,2.48,0.85
+Mycelium Packaging,5,7,9,64,2.91,1.04
+Honeycomb Paperboard,5,4,7,73,4.58,0.75
+Seaweed Packaging,7,11,6,83,2.6,0.79
+Bamboo Fiber Packaging,5,8,5,63,2.01,0.94
+Kraft Paper,8,16,7,83,4.61,0.58
+Recycled Cardboard,7,16,8,68,2.98,0.71
+Corrugated Board,9,10,6,62,3.24,0.9
+Paper Foam,7,19,9,68,3.34,0.42
+Cornstarch Packaging,8,5,6,77,4.54,0.75
+PLA Bioplastic,9,12,6,95,3.01,0.88
+Seaweed Packaging,7,19,7,78,4.68,1.17
+Recycled Cardboard,5,13,8,83,3.85,1.1
+Kraft Paper,6,10,8,63,3.58,0.62
+Recycled Paper Wrap,6,3,6,68,2.98,0.81
+Paper Foam,5,15,8,92,2.73,0.45
+Seaweed Packaging,6,6,7,60,3.87,0.59
+Kraft Paper,6,9,7,94,3.34,1.02
+PLA Bioplastic,5,16,9,69,4.73,0.5
+Corrugated Board,5,7,8,71,3.47,0.61
+Recycled PET,7,13,9,77,3.54,1.16
+Corrugated Board,7,19,5,73,3.25,1.06
+Seaweed Packaging,5,7,7,69,4.37,1.03
+Corrugated Board,8,5,6,69,3.27,1.09
+Recycled Cardboard,6,7,7,77,2.81,1
+Recycled Cardboard,7,17,5,83,4.59,0.5
+Cornstarch Packaging,6,18,6,60,3.79,0.81
+Seaweed Packaging,9,10,8,89,3.77,0.76
+Cornstarch Packaging,5,15,8,74,3.83,0.65
+Seaweed Packaging,8,18,7,67,4.16,1.07
+Recycled PET,9,5,6,94,2.94,0.77
+Recycled PET,9,3,6,77,2.1,0.45
+Recycled Paper Wrap,9,11,9,75,4.43,0.62
+Seaweed Packaging,5,11,5,80,2.39,0.58
+PLA Bioplastic,7,19,8,74,4.17,1.11
+Mycelium Packaging,5,4,7,64,2.25,0.92
+Paper Foam,7,11,6,66,3.13,0.85
+Molded Pulp,9,15,8,66,2.19,0.81
+Bamboo Fiber Packaging,9,7,7,86,3.57,0.92
+Molded Pulp,8,11,8,84,3.96,1
+Kraft Paper,7,15,7,81,2.51,0.84
+Recycled PET,9,3,8,72,3.11,1.15
+Corrugated Board,6,17,9,76,4.79,1.18
+Paper Foam,8,6,5,72,3.33,1.2
+Honeycomb Paperboard,5,6,8,85,4.41,0.94
+Mycelium Packaging,8,12,5,68,4.78,1.15
+Recycled Cardboard,6,8,8,64,4.92,0.72
+Bagasse Fiber,7,14,6,98,4.69,1.09
+Biodegradable Plastic,5,18,9,92,2.95,1.13
+Recycled Paper Wrap,5,5,9,63,4.89,1.12
+Corrugated Board,7,16,5,87,4.44,1.06
+Corrugated Board,8,3,6,85,4.51,0.73
+PLA Bioplastic,9,12,7,63,2.05,0.53
+Corrugated Board,8,17,9,75,4.86,0.67
+Recycled Cardboard,6,9,6,96,4.33,1.01
+Recycled Cardboard,9,6,6,81,4.3,0.59
+Biodegradable Plastic,8,16,5,95,2.24,0.78
+Bamboo Fiber Packaging,7,18,6,97,2.7,0.85
+Seaweed Packaging,6,16,6,94,4.89,0.88
+Honeycomb Paperboard,6,5,7,84,3.5,1.15
+Paper Foam,6,19,5,67,3.19,0.93
+Corrugated Board,9,16,5,76,4.52,1.03
+Molded Pulp,5,5,6,77,2.26,0.87
+Cornstarch Packaging,9,5,7,71,3.25,1.07
+PLA Bioplastic,8,14,8,92,3.13,0.61
+PLA Bioplastic,5,7,9,82,3.05,0.57
+Bamboo Fiber Packaging,8,12,5,71,2.92,1.14
+Molded Pulp,5,11,7,70,2.63,0.95
+Kraft Paper,9,3,7,72,2.52,0.94
+Molded Pulp,6,15,6,94,3.92,0.77
+Mycelium Packaging,7,5,9,86,4.76,0.7
+Kraft Paper,6,13,5,84,3.53,0.84
+Bagasse Fiber,9,18,8,99,2.89,0.5
+Recycled PET,5,8,6,62,2.48,0.76
+Cornstarch Packaging,6,5,5,84,4.49,0.76
+Recycled PET,9,8,5,69,4.91,0.83
+PLA Bioplastic,8,10,7,76,3.05,0.91
+Molded Pulp,7,15,9,62,2.87,1.17
+Bagasse Fiber,6,14,8,81,3.8,0.92
+Seaweed Packaging,5,12,9,97,4.33,1.11
+Recycled Paper Wrap,8,5,7,73,3.37,0.85
+Paper Foam,9,6,8,86,3.89,0.9
+Bagasse Fiber,7,3,8,79,4.15,0.46
+Bamboo Fiber Packaging,5,15,6,77,4.88,0.51
+Mycelium Packaging,9,6,8,72,2.5,0.86
+Paper Foam,9,13,5,65,4.99,0.72
+Molded Pulp,6,13,9,69,3.18,1.04
+Honeycomb Paperboard,6,14,9,96,4.17,0.83
+Seaweed Packaging,5,13,6,88,3.72,1.11
+Bagasse Fiber,9,8,8,65,3.46,1.18
+Cornstarch Packaging,6,14,7,98,4.09,0.52
+Molded Pulp,7,11,5,70,3.19,0.72
+Corrugated Board,7,12,6,84,2.38,0.93
+Recycled Cardboard,9,5,8,89,3.47,0.64
+Bagasse Fiber,6,5,7,79,3.57,0.61
+Cornstarch Packaging,5,18,8,96,2.61,1.05
+Mycelium Packaging,5,5,6,75,4.81,1.18
+Recycled Paper Wrap,5,12,7,90,2.68,1.02
+Corrugated Board,7,13,7,88,3.23,0.82
+Recycled PET,6,10,7,65,2.46,0.75
+Recycled Paper Wrap,6,8,7,88,3.61,0.83
+Recycled PET,7,13,8,91,2.92,0.77
+Molded Pulp,5,14,7,68,3.47,0.8
+Recycled Cardboard,5,18,8,96,2.67,0.56
+Bagasse Fiber,9,15,7,82,2.16,1.12
+Bagasse Fiber,8,5,7,75,4.34,1
+Honeycomb Paperboard,6,17,6,77,3.92,0.94
+PLA Bioplastic,6,16,8,78,3.02,1.16
+Honeycomb Paperboard,6,16,8,61,2.14,0.63
+Bamboo Fiber Packaging,8,7,9,69,4.6,0.46
+Molded Pulp,9,16,6,71,2.51,1.06
+Molded Pulp,8,10,8,77,4.79,1.2
+Recycled Cardboard,5,17,6,78,3.44,0.86
+Honeycomb Paperboard,5,17,6,97,3.02,0.45
+Cornstarch Packaging,6,8,6,96,4.23,1.02
+Recycled PET,7,10,5,86,4.63,0.46
+Cornstarch Packaging,6,8,8,73,3.11,0.83
+Recycled Cardboard,7,17,6,93,3.22,0.62
+Seaweed Packaging,8,5,5,61,3.3,1.13
+PLA Bioplastic,5,12,5,92,4.77,0.76
+Cornstarch Packaging,7,17,7,78,4.08,1.12
+Kraft Paper,8,18,7,86,2.74,0.64
+Bamboo Fiber Packaging,5,19,8,89,2.55,0.71
+Paper Foam,7,13,7,66,2.69,1.16
+Recycled Cardboard,6,18,8,86,2.79,0.56
+Recycled Cardboard,6,7,5,80,2.69,0.86
+Biodegradable Plastic,6,7,5,66,3.98,0.71
+Recycled PET,8,16,8,84,2.35,1.02
+Bamboo Fiber Packaging,6,10,7,97,3.16,0.5
+Corrugated Board,9,7,7,77,3.88,0.75
+Corrugated Board,5,9,8,92,2.87,0.96
+Kraft Paper,8,18,9,92,2.2,0.73
+Honeycomb Paperboard,6,16,7,91,2.25,0.45
+Bamboo Fiber Packaging,5,7,6,84,2.38,0.96
+Seaweed Packaging,7,11,7,73,4.51,0.8
+Molded Pulp,6,6,9,97,3.97,0.41
+Molded Pulp,5,6,5,97,2.19,0.89
+Recycled Paper Wrap,9,18,5,63,3.17,1.14
+Recycled PET,7,19,5,77,2.84,0.49
+Kraft Paper,9,17,7,69,3.73,0.87
+Recycled Cardboard,5,6,5,94,3.57,0.98
+Kraft Paper,9,8,9,94,3.44,0.46
+Kraft Paper,5,18,9,99,2.94,0.42
+Mycelium Packaging,5,6,7,82,2.41,0.77
+Kraft Paper,9,8,6,84,4.23,1.03
+Corrugated Board,5,7,7,60,4.64,0.53
+Mycelium Packaging,6,18,5,77,4.83,1.07
+Recycled PET,5,18,7,74,2.18,0.93
+Kraft Paper,8,12,9,84,4.22,0.67
+PLA Bioplastic,5,11,7,91,4.18,0.81
+Paper Foam,8,6,7,79,4.84,1.17
+Molded Pulp,5,16,6,76,2.76,0.57
+Mycelium Packaging,5,6,9,70,4.23,0.8
+Recycled Paper Wrap,9,14,8,72,2.16,0.9
+Bamboo Fiber Packaging,6,12,8,84,3.89,0.51
+Paper Foam,6,6,9,79,3.05,0.43
+Recycled Paper Wrap,7,15,8,84,4.31,0.41
+Biodegradable Plastic,9,15,5,90,4.59,0.66
+Recycled Paper Wrap,9,16,8,60,3.09,0.46
+Molded Pulp,6,3,5,75,3.58,1.04
+Molded Pulp,9,18,9,87,2.35,1.2
+Mycelium Packaging,6,17,8,80,3.25,0.45
+Kraft Paper,9,7,8,89,3.08,0.75
+Bagasse Fiber,5,8,5,62,2.55,0.42
+Biodegradable Plastic,6,8,5,93,4.68,0.51
+Mycelium Packaging,6,5,7,65,2.44,0.66
+PLA Bioplastic,8,18,6,88,3.91,0.71
+Recycled Cardboard,9,14,8,62,4.67,1.15
+Cornstarch Packaging,9,6,6,92,4.74,0.72
+Bamboo Fiber Packaging,6,3,6,70,4.38,0.8
+Recycled Paper Wrap,5,6,8,64,2.53,0.6
+Bagasse Fiber,5,3,5,91,4.45,0.4
+Kraft Paper,5,10,7,77,2.83,1.12
+Corrugated Board,9,7,9,79,4.77,0.47
+Recycled PET,8,4,8,98,4.13,1.17
+Recycled Cardboard,6,14,8,99,4.36,0.5
+Seaweed Packaging,7,19,9,87,2.26,0.88
+Honeycomb Paperboard,8,9,6,72,3.75,1.2
+Bagasse Fiber,7,13,7,85,4.46,0.51
+Recycled PET,8,6,6,75,4.58,0.74
+Corrugated Board,5,7,9,84,2.09,1.02
+Biodegradable Plastic,9,8,9,69,4.82,0.43
+Seaweed Packaging,7,13,7,88,2.13,0.95
+Mycelium Packaging,8,3,9,97,3.84,0.46
+Kraft Paper,9,12,9,79,4.08,0.59
+Recycled Cardboard,7,13,7,85,2.32,0.53
+Recycled Cardboard,6,19,8,91,2.14,1.13
+Recycled Cardboard,8,10,6,98,4.35,0.54
+Biodegradable Plastic,6,15,8,97,3.15,0.43
+Seaweed Packaging,5,18,8,83,2.32,0.87
+Recycled Paper Wrap,6,4,6,90,4.29,0.68
+Honeycomb Paperboard,6,7,8,99,4.55,0.72
+PLA Bioplastic,8,5,7,71,3.76,0.5
+Biodegradable Plastic,5,19,6,95,2.48,1
+Cornstarch Packaging,6,18,5,69,2.05,0.88
+Bamboo Fiber Packaging,9,8,8,65,4.1,0.69
+Bamboo Fiber Packaging,7,9,9,66,3.65,0.54
+Honeycomb Paperboard,6,16,6,90,3.95,0.87
+Molded Pulp,5,8,5,86,4.44,1.02
+Bamboo Fiber Packaging,6,10,9,67,3.3,0.65
+Kraft Paper,7,17,5,62,2.37,0.42
+Biodegradable Plastic,5,17,8,99,4.82,0.57
+Corrugated Board,8,17,9,80,3.64,0.95
+Honeycomb Paperboard,5,18,8,60,3.85,1.19
+Cornstarch Packaging,8,3,9,74,4.8,0.41
+Molded Pulp,5,13,6,66,4.79,0.64
+Recycled Paper Wrap,7,7,7,74,3.72,0.45
+Seaweed Packaging,7,7,7,84,2.89,0.65
+Corrugated Board,5,8,5,62,4.99,0.72
+Mycelium Packaging,6,4,9,89,4.04,1.14
+Honeycomb Paperboard,7,8,8,73,3.23,0.46
+Kraft Paper,8,16,6,63,3.68,1.02
+Seaweed Packaging,8,13,6,95,3.25,0.72
+Corrugated Board,9,6,6,62,4.66,1.05
+Molded Pulp,8,11,7,64,3.45,0.81
+Corrugated Board,9,5,8,84,4.47,0.43
+Recycled PET,5,18,6,90,4.52,1.16
+Seaweed Packaging,5,13,6,70,4.47,0.47
+Paper Foam,5,6,5,67,4.17,0.88
+Recycled PET,6,3,9,85,4.56,1.1
+PLA Bioplastic,6,18,9,61,3.16,0.46
+Bagasse Fiber,9,18,9,87,2.34,0.84
+Recycled Paper Wrap,8,13,5,69,4.53,1.06
+Bamboo Fiber Packaging,8,10,7,98,3.49,1.19
+Molded Pulp,5,3,5,96,2.38,0.98
+Seaweed Packaging,7,11,6,98,2.35,0.62
+PLA Bioplastic,6,14,8,80,2.48,0.96
+PLA Bioplastic,6,10,6,87,4.25,0.96
+Mycelium Packaging,5,19,6,97,4.13,0.96
+Corrugated Board,6,12,8,92,2.61,1.08
+Bagasse Fiber,5,9,9,70,4.54,0.47
+PLA Bioplastic,9,8,5,60,2.84,0.49
+Bagasse Fiber,8,17,7,92,4.38,0.91
+Recycled PET,7,4,6,62,3.47,1.16
+Corrugated Board,8,16,6,85,4.19,0.77
+Seaweed Packaging,8,12,7,74,3.14,1.17
+Recycled PET,9,18,5,73,3.04,1.15
+Kraft Paper,6,9,6,82,4.52,1.12
+Paper Foam,7,10,7,67,2.11,1.13
+PLA Bioplastic,6,12,6,95,4.92,1.12
+Biodegradable Plastic,8,17,9,79,3.94,1.06
+Recycled PET,5,10,9,65,3.3,0.96
+Paper Foam,8,15,6,92,3.88,0.42
+Corrugated Board,6,14,6,87,2.37,0.51
+Mycelium Packaging,8,10,9,97,3.54,0.51
+Recycled Paper Wrap,5,17,6,89,4.96,0.42
+Biodegradable Plastic,9,14,5,76,2.71,0.49
+Molded Pulp,6,13,5,68,4.17,1.14
+Bamboo Fiber Packaging,8,16,8,87,3.3,0.93
+Mycelium Packaging,6,15,5,66,3.96,0.65
+Paper Foam,9,6,6,87,2.61,1.03
+Corrugated Board,8,19,6,76,3.41,0.79
+Paper Foam,8,11,7,99,4.94,0.51
+Bamboo Fiber Packaging,6,9,5,64,2.59,1.11
+PLA Bioplastic,6,3,9,64,3.91,0.67
+Mycelium Packaging,5,9,9,73,3.73,0.96
+Recycled PET,9,9,8,65,3.7,0.63
+Seaweed Packaging,5,9,7,66,3.85,0.8
+Biodegradable Plastic,8,10,9,76,3.51,1.05
+Cornstarch Packaging,6,18,8,68,2.05,0.53
+Honeycomb Paperboard,8,5,5,90,4.7,1.18
+Paper Foam,8,15,7,81,4.48,0.46
+Bamboo Fiber Packaging,7,12,7,68,2.52,0.83
+Molded Pulp,7,9,6,75,3.24,1.13
+Molded Pulp,8,7,5,95,4.31,1.16
+Recycled Cardboard,6,9,7,93,4.94,0.59
+Mycelium Packaging,8,19,8,72,4.85,0.52
+Paper Foam,7,6,9,78,4.7,0.98
+Honeycomb Paperboard,6,18,5,71,2.48,0.43
+Kraft Paper,8,12,5,95,4.74,0.79
+Bamboo Fiber Packaging,9,5,7,69,4.64,1.04
+PLA Bioplastic,9,5,7,75,3.13,0.85
+Bagasse Fiber,8,19,7,87,3.18,0.55
+Recycled PET,6,12,8,78,3.38,0.79
+Seaweed Packaging,8,19,6,99,3.97,1.14
+Honeycomb Paperboard,8,19,7,65,2.78,0.89
+Bagasse Fiber,7,6,6,63,2.07,0.98
+Mycelium Packaging,9,8,6,89,2.42,0.67
+Recycled PET,7,14,5,98,3.32,0.55
+Bagasse Fiber,7,19,9,90,2.85,0.6
+Recycled PET,8,19,9,86,4.29,0.83
+Cornstarch Packaging,7,12,8,80,2.32,0.62
+Recycled Cardboard,9,9,8,96,4.75,0.83
+Honeycomb Paperboard,7,18,9,68,4.69,0.97
+Mycelium Packaging,9,15,9,94,4.73,0.99
+Honeycomb Paperboard,7,5,5,80,4.22,0.53
+Cornstarch Packaging,9,4,5,76,2.32,1
+Paper Foam,7,18,9,83,3.31,0.94
+Paper Foam,7,8,7,90,2.39,0.41
+Paper Foam,6,8,7,65,4.96,0.45
+Recycled Paper Wrap,9,15,5,94,3,0.92
+Bagasse Fiber,9,9,6,96,3.76,0.71
+Recycled Paper Wrap,9,7,9,72,4.34,0.52
+Recycled Cardboard,5,9,8,84,4.76,0.44
+Seaweed Packaging,7,4,7,91,4.27,0.53
+Cornstarch Packaging,9,19,6,60,4.02,1.17
+Mycelium Packaging,5,15,7,94,3.4,0.98
+Honeycomb Paperboard,6,18,6,78,3.82,0.82
+Recycled PET,9,4,9,71,2.28,1.15
+PLA Bioplastic,9,7,9,99,4.65,0.9
+Mycelium Packaging,5,9,9,99,3.63,0.98
+Bagasse Fiber,7,13,5,79,2.12,0.63
+Recycled Paper Wrap,6,13,6,92,4.76,0.87
+Recycled Paper Wrap,9,19,8,88,3.47,0.51
+Corrugated Board,7,18,8,75,4.61,0.72
+Recycled Paper Wrap,6,15,9,73,4.57,0.43
+Seaweed Packaging,8,7,8,66,4.45,0.57
+Kraft Paper,8,18,7,65,2.18,0.46
+Honeycomb Paperboard,6,18,6,80,2.74,0.71
+Kraft Paper,5,18,6,95,4.63,1.07
+Recycled PET,6,16,6,81,4.7,0.7
+Honeycomb Paperboard,6,8,7,99,3.37,1.07
+Cornstarch Packaging,5,4,5,78,3.32,0.93
+Honeycomb Paperboard,5,16,7,84,2.53,0.81
+Kraft Paper,7,18,6,62,4.91,0.59
+Mycelium Packaging,7,15,6,95,2.64,1.14
+Honeycomb Paperboard,5,17,6,93,2.57,0.44
+Cornstarch Packaging,8,14,8,70,3.98,0.95
+Cornstarch Packaging,8,11,5,86,2.73,0.9
+Recycled Cardboard,6,16,7,61,4.82,0.75
+Honeycomb Paperboard,9,6,6,65,2.03,0.59
+PLA Bioplastic,6,10,9,61,2.02,0.74
+Corrugated Board,6,10,5,76,3.51,1.1
+Paper Foam,9,18,9,99,3.46,1.07
+Molded Pulp,5,12,5,73,2.49,1.15
+Cornstarch Packaging,8,19,6,69,3.48,0.65
+Biodegradable Plastic,6,3,5,92,3.23,0.71
+Paper Foam,9,12,5,71,4.67,0.41
+Seaweed Packaging,7,6,6,91,2.03,1.15
+Bagasse Fiber,6,3,9,83,4.93,0.66
+Honeycomb Paperboard,8,6,9,73,3.87,0.72
+Kraft Paper,5,6,8,64,2.46,1.13
+Molded Pulp,6,6,9,64,2.14,0.82
+Biodegradable Plastic,6,19,9,91,3.61,0.85
+Paper Foam,9,11,5,92,2.7,0.54
+Honeycomb Paperboard,7,15,8,63,2.9,0.8
+Recycled Cardboard,7,6,6,89,2.74,1.13
+Bagasse Fiber,5,7,6,76,3.95,0.85
+Molded Pulp,8,15,7,62,3.66,0.6
+Corrugated Board,5,18,8,72,2.23,0.42
+Recycled PET,6,7,5,95,3.58,0.67
+Recycled Cardboard,6,10,7,77,4.37,0.86
+Biodegradable Plastic,7,18,7,82,2.24,0.43
+Seaweed Packaging,8,3,6,94,4.67,0.89
+Molded Pulp,9,8,9,92,3.73,0.82
+Recycled Cardboard,8,13,5,95,4.85,1.03
+Bagasse Fiber,6,18,8,76,2.44,0.42
+Corrugated Board,9,7,7,98,4.98,1.02
+Recycled Cardboard,8,18,5,93,3.93,0.82
+Recycled Paper Wrap,8,9,6,71,3.7,0.7
+Corrugated Board,9,3,7,64,3.55,1.17
+Recycled PET,6,11,7,99,2.07,0.53
+Biodegradable Plastic,8,15,6,86,4.82,0.83
+Seaweed Packaging,9,17,6,99,3.93,0.66
+Bagasse Fiber,6,5,6,72,2.27,0.82
+PLA Bioplastic,9,12,5,85,2.06,0.84
+Honeycomb Paperboard,9,11,5,73,2.15,0.47
+Kraft Paper,8,15,5,91,3.83,0.93
+Bamboo Fiber Packaging,6,18,9,70,3.84,0.91
+Mycelium Packaging,8,5,7,97,3.5,1.02
+Mycelium Packaging,5,17,5,75,2.92,0.47
+Kraft Paper,5,19,9,81,3.6,0.64
+Bamboo Fiber Packaging,6,16,7,75,3.55,0.92
+Kraft Paper,9,9,5,72,2.06,0.51
+Molded Pulp,8,18,6,71,2.85,0.94
+Biodegradable Plastic,8,10,8,77,2.16,0.45
+Bagasse Fiber,6,6,5,88,4.7,0.67
+Corrugated Board,6,17,8,77,4.18,1.08
+Molded Pulp,5,7,5,61,4.99,1.02
+Biodegradable Plastic,7,15,6,61,2.91,0.92
+Honeycomb Paperboard,6,8,8,62,4.64,1.1
+Recycled Paper Wrap,7,7,9,88,3.81,0.97
+Mycelium Packaging,6,19,6,67,3.36,0.82
+Bagasse Fiber,9,9,8,70,2.67,1.18
+Kraft Paper,9,8,8,71,4.22,0.96
+Recycled Cardboard,5,4,6,91,4.71,0.88
+PLA Bioplastic,5,13,6,63,2.71,0.73
+Bagasse Fiber,7,9,6,68,2.53,1.12
+Cornstarch Packaging,6,10,7,83,4.09,0.64
+Seaweed Packaging,8,7,9,75,4.93,0.41
+Bamboo Fiber Packaging,5,18,5,76,4.25,0.56
+Biodegradable Plastic,8,16,8,81,2.85,0.49
+Paper Foam,8,14,5,66,3.26,0.66
+Honeycomb Paperboard,6,19,6,69,3.15,1.06
+Recycled Paper Wrap,7,7,9,88,4.56,0.92
+Honeycomb Paperboard,6,16,9,95,4.31,0.54
+Bagasse Fiber,5,8,7,83,3.77,1.03
+Mycelium Packaging,8,17,6,73,2.82,0.8
+Bamboo Fiber Packaging,6,9,8,73,4.81,0.81
+Paper Foam,6,16,7,84,3.96,0.69
+Cornstarch Packaging,6,3,6,81,4.91,1.09
+Corrugated Board,5,8,7,82,3.74,0.65
+Recycled Cardboard,7,5,5,91,4.46,0.48
+Paper Foam,6,7,6,85,4.44,0.64
+Biodegradable Plastic,5,14,8,86,3.01,0.97
+Kraft Paper,8,13,8,71,4.89,0.93
+Cornstarch Packaging,9,15,6,78,2.07,0.55
+Recycled Cardboard,5,18,7,78,4.31,0.49
+PLA Bioplastic,9,19,9,93,4.9,0.93
+Recycled Paper Wrap,6,19,6,91,3.02,0.94
+Kraft Paper,6,13,8,88,3.94,0.69
+Bagasse Fiber,5,12,5,80,3.69,1.07
+Paper Foam,9,18,8,94,4.28,1.18
+Mycelium Packaging,6,4,9,64,4.6,0.56
+Recycled Cardboard,8,19,8,71,3.81,0.86
+Seaweed Packaging,7,12,9,66,4.45,0.4
+Molded Pulp,7,15,6,61,2.94,0.97
+Seaweed Packaging,6,14,8,84,2.69,0.73
+Corrugated Board,9,17,7,69,3.29,0.55
+Seaweed Packaging,6,9,7,97,4.03,1
+PLA Bioplastic,9,15,8,65,2.56,1.05
+Corrugated Board,8,14,8,86,4.04,0.49
+Cornstarch Packaging,9,14,5,94,3.18,0.43
+Recycled Paper Wrap,6,4,8,69,4.39,0.67
+Cornstarch Packaging,8,7,5,68,2.11,0.9
+Molded Pulp,5,4,5,79,4,1.03
+Biodegradable Plastic,7,15,5,96,3.95,0.84
+Recycled Paper Wrap,6,5,5,94,4.82,0.86
+Seaweed Packaging,6,13,6,96,4.14,1.04
+Mycelium Packaging,6,18,7,99,4.39,0.82
+Honeycomb Paperboard,8,3,5,67,4.71,0.89
+Biodegradable Plastic,5,13,7,90,4.03,0.81
+Recycled Paper Wrap,9,11,5,75,2.87,1.1
+Recycled Paper Wrap,5,16,7,87,4.61,0.59
+Molded Pulp,8,11,8,65,4.24,0.61
+Bagasse Fiber,6,9,8,91,3.27,0.5
+Seaweed Packaging,7,18,7,87,4.13,1.06
+Molded Pulp,6,5,5,70,4.6,0.73
+Recycled Paper Wrap,9,6,6,82,4.93,0.68
+Recycled Cardboard,7,9,7,89,4.86,1.19
+Biodegradable Plastic,6,14,9,68,2.98,1.14
+Molded Pulp,7,7,6,87,3.27,1.18
+Bagasse Fiber,5,12,9,83,2.33,0.51
+Bamboo Fiber Packaging,8,14,7,87,2.74,1.11
+Paper Foam,6,10,5,83,4.65,0.66
+Cornstarch Packaging,9,17,9,74,3.08,0.41
+Recycled Paper Wrap,5,3,7,98,3.86,0.71
+Seaweed Packaging,6,5,6,92,4,0.81
+Honeycomb Paperboard,5,4,5,93,4.35,0.49
+Paper Foam,9,7,9,81,2.55,0.83
+Corrugated Board,6,3,7,88,2.91,1.06
+Mycelium Packaging,9,12,5,93,3.35,0.7
+Mycelium Packaging,7,12,5,69,3.09,0.68
+Recycled PET,9,7,8,89,4.95,0.67
+Recycled PET,7,17,5,70,4.5,1.14
+Kraft Paper,6,10,7,93,3.44,0.44
+Bagasse Fiber,7,19,6,80,4.64,0.76
+Honeycomb Paperboard,6,14,8,72,3.04,0.61
+Bamboo Fiber Packaging,6,14,7,84,4.36,1.12
+Bamboo Fiber Packaging,8,3,7,80,2.67,0.48
+Kraft Paper,6,6,7,60,4.32,0.73
+Bagasse Fiber,7,10,9,64,3.37,0.73
+Seaweed Packaging,8,3,9,81,2.32,1.11
+Recycled Cardboard,8,17,6,66,2.82,0.57
+Seaweed Packaging,6,3,7,72,3.21,0.92
+Cornstarch Packaging,9,13,9,82,4.25,0.51
+Paper Foam,9,4,9,80,2.22,1.16
+Biodegradable Plastic,8,3,9,65,3.98,0.87
+Bamboo Fiber Packaging,6,14,6,79,4.15,0.9
+Mycelium Packaging,9,18,6,71,3.96,0.75
+Bagasse Fiber,6,12,7,99,4.28,0.67
+Seaweed Packaging,6,17,8,68,2.53,0.57
+Biodegradable Plastic,8,19,7,87,3.76,0.88
+Cornstarch Packaging,8,12,9,70,4.82,1.16
+Recycled Paper Wrap,5,5,9,91,3.83,0.69
+Corrugated Board,9,18,5,70,3.83,1.11
+Paper Foam,9,8,7,83,4.21,0.52
+Cornstarch Packaging,9,5,9,74,3,1.15
+Cornstarch Packaging,7,11,9,94,4.1,0.68
+Seaweed Packaging,6,13,8,76,4.75,0.7
+Recycled Cardboard,8,15,5,84,2.03,0.77
+Kraft Paper,9,6,7,94,4.61,0.97
+Bamboo Fiber Packaging,5,10,6,78,2.66,0.98
+Corrugated Board,9,15,7,90,3.37,0.78
+Paper Foam,6,12,7,76,4.56,0.82
+Recycled Paper Wrap,6,4,8,82,4.47,0.42
+Recycled Paper Wrap,8,10,7,60,4.68,0.64
+Molded Pulp,7,8,8,69,4.82,0.68
+Cornstarch Packaging,8,18,8,67,3.34,0.85
+Bagasse Fiber,9,19,9,85,3.97,0.85
+Recycled Cardboard,5,8,6,93,3.17,0.97
+Corrugated Board,8,15,8,78,3.05,0.97
+Seaweed Packaging,7,16,5,73,3.29,0.59
+Recycled Paper Wrap,8,12,5,67,4.23,1.02
+Paper Foam,6,13,6,60,3.5,0.42
+Molded Pulp,9,15,8,84,4.44,0.97
+Mycelium Packaging,9,14,6,83,4.24,0.48
+Bamboo Fiber Packaging,9,11,9,79,2.06,0.98
+Paper Foam,9,6,5,89,3.89,0.82
+Recycled Cardboard,9,9,7,64,3.31,0.75
+Bagasse Fiber,9,4,5,62,3.37,0.95
+Molded Pulp,5,9,8,91,4.46,0.43
+Mycelium Packaging,7,11,6,76,3.64,0.58
+Molded Pulp,9,7,5,64,4.66,0.89
+Kraft Paper,7,17,7,70,4.14,1.08
+Corrugated Board,9,6,7,97,3.66,0.7
+Molded Pulp,8,9,6,63,4.26,0.61
+PLA Bioplastic,9,10,6,98,2.12,0.81
+Kraft Paper,6,19,5,78,2.08,0.9
+Kraft Paper,5,15,8,98,2.25,0.74
+Recycled Cardboard,8,13,9,82,3.31,1.1
+PLA Bioplastic,8,3,7,76,2.71,0.82
+Biodegradable Plastic,6,4,6,72,4.95,0.43
+Paper Foam,9,19,9,86,3.63,0.58
+Bamboo Fiber Packaging,5,7,9,60,3.99,0.76
+Bagasse Fiber,8,8,9,61,2.84,0.96
+Honeycomb Paperboard,5,9,8,77,2.97,0.58
+Paper Foam,8,17,6,95,3.01,1.18
+Molded Pulp,9,18,7,92,4.1,0.65
+Bagasse Fiber,8,15,6,95,3.42,0.83
+Recycled Paper Wrap,8,7,5,61,3.55,0.42
+Biodegradable Plastic,7,5,7,63,3.78,1.11
+Recycled Paper Wrap,9,5,6,75,4.31,1.03
+PLA Bioplastic,6,16,7,63,2.27,0.56
+Recycled PET,6,18,5,68,4.33,1.15
+Recycled Paper Wrap,9,19,7,80,3.69,0.65
+Seaweed Packaging,6,6,9,82,4.01,0.95
+Corrugated Board,9,15,8,61,2.98,1.06
+Paper Foam,6,10,5,62,3.23,0.99
+Honeycomb Paperboard,7,7,7,82,2.69,1.13
+Seaweed Packaging,6,4,5,85,4.94,1.09
+Recycled PET,8,17,9,66,3.49,1.2
+Recycled Cardboard,9,4,8,95,4.99,0.55
+Honeycomb Paperboard,5,13,5,92,3.47,0.64
+Recycled Paper Wrap,5,15,9,95,2.66,0.91
+Molded Pulp,9,12,9,63,3.52,0.99
+Mycelium Packaging,7,5,9,82,2.12,0.83
+Biodegradable Plastic,6,7,7,84,4.71,0.46
+Bamboo Fiber Packaging,7,5,6,85,4.46,1.07
+Cornstarch Packaging,5,8,5,87,4.18,1.17
+Honeycomb Paperboard,9,15,6,87,3.83,0.72
+Bamboo Fiber Packaging,9,12,9,80,3.74,0.58
+Bamboo Fiber Packaging,7,10,6,69,4.99,0.42
+Recycled Paper Wrap,7,5,9,86,2.83,0.59
+Biodegradable Plastic,6,19,9,74,4.34,0.96
+Bagasse Fiber,8,10,8,76,3.74,1.13
+Paper Foam,8,12,8,98,4.93,0.47
+Bamboo Fiber Packaging,6,4,6,94,4.48,0.84
+Kraft Paper,8,14,5,64,5,0.96
+Recycled PET,5,8,6,75,3.76,0.62
+Corrugated Board,8,4,5,82,2.61,0.86
+Biodegradable Plastic,6,5,6,98,3.51,0.97
+Molded Pulp,8,19,7,68,4.13,1.07
+PLA Bioplastic,9,9,7,92,4.32,0.76
+Molded Pulp,7,7,5,94,2,1
+Biodegradable Plastic,5,3,8,99,3.52,0.64
+Molded Pulp,9,10,5,83,2.71,0.57
+Bamboo Fiber Packaging,9,14,6,83,4.62,0.55
+Paper Foam,6,16,9,83,2.46,0.69
+Molded Pulp,7,18,7,78,4,0.43
+Honeycomb Paperboard,7,12,9,98,2.8,0.63
+Kraft Paper,5,17,7,84,3.07,0.92
+Molded Pulp,6,17,6,90,4.82,0.92
+Kraft Paper,5,12,7,97,2.72,0.46
+Mycelium Packaging,8,9,5,84,2.29,0.63
+Recycled Paper Wrap,9,5,9,86,2.21,0.86
+Recycled Cardboard,5,4,9,91,3.51,0.65
+Paper Foam,9,8,6,70,3.93,0.73
+Recycled PET,6,11,9,64,2.98,0.97
+Bamboo Fiber Packaging,8,12,6,92,4.07,0.41
+Recycled Cardboard,6,6,8,78,2.18,0.62
+Bamboo Fiber Packaging,8,5,5,75,4.57,0.51
+Recycled Paper Wrap,8,11,7,94,4.45,0.5
+Bamboo Fiber Packaging,9,19,7,70,4.96,1.17
+Mycelium Packaging,6,16,7,70,4.81,0.7
+Paper Foam,6,12,8,69,3.07,0.82
+Biodegradable Plastic,5,15,5,93,3.2,0.99
+Biodegradable Plastic,6,14,9,64,4.24,0.44
+Kraft Paper,5,3,9,82,2.4,0.59
+Recycled Paper Wrap,7,8,5,84,2.94,1.07
+Kraft Paper,7,15,5,88,2.36,1.09
+Mycelium Packaging,7,15,7,99,3.36,0.7
+Corrugated Board,6,6,9,72,3.66,0.7
+Molded Pulp,6,4,5,91,2.63,1.01
+Cornstarch Packaging,5,17,9,93,2.08,0.64
+Corrugated Board,8,14,5,71,4.16,0.49
+Molded Pulp,5,9,6,83,2.06,0.61
+Paper Foam,7,15,7,99,4.92,0.71
+Kraft Paper,5,19,5,80,2.66,0.44
+Recycled PET,8,6,8,88,3.99,0.78
+Paper Foam,6,16,5,82,3.3,0.99
+Mycelium Packaging,5,15,6,92,2.18,0.81
+Seaweed Packaging,7,5,8,67,3.42,0.46
+Seaweed Packaging,7,16,8,72,3.55,0.75
+Seaweed Packaging,6,17,5,64,4.56,0.97
+Mycelium Packaging,5,5,6,69,4.2,0.45
+Recycled PET,8,3,8,73,2.24,0.45
+Bamboo Fiber Packaging,6,19,7,83,2.63,0.7
+Paper Foam,5,5,7,70,2.94,0.56
+Molded Pulp,9,16,9,62,2.35,1.15
+Mycelium Packaging,7,5,9,88,3.37,0.87
+Seaweed Packaging,8,15,6,89,4.95,0.63
+Recycled PET,8,17,8,96,3.54,0.96
+Recycled Paper Wrap,8,16,7,66,4.23,0.7
+Mycelium Packaging,7,5,7,76,4.05,0.51
+PLA Bioplastic,5,10,6,79,4.55,0.59
+Bamboo Fiber Packaging,6,6,8,70,2.65,0.91
+Molded Pulp,5,6,6,84,4.26,0.44
+Seaweed Packaging,6,13,5,83,4.64,0.62
+Bagasse Fiber,8,3,7,61,2.51,0.57
+Biodegradable Plastic,5,10,6,86,3.04,0.56
+Recycled PET,8,17,6,78,4.91,0.95
+Biodegradable Plastic,9,3,5,88,4.34,1.06
+Corrugated Board,8,9,9,96,2.85,0.97
+Biodegradable Plastic,8,13,7,70,3.69,0.92
+Molded Pulp,6,16,6,78,3.21,1.13
+Honeycomb Paperboard,9,18,7,87,3.47,0.45
+Kraft Paper,8,16,9,98,3.07,0.53
+Molded Pulp,8,14,6,80,2.84,0.73
+Bamboo Fiber Packaging,9,19,5,85,4.02,0.7
+PLA Bioplastic,9,16,7,81,4.34,0.73
+Molded Pulp,5,12,5,65,4.62,0.57
+Mycelium Packaging,6,16,9,70,2.47,0.52
+Recycled PET,9,11,9,73,4.47,0.81
+Cornstarch Packaging,9,19,7,95,2.76,1.14
+Recycled PET,7,8,9,99,3.28,0.71
+Kraft Paper,9,10,8,61,4.7,0.43
+Bagasse Fiber,6,15,7,79,3.36,0.96
+Biodegradable Plastic,8,7,8,81,2.59,0.63
+Kraft Paper,8,8,9,98,2.48,0.6
+Biodegradable Plastic,8,6,7,63,3.42,0.66
+Corrugated Board,8,9,8,88,4.29,0.98
+Kraft Paper,7,6,9,83,4.99,1.06
+Seaweed Packaging,9,13,6,60,4.36,0.87
+Bamboo Fiber Packaging,8,14,6,83,4.63,0.66
+Bamboo Fiber Packaging,5,16,5,89,4.24,0.65
+Biodegradable Plastic,8,15,6,71,4.69,0.5
+Bagasse Fiber,9,12,8,78,2.23,1.15
+Seaweed Packaging,8,18,6,96,4.79,0.91
+Recycled Cardboard,7,7,7,99,3.19,0.42
+Paper Foam,6,10,7,63,4.76,0.93
+Paper Foam,6,16,7,74,2.23,0.76
+Bagasse Fiber,9,7,6,79,4.15,1.18
+Cornstarch Packaging,6,10,6,79,4.21,1.06
+Recycled Cardboard,6,8,5,80,4.99,0.54
+Corrugated Board,5,18,9,69,4.31,0.98
+Bagasse Fiber,9,6,5,89,3.15,0.79
+Seaweed Packaging,9,14,8,83,3.67,0.55
+Paper Foam,6,13,7,99,3.1,0.96
+Mycelium Packaging,6,5,6,99,2.59,0.84
+Paper Foam,6,14,9,97,2.75,0.42
+Paper Foam,7,7,9,62,2.67,0.92
+Seaweed Packaging,8,8,6,88,3.65,0.91
+Recycled Paper Wrap,7,18,5,67,4.72,0.52
+Bagasse Fiber,9,13,9,88,4.74,0.68
+Molded Pulp,5,7,5,69,2.16,0.87
+Recycled PET,8,11,6,64,2.24,0.51
+Corrugated Board,5,5,5,70,2.74,1.08
+Paper Foam,9,10,7,63,2.77,0.42
+Recycled PET,9,8,6,94,2.28,0.48
+Bamboo Fiber Packaging,5,6,6,99,3.17,0.49
+Mycelium Packaging,5,14,9,71,3.76,0.82
+Biodegradable Plastic,5,14,9,80,3.73,0.9
+Bagasse Fiber,9,18,9,75,3.63,0.72
+PLA Bioplastic,6,12,7,73,3.02,0.63
+Seaweed Packaging,5,16,7,80,4.12,1.05
+Recycled Paper Wrap,8,15,8,86,4.48,0.45
+Bamboo Fiber Packaging,9,11,6,95,3.04,0.62
+Bagasse Fiber,7,9,9,60,2.26,0.43
+Corrugated Board,7,14,6,60,2.89,0.41
+Mycelium Packaging,8,7,5,81,2.41,0.68
+Recycled Paper Wrap,6,6,7,74,3.4,0.56
+Corrugated Board,5,4,8,79,2.47,0.61
+Bamboo Fiber Packaging,9,5,5,62,3.39,1.06
+Bagasse Fiber,5,14,6,73,2.66,0.53
+Molded Pulp,9,5,7,68,4.22,1.02
+Bamboo Fiber Packaging,7,6,9,78,2.08,0.94
+PLA Bioplastic,5,8,5,99,3.66,0.66
+Corrugated Board,8,14,7,93,2.51,0.84
+Recycled Paper Wrap,6,12,6,63,2,0.76
+Recycled Paper Wrap,8,3,6,92,4.61,0.5
+Recycled PET,6,19,5,96,4.01,1.13
+Corrugated Board,5,18,5,61,2.3,0.86
+Honeycomb Paperboard,5,11,5,86,3.99,1.1
+Bagasse Fiber,6,11,8,76,3.83,1.06
+Honeycomb Paperboard,7,11,9,90,3.42,0.46
+Cornstarch Packaging,9,14,7,65,3.26,0.57
+Bagasse Fiber,8,11,6,90,4.66,0.52
+Corrugated Board,8,17,6,62,2.74,1.06
+Recycled Cardboard,8,4,9,99,3.19,1.09
+Mycelium Packaging,5,13,5,62,2.99,0.82
+Corrugated Board,8,13,5,92,4.31,0.48
+Honeycomb Paperboard,9,10,6,72,4.75,0.51
+Molded Pulp,9,8,9,80,4.55,1.05
+Mycelium Packaging,6,9,6,96,4.39,1.14
+Corrugated Board,5,5,5,75,4.96,0.56
+Corrugated Board,9,10,7,80,4.09,0.41
+Molded Pulp,7,19,5,72,4.25,0.66
+Corrugated Board,5,13,7,63,4.95,0.42
+Mycelium Packaging,5,4,8,90,2.02,1.06
+Paper Foam,9,9,9,68,3.9,0.79
+Recycled Cardboard,7,10,8,92,4.22,0.91
+Biodegradable Plastic,6,16,5,96,4.75,0.73
+Recycled Cardboard,9,9,9,96,4.65,0.68
+Seaweed Packaging,7,6,5,83,4.53,0.58
+PLA Bioplastic,5,19,9,84,4.84,1.02
+Recycled PET,7,7,9,88,3.61,0.96
+Corrugated Board,5,14,5,99,2.02,0.69
+Paper Foam,9,11,5,95,2.03,0.66
+Bagasse Fiber,9,15,9,74,3.63,0.4
+Corrugated Board,8,11,9,77,3.31,0.45
+Honeycomb Paperboard,8,6,5,79,3.35,0.9
+Bamboo Fiber Packaging,8,10,5,64,3.2,0.81
+Paper Foam,9,3,6,77,4.75,0.75
+Molded Pulp,6,19,6,99,3.08,1.06
+Paper Foam,9,11,6,60,4.57,0.8
+Seaweed Packaging,7,15,8,78,4.71,0.71
+Molded Pulp,9,4,9,82,3.5,0.53
+Cornstarch Packaging,9,15,7,85,3.34,1.06
+Biodegradable Plastic,5,11,8,88,4.28,0.86
+Kraft Paper,5,8,9,93,4.12,0.47
+Mycelium Packaging,5,3,7,78,2.99,0.92
+Paper Foam,9,7,6,77,2.31,0.74
+Mycelium Packaging,6,5,7,61,2.79,1.05
+Recycled Paper Wrap,7,6,5,86,2.39,1.14
+Honeycomb Paperboard,7,3,5,65,2.88,0.88
+Corrugated Board,6,16,9,98,2.79,0.99
+Honeycomb Paperboard,6,11,8,65,3.91,0.45
+Mycelium Packaging,7,6,6,65,4.86,0.85
+Recycled Cardboard,8,16,9,90,4.06,1
+Kraft Paper,5,6,6,99,4.78,0.8
+Recycled Cardboard,5,12,5,89,4.35,0.87
+Cornstarch Packaging,7,5,8,80,4.18,1.12
+Kraft Paper,6,9,8,77,3.24,0.56
+Kraft Paper,8,12,5,82,2.97,0.48
+Recycled Cardboard,7,15,7,97,4.54,0.95
+Molded Pulp,5,6,8,82,4.72,1.06
+Seaweed Packaging,9,13,7,87,3.36,1.08
+Mycelium Packaging,6,6,6,95,2.03,0.91
+Recycled Cardboard,9,16,8,84,4.38,1.07
+Honeycomb Paperboard,7,10,5,66,2.86,0.96
+Molded Pulp,5,12,7,77,2.03,0.47
+Honeycomb Paperboard,8,7,6,79,4.41,1.01
+Seaweed Packaging,9,9,6,64,3.55,0.54
+Cornstarch Packaging,8,14,8,77,4.06,0.59
+Corrugated Board,5,5,8,99,4.74,0.72
+Seaweed Packaging,9,6,9,92,3.62,0.65
+PLA Bioplastic,8,12,9,74,3.51,0.66
+Bagasse Fiber,8,6,8,94,2.87,0.54
+Molded Pulp,9,17,9,60,2.92,0.64
+Cornstarch Packaging,5,12,5,80,4.39,0.42
+PLA Bioplastic,8,18,5,67,3.35,0.78
+Recycled Paper Wrap,7,17,9,66,2.49,1.01
+Cornstarch Packaging,9,14,8,99,2.28,1.09
+Recycled Cardboard,6,18,5,99,3.42,1.06
+Recycled PET,6,3,6,89,3.39,0.73
+Recycled Cardboard,5,18,8,97,3.96,0.98
+Seaweed Packaging,7,4,7,94,3.41,0.63
+Bagasse Fiber,8,17,7,61,2.43,0.44
+Cornstarch Packaging,6,9,8,67,3.52,0.94
+Mycelium Packaging,5,3,9,97,4.72,0.92
+Biodegradable Plastic,7,7,5,63,2.48,1.04
+Corrugated Board,7,12,5,96,4.07,0.89
+Seaweed Packaging,5,6,8,80,3.78,0.53
+Recycled Cardboard,5,16,6,72,4.25,1.08
+Bagasse Fiber,8,15,9,68,2.45,0.9
+Corrugated Board,5,3,6,88,4.82,1.05
+Cornstarch Packaging,8,18,8,83,3.86,1.02
+Mycelium Packaging,8,11,8,75,4.54,0.64
+Cornstarch Packaging,9,18,6,71,2.74,0.46
+Kraft Paper,7,17,7,61,4.22,0.54
+Bagasse Fiber,7,16,8,78,4.34,0.47
+PLA Bioplastic,7,12,9,89,3.19,0.59
+Recycled Cardboard,9,14,6,75,3.15,0.77
+Mycelium Packaging,8,3,7,83,3.97,1.13
+Biodegradable Plastic,8,19,6,72,2.28,1.1
+Cornstarch Packaging,5,11,7,64,4.21,0.97
+Biodegradable Plastic,9,9,7,82,2.13,0.42
+Cornstarch Packaging,5,11,9,97,2.57,0.67
+Recycled Cardboard,9,14,8,90,3.99,0.95
+Corrugated Board,5,9,7,76,2.29,0.5
+Paper Foam,6,16,8,62,4.92,1.04
+Corrugated Board,7,17,9,85,4.61,1.13
+Cornstarch Packaging,7,17,8,72,3.88,0.68
+Honeycomb Paperboard,8,8,5,97,4.46,0.96
+Recycled PET,6,16,7,81,4.66,0.52
+Bamboo Fiber Packaging,7,4,9,80,2.78,0.95
+Paper Foam,8,10,6,88,4.55,0.42
+PLA Bioplastic,6,15,9,98,2.58,0.52
+Paper Foam,7,8,7,64,3.24,0.97
+Recycled PET,5,7,9,73,3.67,0.97
+Biodegradable Plastic,9,7,6,77,4.14,0.91
+Bagasse Fiber,6,3,5,63,2.09,0.78
+Biodegradable Plastic,8,11,7,92,2.87,0.94
+Seaweed Packaging,6,8,7,98,3.83,1.02
+Biodegradable Plastic,8,9,9,79,3.07,1.17
+PLA Bioplastic,6,11,8,72,4.33,1.11
+Honeycomb Paperboard,8,7,8,95,3.95,1.04
+Corrugated Board,7,16,6,63,2.7,0.96
+Corrugated Board,5,7,5,94,2.44,0.86
+Bamboo Fiber Packaging,7,10,5,67,3.89,0.5
+Recycled Paper Wrap,5,9,9,99,3.35,0.53
+Cornstarch Packaging,7,15,9,95,2.51,1.06
+Honeycomb Paperboard,7,15,8,65,2.98,1.04
+Recycled Paper Wrap,6,10,5,81,2.91,0.89
+Recycled PET,9,13,5,65,2.32,0.75
+Seaweed Packaging,8,8,5,95,3.64,0.42
+Recycled Cardboard,8,4,6,68,4.29,0.66
+Recycled PET,8,15,6,75,3.73,0.74
+Cornstarch Packaging,5,13,9,98,4.48,0.79
+Cornstarch Packaging,8,3,8,97,2.38,1.14
+Kraft Paper,8,4,7,92,3.31,0.49
+Kraft Paper,6,19,8,77,3.83,0.82
+Molded Pulp,7,10,6,71,4.03,0.69
+Recycled PET,8,4,6,86,4.09,1.19
+Molded Pulp,9,8,9,60,4.19,1.09
+Biodegradable Plastic,8,7,7,74,3.95,0.75
+Recycled Cardboard,5,18,5,86,2.28,1.2
+Paper Foam,5,10,7,75,4.09,0.81
+Bamboo Fiber Packaging,5,18,7,80,4.17,0.53
+Paper Foam,8,15,7,60,4.98,0.84
+Bamboo Fiber Packaging,6,9,9,88,4.08,0.58
+Kraft Paper,9,18,6,62,4.06,0.91
+Kraft Paper,8,18,5,71,3.54,1.15
+Kraft Paper,6,14,7,87,4.6,1.03
+Honeycomb Paperboard,6,16,5,98,4.99,0.62
+Bagasse Fiber,8,18,7,96,4.34,0.64
+Bamboo Fiber Packaging,8,18,6,90,3.84,0.46
+Recycled PET,6,15,5,90,2.24,0.63
+Molded Pulp,6,11,8,92,4.18,0.47
+Honeycomb Paperboard,6,11,6,92,4.13,0.8
+Corrugated Board,8,15,5,99,4.33,0.97
+Paper Foam,6,6,7,70,2.37,1
+Seaweed Packaging,5,11,7,88,3.96,0.45
+PLA Bioplastic,8,17,6,84,2.89,0.67
+Cornstarch Packaging,5,16,6,72,4.28,0.63
+Molded Pulp,7,14,7,78,2.72,0.48
+Recycled Paper Wrap,8,8,5,95,4.05,0.69
+Mycelium Packaging,7,5,8,87,2.88,0.64
+Corrugated Board,6,18,9,63,2.03,0.91
+Recycled PET,6,19,6,62,3.9,1.11
+Seaweed Packaging,9,18,7,97,2.34,0.76
+Molded Pulp,6,8,5,96,3.98,1
+PLA Bioplastic,7,10,6,84,4.78,0.52
+Honeycomb Paperboard,6,4,5,94,4.91,1.12
+Recycled PET,8,16,6,88,2.71,0.52
+Recycled Cardboard,6,14,7,88,4.43,0.55
+Cornstarch Packaging,9,19,5,71,3.06,0.49
+Molded Pulp,6,17,7,94,4.7,0.65
+Bagasse Fiber,7,18,5,79,4.36,0.84
+Kraft Paper,7,15,6,76,2.22,1.19
+Kraft Paper,6,19,9,71,3.22,1.03
+Cornstarch Packaging,7,10,9,95,3.01,0.7
+PLA Bioplastic,7,3,8,69,4.36,0.86
+Bamboo Fiber Packaging,9,5,8,77,3.23,0.9
+Seaweed Packaging,8,18,7,89,4.05,1.06
+Honeycomb Paperboard,9,4,5,67,3.81,0.99
+Kraft Paper,5,17,8,72,4.93,0.86
+Molded Pulp,9,3,6,90,4.81,0.94
+Recycled Paper Wrap,6,11,9,65,3.28,1
+Paper Foam,8,18,5,66,4.17,0.51
+Bamboo Fiber Packaging,6,6,9,80,4.49,0.56
+Paper Foam,5,14,5,97,4.7,0.95
+Corrugated Board,8,3,8,87,2.2,1.08
+Seaweed Packaging,7,3,8,80,2.91,0.73
+Biodegradable Plastic,9,9,7,80,2.96,1.18
+Bamboo Fiber Packaging,6,17,5,83,3.3,0.57
+Recycled Cardboard,5,15,6,86,2.51,0.73
+Cornstarch Packaging,7,18,8,86,3.49,0.7
+Corrugated Board,9,9,7,72,3.99,1.14
+Biodegradable Plastic,7,18,8,88,3.49,0.63
+Honeycomb Paperboard,9,15,9,98,4,0.78
+Bamboo Fiber Packaging,8,16,8,87,2.2,0.55
+Bagasse Fiber,7,19,5,96,4.63,0.82
+Bagasse Fiber,7,14,7,88,4.82,1.09
+Recycled Cardboard,7,15,5,81,3.85,0.64
+Seaweed Packaging,8,17,6,95,4.64,1.05
+Kraft Paper,5,6,6,89,2.39,1.13
+Recycled PET,9,4,8,87,4.39,0.46
+Molded Pulp,7,4,7,82,2.36,1.01
+Corrugated Board,8,17,7,92,3.22,0.6
+Mycelium Packaging,5,17,7,63,2.97,0.54
+Bamboo Fiber Packaging,9,12,7,62,3.76,0.88
+Corrugated Board,8,13,8,91,2.9,0.96
+Bamboo Fiber Packaging,9,12,5,63,3.91,0.72
+Cornstarch Packaging,7,7,8,60,3.1,0.43
+Bamboo Fiber Packaging,5,11,5,71,4.58,1.13
+Cornstarch Packaging,8,15,9,72,3.9,0.98
+Bamboo Fiber Packaging,5,19,9,93,2.65,0.62
+Bagasse Fiber,7,8,5,88,3.01,0.8
+Bagasse Fiber,5,12,8,68,4.54,0.42
+Seaweed Packaging,5,4,6,90,3.16,0.67
+PLA Bioplastic,6,8,8,66,3.61,0.82
+Recycled Paper Wrap,5,15,6,72,3.95,0.81
+Recycled Paper Wrap,9,9,8,61,3.04,0.57
+PLA Bioplastic,8,4,7,92,2.88,1.02
+Kraft Paper,6,16,7,66,3.43,0.64
+Recycled Paper Wrap,8,7,9,77,2.64,0.86
+Seaweed Packaging,8,13,9,67,2.85,0.62
+Mycelium Packaging,7,12,5,71,2.19,0.74
+Mycelium Packaging,7,13,6,89,2.91,0.57
+Molded Pulp,6,4,7,68,2.96,0.91
+Molded Pulp,7,17,8,87,4.89,0.74
+Mycelium Packaging,7,9,5,63,3.77,0.41
+Corrugated Board,7,11,8,98,4.36,0.42
+Recycled PET,8,7,7,76,2.14,0.78
+Paper Foam,6,9,7,70,2.32,0.55
+PLA Bioplastic,8,4,7,61,4.44,0.87
+Molded Pulp,9,5,7,82,3.87,0.73
+Recycled PET,8,4,8,81,2.57,0.92
+Recycled PET,9,6,5,85,3.21,1.16
+Biodegradable Plastic,5,9,7,71,3.62,0.82
+Bagasse Fiber,5,9,9,91,4.53,1.03
+Cornstarch Packaging,9,19,5,68,2.18,1
+Seaweed Packaging,9,18,9,64,3.79,1.14
+Mycelium Packaging,8,5,8,85,4.15,0.57
+Recycled Paper Wrap,9,17,7,66,4.93,1.06
+PLA Bioplastic,6,16,5,88,4.42,1.12
+Corrugated Board,5,17,7,92,2.83,0.71
+Mycelium Packaging,5,16,7,83,4.13,0.65
+Recycled Cardboard,9,9,5,84,4.29,1.16
+Cornstarch Packaging,7,5,7,90,4.19,0.9
+Biodegradable Plastic,7,19,7,88,4.46,0.7
+Recycled PET,9,12,6,64,4.71,1.03
+Recycled Paper Wrap,6,17,6,97,2.3,0.64
+Biodegradable Plastic,7,8,5,70,2.31,0.54
+Bagasse Fiber,9,19,5,91,4.39,0.84
+Mycelium Packaging,6,19,7,67,2.76,0.85
+Bamboo Fiber Packaging,6,16,9,79,2.18,1.06
+Bagasse Fiber,8,7,5,93,3.2,0.77
+Seaweed Packaging,6,10,7,67,4.46,1.05
+Recycled PET,7,9,9,61,2.38,0.65
+Kraft Paper,7,6,6,80,4.02,0.86
+Corrugated Board,9,7,5,74,2.01,0.57
+Recycled PET,9,18,7,65,2.33,0.71
+Cornstarch Packaging,6,16,6,64,3.05,1.09
+Honeycomb Paperboard,5,16,8,62,2.25,0.57
+Honeycomb Paperboard,8,11,6,75,4.54,1.05
+Cornstarch Packaging,5,8,7,94,4.59,0.63
+Recycled Cardboard,6,19,9,68,4.27,0.43
+Seaweed Packaging,6,14,8,94,2.73,0.49
+Corrugated Board,5,6,8,78,3.57,1
+Biodegradable Plastic,8,18,8,93,2.55,0.61
+Recycled Cardboard,5,13,5,98,2.84,0.92
+Paper Foam,9,6,7,69,3.55,0.96
+Cornstarch Packaging,7,19,8,69,4.21,0.68
+Biodegradable Plastic,9,10,6,79,2.28,0.78
+Honeycomb Paperboard,7,16,9,60,2.89,0.72
+Molded Pulp,6,4,7,65,4.78,1.16
+PLA Bioplastic,8,13,6,61,3.29,0.66
+Kraft Paper,5,13,5,97,4.82,0.55
+Honeycomb Paperboard,8,8,8,92,4.97,0.69
+Corrugated Board,5,16,6,62,3.58,0.94
+Bamboo Fiber Packaging,9,12,7,95,2.86,0.96
+Bagasse Fiber,9,10,6,72,4.37,1.14
+PLA Bioplastic,5,9,5,94,2.48,1.11
+PLA Bioplastic,8,10,9,74,2.76,0.63
+Molded Pulp,5,10,8,81,4.35,0.76
+Kraft Paper,6,4,7,63,3.3,1
+Mycelium Packaging,9,18,8,76,2.6,1.13
+Kraft Paper,6,11,8,64,3.95,0.67
+Paper Foam,9,15,8,80,4.2,0.76
+Paper Foam,9,14,6,83,2.38,1.12
+Recycled Paper Wrap,7,19,6,90,2.83,0.69
+Honeycomb Paperboard,6,4,9,99,2.66,0.78
+Honeycomb Paperboard,6,15,5,89,3.14,1.12
+Honeycomb Paperboard,7,3,7,66,4.29,1.04
+Recycled Paper Wrap,8,13,6,66,4.14,0.59
+Seaweed Packaging,6,7,8,86,3.99,0.66
+Recycled Cardboard,5,3,5,83,2.02,0.68
+Bamboo Fiber Packaging,7,15,7,78,2.43,1.13
+Bamboo Fiber Packaging,6,10,7,93,2.67,1.2
+Kraft Paper,8,8,7,81,2.82,1.02
+Molded Pulp,6,19,7,86,2.44,0.79
+Corrugated Board,9,14,9,65,3.23,0.41
+Kraft Paper,5,3,7,69,2.23,0.96
+Paper Foam,7,5,5,90,4.25,0.71
+PLA Bioplastic,9,16,6,84,4.36,0.91
+Biodegradable Plastic,8,10,5,61,3.72,0.89
+Recycled PET,9,13,8,69,2.27,0.78
+Bagasse Fiber,9,16,9,69,4.67,1.16
+Recycled Paper Wrap,8,10,9,85,4.9,0.42
+Cornstarch Packaging,9,5,8,64,2.61,0.97
+Biodegradable Plastic,7,9,5,81,4.11,0.73
+Corrugated Board,6,6,5,63,4.53,0.97
+Honeycomb Paperboard,9,18,8,93,3.62,0.94
+Paper Foam,7,15,7,66,2.97,0.41
+Recycled PET,6,7,7,76,3.44,0.63
+Mycelium Packaging,6,7,6,70,3.54,0.55
+Paper Foam,9,6,5,67,3.2,0.53
+Paper Foam,7,4,5,87,4.79,0.98
+Honeycomb Paperboard,9,15,8,92,4.23,0.59
+Cornstarch Packaging,8,18,8,84,2.72,0.78
+Recycled Paper Wrap,6,4,7,80,3.76,0.6
+Biodegradable Plastic,9,19,5,71,4.07,0.86
+Honeycomb Paperboard,6,7,5,85,2.42,0.98
+Corrugated Board,7,10,9,88,3.08,0.66
+Recycled Paper Wrap,5,17,6,97,4.72,0.88
+Corrugated Board,9,15,6,94,3.7,1.06
+Recycled Paper Wrap,9,15,7,96,2.65,0.48
+Cornstarch Packaging,6,18,5,88,2.37,0.97
+Bagasse Fiber,7,15,9,83,3.55,0.66
+Corrugated Board,8,4,5,74,3.64,0.5
+Honeycomb Paperboard,7,5,8,65,3,0.84
+Recycled Paper Wrap,9,17,7,91,3.89,0.58
+Bamboo Fiber Packaging,8,15,6,93,2.21,1.06
+Paper Foam,7,7,5,95,2.44,0.43
+Seaweed Packaging,5,8,7,79,3.64,0.48
+Kraft Paper,6,16,6,71,2.19,0.82
+Mycelium Packaging,7,6,5,94,4.64,0.87
+Paper Foam,7,9,9,97,2.43,0.98
+Recycled Cardboard,5,6,7,76,4.02,0.61
+Bagasse Fiber,9,4,5,86,3.17,1.07
+Bagasse Fiber,6,9,6,76,3.2,1.16
+Paper Foam,7,5,6,70,4.29,0.8
+Mycelium Packaging,8,17,9,98,3.5,1.01
+Bamboo Fiber Packaging,7,3,7,61,4.18,0.82
+Biodegradable Plastic,6,4,7,61,3.52,0.46
+Cornstarch Packaging,7,12,5,88,3.78,0.66
+Corrugated Board,5,18,6,83,4.28,0.47
+Honeycomb Paperboard,7,17,6,83,3.82,1.19
+Bagasse Fiber,7,17,9,75,3.85,0.58
+Paper Foam,8,16,9,90,4.37,0.91
+Paper Foam,5,16,7,68,4.85,0.63
+Cornstarch Packaging,5,8,6,86,3.13,0.92
+Bamboo Fiber Packaging,7,16,5,73,3.73,0.57
+Cornstarch Packaging,8,19,8,84,2.26,1.03
+Molded Pulp,7,19,5,81,3.08,0.49
+Bamboo Fiber Packaging,7,18,9,94,3.24,1.12
+Molded Pulp,6,10,5,92,4.51,1.07
+Biodegradable Plastic,6,9,6,86,3.54,0.94
+Recycled PET,8,14,7,99,4.19,0.45
+Seaweed Packaging,9,11,8,85,2.06,0.57
+Seaweed Packaging,6,16,7,78,3.39,1.09
+Biodegradable Plastic,9,3,8,98,4.7,0.5
+Recycled Cardboard,5,12,8,85,2.67,0.52
+Recycled PET,6,19,6,65,2.09,0.84
+Bamboo Fiber Packaging,6,19,6,62,3.3,0.62
+Biodegradable Plastic,8,19,9,65,4.11,0.58
+Recycled Paper Wrap,9,6,9,87,3.36,0.86
+Cornstarch Packaging,6,19,8,62,3.38,0.7
+Mycelium Packaging,6,4,9,72,4.01,0.51
+Seaweed Packaging,8,10,6,72,2.76,0.83
+Bamboo Fiber Packaging,8,15,9,72,4.26,0.71
+Honeycomb Paperboard,9,17,8,60,2.46,0.99
+Recycled Paper Wrap,5,11,7,99,3.19,0.48
+Corrugated Board,5,5,5,96,3.97,0.9
+Recycled PET,7,5,9,90,4.49,0.75
+Paper Foam,6,4,6,76,4.37,0.72
+Biodegradable Plastic,9,3,7,68,4.17,0.59
+Mycelium Packaging,6,16,6,72,3.08,0.42
+Paper Foam,9,19,9,96,2.37,1.08
+Bamboo Fiber Packaging,9,15,8,73,2.65,0.66
+Bagasse Fiber,9,17,5,70,4.59,0.94
+Recycled Cardboard,6,16,5,84,4.57,1.16
+Bagasse Fiber,8,4,7,90,4.85,0.85
+Recycled Cardboard,6,9,5,73,2.23,0.72
+Molded Pulp,9,19,8,66,3.61,0.61
+Recycled PET,7,8,6,83,3.95,1.15
+Paper Foam,5,10,8,95,4.13,0.95
+Recycled Cardboard,9,4,7,62,3.93,0.93
+PLA Bioplastic,7,3,7,85,4.31,0.74
+Seaweed Packaging,8,18,5,85,3.08,1.08
+PLA Bioplastic,9,9,8,60,2.54,0.97
+Recycled PET,7,13,6,74,2.61,0.63
+PLA Bioplastic,9,17,8,70,2.04,0.88
+Kraft Paper,6,15,6,96,3.05,0.74
+Seaweed Packaging,7,4,6,66,2.28,0.41
+Recycled Paper Wrap,6,16,8,71,2.96,1.05
+Mycelium Packaging,6,8,9,97,3.88,0.5
+Recycled Cardboard,7,11,8,62,4.68,0.81
+Recycled Cardboard,5,9,6,85,4.52,0.67
+Recycled Paper Wrap,7,11,7,89,2.76,0.67
+Paper Foam,5,6,7,91,2.4,0.78
+Paper Foam,9,11,5,95,2.58,1.2
+Recycled PET,9,6,7,96,4.91,0.73
+PLA Bioplastic,7,14,9,77,3.65,0.55
+Recycled PET,9,6,6,60,2.55,0.89
+Recycled Paper Wrap,8,16,8,80,4.52,0.59
+Recycled PET,6,9,8,87,3.19,0.48
+Bamboo Fiber Packaging,6,15,9,75,4.7,0.44
+Seaweed Packaging,5,10,7,87,2.78,0.42
+PLA Bioplastic,9,7,6,81,3.18,0.74
+Bagasse Fiber,5,14,7,78,3.51,0.74
+Kraft Paper,6,15,5,60,4.68,0.55
+Honeycomb Paperboard,6,16,7,90,4.61,1.03
+Corrugated Board,9,6,5,93,3.72,0.5
+Kraft Paper,8,9,8,99,2.67,1.13
+Paper Foam,8,17,6,65,3.21,0.87
+Mycelium Packaging,9,8,5,87,4.93,0.42
+Honeycomb Paperboard,9,18,7,62,3.82,1.17
+Molded Pulp,5,10,7,90,4.34,0.65
+Biodegradable Plastic,9,18,8,75,3.35,0.76
+Mycelium Packaging,8,18,9,76,3.6,0.63
+PLA Bioplastic,9,5,9,86,3.29,0.98
+Recycled Cardboard,5,19,7,83,4.11,0.79
+Bamboo Fiber Packaging,5,11,9,79,4.55,0.51
+Bamboo Fiber Packaging,5,5,6,91,3.52,0.48
+Recycled Paper Wrap,5,9,9,94,3.44,0.98
+Mycelium Packaging,7,14,6,72,3.02,0.59
+Recycled Paper Wrap,9,18,7,79,2.53,0.51
+Recycled Cardboard,6,19,7,61,4.82,0.8
+PLA Bioplastic,9,17,7,63,2.95,1.04
+Mycelium Packaging,7,3,8,86,4.4,0.62
+Biodegradable Plastic,5,4,9,84,4.15,0.62
+Corrugated Board,7,10,5,63,4.37,1.07
+Biodegradable Plastic,8,4,5,91,4.81,0.52
+Honeycomb Paperboard,8,11,7,76,3.87,0.89
+Biodegradable Plastic,9,11,9,60,4.69,1.16
+Bamboo Fiber Packaging,9,15,6,92,2.5,1.07
+Honeycomb Paperboard,6,8,5,89,3.88,0.45
+Biodegradable Plastic,6,17,7,64,4.32,0.66
+Corrugated Board,8,17,5,71,2.81,0.51
+Mycelium Packaging,5,9,5,97,4.22,1.16
+Corrugated Board,7,13,5,91,4.34,1.19
+Paper Foam,6,10,7,97,4.49,0.59
+Recycled Cardboard,6,8,7,76,2.94,0.94
+Corrugated Board,5,10,8,99,4.04,1.07
+Honeycomb Paperboard,5,4,8,91,2.91,0.59
+Corrugated Board,9,18,8,83,4.22,0.55
+Paper Foam,7,9,5,71,3.39,0.41
+Recycled Paper Wrap,5,12,9,90,3.79,0.73
+Honeycomb Paperboard,6,14,7,78,3.25,1.12
+Paper Foam,6,19,8,88,2.49,1.12
+Bamboo Fiber Packaging,8,9,9,80,2.53,0.5
+Bagasse Fiber,5,10,8,85,2.23,0.56
+Bagasse Fiber,9,9,8,87,3.85,0.73
+Molded Pulp,7,6,9,76,4.55,1.02
+Biodegradable Plastic,9,5,8,68,2.06,0.89
+Recycled Cardboard,6,17,5,80,2.2,0.81
+Cornstarch Packaging,9,6,5,93,3.37,0.87
+Kraft Paper,6,11,5,70,4.21,0.48
+Paper Foam,6,15,6,79,2.47,0.78
+Recycled Paper Wrap,6,18,8,98,2.81,1.19
+Kraft Paper,6,3,6,75,2.7,0.47
+Recycled Paper Wrap,6,6,7,88,3.2,0.82
+Bamboo Fiber Packaging,8,10,9,60,2.67,0.64
+Seaweed Packaging,9,18,7,77,3.06,0.83
+Seaweed Packaging,8,13,6,81,4.19,0.86
+Seaweed Packaging,8,13,5,67,3.83,0.86
+Kraft Paper,5,5,8,66,2.24,1.08
+Recycled PET,5,10,8,84,3.91,0.71
+Paper Foam,5,12,5,89,3.43,0.81
+Cornstarch Packaging,7,18,8,93,4.8,0.41
+Kraft Paper,5,7,9,70,2.87,1.03
+Paper Foam,9,11,9,74,4.18,0.61
+Corrugated Board,8,10,9,94,4.19,1.05
+Bamboo Fiber Packaging,9,13,7,82,2.66,0.61
+Cornstarch Packaging,5,18,5,80,4.71,0.41
+Seaweed Packaging,7,9,9,87,3.47,0.52
+Honeycomb Paperboard,7,17,6,72,4.04,1.19
+Bamboo Fiber Packaging,8,19,9,93,2.44,0.66
+Recycled Paper Wrap,9,8,7,97,2.77,0.49
+Seaweed Packaging,6,17,6,65,3.76,0.5
+Bagasse Fiber,9,10,5,63,2.96,0.65
+Biodegradable Plastic,5,9,5,64,3.5,0.43
+Bagasse Fiber,6,4,9,99,3.12,0.81
+Seaweed Packaging,7,15,6,65,3.92,0.57
+Bamboo Fiber Packaging,8,8,6,80,3.46,0.82
+Cornstarch Packaging,8,7,9,87,2.01,0.51
+Honeycomb Paperboard,7,3,9,62,3.95,0.74
+Recycled Paper Wrap,5,17,8,82,3.27,0.88
+Recycled PET,7,12,8,67,3.03,0.45
+Honeycomb Paperboard,5,5,9,78,2.28,0.72
+Kraft Paper,6,7,7,70,2.66,0.64
+Mycelium Packaging,7,15,8,69,2.67,0.59
+Recycled Paper Wrap,5,10,9,87,4.81,0.88
+Seaweed Packaging,6,4,6,79,3.3,0.87
+Kraft Paper,7,11,8,87,2.13,0.9
+Mycelium Packaging,8,19,7,88,2.42,0.53
+Paper Foam,7,15,5,67,2.24,0.63
+Cornstarch Packaging,9,3,6,78,3.77,0.57
+PLA Bioplastic,7,14,7,80,2.56,0.83
+Paper Foam,9,7,7,77,3.5,0.77
+Molded Pulp,6,10,7,68,3.11,0.66
+Honeycomb Paperboard,7,17,6,63,4.41,1.03
+PLA Bioplastic,6,5,7,84,2.96,0.48
+Kraft Paper,6,8,5,93,3.37,1.18
+Corrugated Board,5,15,8,68,4.16,0.49
+Paper Foam,6,14,6,68,3.3,1.02
+Molded Pulp,6,3,7,77,4.38,0.69
+Recycled Cardboard,7,9,9,70,3.99,1.09
+PLA Bioplastic,7,14,8,72,3.23,0.46
+Bagasse Fiber,8,12,6,97,3.51,0.7
+Recycled Paper Wrap,5,14,9,68,4.9,0.67
+Recycled PET,6,13,9,75,3.98,1.19
+Recycled PET,5,6,7,63,4.71,1.19
+Molded Pulp,9,8,6,93,2.54,0.55
+Cornstarch Packaging,6,11,7,66,3.45,0.9
+PLA Bioplastic,5,12,5,74,4.73,0.83
+Paper Foam,8,7,9,97,2.97,0.52
+Cornstarch Packaging,8,15,5,70,4.9,0.53
+Recycled PET,6,11,7,91,2.29,1.19
+Bagasse Fiber,9,4,8,86,4.71,0.76
+Corrugated Board,8,3,9,89,3.34,0.5
+Honeycomb Paperboard,8,14,8,76,2.22,0.57
+Honeycomb Paperboard,9,12,6,95,4.64,0.61
+Seaweed Packaging,5,4,9,78,2.76,0.81
+Cornstarch Packaging,8,11,5,66,2.07,0.67
+Bamboo Fiber Packaging,7,4,8,80,2.41,0.76
+Kraft Paper,8,16,6,87,3.98,0.53
+Corrugated Board,5,13,9,62,4.93,0.66
+Honeycomb Paperboard,5,13,6,73,2.33,0.46
+Corrugated Board,6,19,5,61,3.39,1.11
+Molded Pulp,7,6,9,88,2.54,0.56
+Corrugated Board,5,15,6,77,4.24,1.01
+Biodegradable Plastic,9,9,7,96,2.35,0.68
+Bagasse Fiber,7,18,9,83,2.72,0.78
+Honeycomb Paperboard,7,3,9,71,2.59,0.63
+Corrugated Board,9,15,9,91,3.66,0.96
+Cornstarch Packaging,8,3,9,77,4.62,1.08
+Recycled Cardboard,9,13,7,72,3.53,0.63
+Biodegradable Plastic,9,8,5,63,2.17,0.59
+Biodegradable Plastic,8,5,7,82,3.69,0.95
+Kraft Paper,8,14,7,69,4.39,0.56
+Corrugated Board,8,7,6,64,2.4,0.91
+Seaweed Packaging,8,11,8,99,2.22,0.48
+Kraft Paper,8,14,8,73,2.56,0.9
+Mycelium Packaging,9,12,6,93,4.24,0.81
+Kraft Paper,6,7,7,87,3.78,0.49
+Recycled Cardboard,6,7,6,67,3.62,0.92
+Molded Pulp,5,11,9,75,2.75,0.76
+Corrugated Board,6,19,6,90,3,0.57
+Paper Foam,6,12,6,66,4.9,0.68
+Recycled PET,9,3,9,62,2.72,0.79
+Honeycomb Paperboard,8,18,8,88,4.7,0.47
+Kraft Paper,8,17,9,95,3.74,1.17
+Bagasse Fiber,9,19,5,98,2.37,0.93
+Recycled Paper Wrap,6,15,6,63,3.4,0.48
+Bagasse Fiber,9,3,6,68,4.85,1.06
+Recycled Cardboard,5,10,8,76,3.26,0.66
+Recycled Cardboard,8,7,7,79,4.59,0.88
+Cornstarch Packaging,7,8,9,73,2.77,0.62
+Mycelium Packaging,5,16,7,88,3.71,0.99
+Mycelium Packaging,5,13,5,72,4.53,0.98
+Molded Pulp,9,8,9,95,4.76,0.84
+Seaweed Packaging,6,13,5,76,3.46,0.59
+Honeycomb Paperboard,8,15,5,63,3.92,0.6
+PLA Bioplastic,7,14,5,79,2.01,0.71
+Kraft Paper,5,4,9,70,2.76,0.52
+Bagasse Fiber,7,5,9,81,2.84,0.67
+Recycled Paper Wrap,6,6,8,67,2.28,0.95
+Recycled Cardboard,6,19,6,87,2.84,1.06
+Recycled Cardboard,7,8,7,89,2.96,0.67
+Molded Pulp,8,9,7,92,4.91,0.59
+Recycled Paper Wrap,6,17,5,92,4.01,1.07
+Bamboo Fiber Packaging,7,13,9,95,3.28,1.11
+Recycled Paper Wrap,5,5,9,86,4.96,0.73
+Molded Pulp,7,8,5,79,2.46,0.42
+Recycled Cardboard,7,4,6,92,3.43,0.96
+Honeycomb Paperboard,9,16,7,84,3.94,1.03
+Corrugated Board,6,11,8,78,2.17,0.41
+Corrugated Board,8,14,6,80,4.15,0.88
+Molded Pulp,8,15,9,92,2.3,0.87
+Recycled Paper Wrap,9,14,5,62,2.42,0.7
+Kraft Paper,8,14,7,73,2.48,1
+Molded Pulp,7,11,5,74,4.79,0.74
+Honeycomb Paperboard,9,19,9,92,4.05,0.94
+Molded Pulp,5,18,5,81,3.97,0.81
+Biodegradable Plastic,6,19,7,60,3.67,0.6
+Mycelium Packaging,6,10,5,90,2.88,0.89
+Bagasse Fiber,6,13,7,94,3.86,0.99
+Recycled Paper Wrap,7,4,5,79,3.23,1.18
+Seaweed Packaging,5,10,5,91,2.44,0.7
+Cornstarch Packaging,9,14,7,71,4.07,0.45
+Recycled PET,9,3,5,75,2.39,1.19
+Cornstarch Packaging,6,15,6,67,2.57,0.9
+Recycled Paper Wrap,5,19,8,73,4.45,1.16
+Seaweed Packaging,5,16,6,77,3.98,0.48
+PLA Bioplastic,5,16,8,89,3.89,0.67
+Honeycomb Paperboard,8,18,6,92,3.25,0.51
+Biodegradable Plastic,8,19,8,93,3.19,1.07
+Biodegradable Plastic,6,8,5,93,4.07,1.1
+Recycled PET,5,9,7,66,4.22,0.8
+Recycled Cardboard,5,3,7,65,3.53,0.55
+Bagasse Fiber,9,17,9,65,4.91,0.5
+Corrugated Board,9,15,8,81,4.87,0.87
+Paper Foam,6,4,9,67,3.24,0.81
+Honeycomb Paperboard,5,17,9,96,4.46,0.96
+Recycled PET,6,14,8,74,3.63,0.64
+Paper Foam,9,17,7,85,3.54,0.72
+Bamboo Fiber Packaging,9,16,8,98,2.16,0.42
+Paper Foam,8,8,5,62,3.72,0.89
+Recycled Paper Wrap,6,14,9,69,4.7,0.74
+Recycled PET,6,8,9,62,4.34,1.14
+Cornstarch Packaging,5,11,8,89,4.36,0.91
+Cornstarch Packaging,5,6,9,81,2.48,0.72
+Corrugated Board,8,19,7,62,3.08,0.61
+Recycled PET,7,4,9,60,2.7,1.12
+Recycled Paper Wrap,7,18,8,92,2.95,0.41
+Paper Foam,7,16,7,78,3.74,0.66
+Seaweed Packaging,6,10,7,95,3.09,1.15
+Bamboo Fiber Packaging,6,16,9,93,3.68,0.92
+PLA Bioplastic,9,4,8,90,3.32,0.83
+Mycelium Packaging,6,18,9,83,2.86,0.56
+Kraft Paper,6,6,5,71,2.29,1.07
+Cornstarch Packaging,6,3,5,72,4.68,0.56
+Honeycomb Paperboard,8,16,7,75,2.03,0.6
+Seaweed Packaging,6,10,9,75,2,0.55
+Honeycomb Paperboard,5,5,5,79,4.48,0.53
+Recycled Cardboard,5,7,6,86,4.99,1.16
+Recycled PET,9,8,5,98,4.18,0.88
+Molded Pulp,8,10,9,72,2.05,0.91
+Kraft Paper,5,8,9,63,2.68,1.16
+Cornstarch Packaging,8,8,5,91,4.92,0.58
+Bamboo Fiber Packaging,8,6,9,99,4.43,0.4
+Biodegradable Plastic,9,9,9,93,3.7,0.88
+Cornstarch Packaging,8,9,6,98,2.71,0.81
+Seaweed Packaging,6,5,7,76,2.04,0.78
+Recycled Cardboard,8,10,9,83,2.06,0.45
+Honeycomb Paperboard,9,3,8,88,3.84,0.76
+Paper Foam,9,3,7,87,2.07,0.63
+Biodegradable Plastic,9,16,7,81,4.98,0.62
+Recycled Paper Wrap,5,8,8,87,2.55,0.58
+Bagasse Fiber,6,12,5,84,4.13,0.67
+Paper Foam,5,16,6,62,2.47,0.68
+Bagasse Fiber,7,6,9,72,3.62,0.65
+Kraft Paper,6,8,5,90,2.24,1.18
+PLA Bioplastic,8,18,8,72,4.3,1.15
+Molded Pulp,9,3,6,77,3.75,0.86
+PLA Bioplastic,7,8,6,96,2.26,1.18
+Biodegradable Plastic,6,11,6,93,4.55,1.19
+Corrugated Board,5,17,8,76,3.64,0.68
+Biodegradable Plastic,9,14,5,80,4.76,0.76
+PLA Bioplastic,5,5,9,95,4.75,1.17
+Cornstarch Packaging,6,13,6,99,4.76,0.89
+Seaweed Packaging,6,17,6,78,2.23,0.57
+Honeycomb Paperboard,7,5,5,71,2.36,0.95
+Cornstarch Packaging,8,16,6,87,4.96,0.56
+Cornstarch Packaging,5,4,6,70,3.46,0.67
+Seaweed Packaging,7,6,8,96,2.71,0.58
+Seaweed Packaging,9,14,7,87,4.31,0.6
+Kraft Paper,8,4,5,94,2.79,0.4
+Paper Foam,7,19,5,74,4.18,1.1
+Corrugated Board,5,5,5,75,4.51,0.64
+Corrugated Board,6,12,8,66,4.35,0.47
+Cornstarch Packaging,9,18,8,62,2.82,0.47
+Bagasse Fiber,5,11,9,90,3.2,0.84
+Kraft Paper,8,13,8,71,3.24,1.19
+Recycled PET,8,17,5,67,3.47,0.52
+Recycled PET,6,5,9,84,2.5,0.48
+Bamboo Fiber Packaging,6,18,7,94,3.36,0.75
+Cornstarch Packaging,9,14,6,71,3.53,0.85
+Molded Pulp,9,7,6,80,3.6,0.64
+Honeycomb Paperboard,6,9,9,85,4.46,0.64
+Seaweed Packaging,6,11,7,61,3.55,0.74
+Paper Foam,8,10,6,73,2.69,0.65
+Recycled Paper Wrap,6,14,9,63,3.99,1.13
+Seaweed Packaging,7,4,8,76,4.39,0.43
+Molded Pulp,5,12,5,64,2.96,0.59
+Bagasse Fiber,6,11,7,83,3.94,1.05
+Biodegradable Plastic,9,10,6,66,2.44,1.07
+Mycelium Packaging,7,3,5,82,3.03,0.49
+Biodegradable Plastic,9,8,9,76,4.73,1.18
+PLA Bioplastic,7,14,6,71,4.73,0.95
+Molded Pulp,6,19,5,70,3.73,0.62
+PLA Bioplastic,5,4,8,70,4.11,0.76
+Cornstarch Packaging,9,13,7,93,4.56,0.64
+Recycled Paper Wrap,7,13,9,96,4.88,0.52
+Recycled Cardboard,8,10,6,88,3.47,0.63
+Seaweed Packaging,6,17,8,95,3.68,0.86
+Recycled Cardboard,5,11,7,86,3.25,1.06
+Bagasse Fiber,6,17,7,81,2.22,0.69
+Cornstarch Packaging,8,9,8,61,3.27,0.68
+Corrugated Board,5,15,6,95,4.37,0.77
+Seaweed Packaging,8,15,7,89,4.41,0.92
+PLA Bioplastic,6,3,9,66,4.68,1
+Corrugated Board,7,6,5,71,2.15,0.66
+Paper Foam,6,6,9,62,3.58,0.87
+Bamboo Fiber Packaging,6,6,7,76,2.32,0.71
+Recycled Paper Wrap,6,15,5,91,2.6,0.97
+Bamboo Fiber Packaging,9,4,8,67,4.7,0.53
+Recycled Paper Wrap,8,17,5,82,3.49,0.61
+Biodegradable Plastic,8,6,5,97,4.28,0.74
+Kraft Paper,8,8,5,89,2.19,1.11
+Seaweed Packaging,9,5,7,74,3.25,0.86
+PLA Bioplastic,7,9,6,69,4.02,1.17
+Bamboo Fiber Packaging,6,8,7,97,2.4,0.48
+Bagasse Fiber,7,5,6,74,2.98,0.77
+Recycled Cardboard,9,6,8,89,2.19,0.74
+Recycled PET,8,12,8,85,3.95,0.88
+Mycelium Packaging,6,11,8,73,4.91,1.05
+Bagasse Fiber,5,8,8,62,4.48,1.07
+Corrugated Board,5,13,8,95,4.92,0.94
+Corrugated Board,7,9,9,85,4.54,0.91
+Bamboo Fiber Packaging,8,6,7,73,4.57,1.16
+Mycelium Packaging,5,7,6,90,3.73,0.71
+Molded Pulp,7,6,8,73,3.55,1.07
+Paper Foam,9,6,9,99,3.22,1.14
+Seaweed Packaging,7,15,9,69,4.45,0.79
+Recycled Paper Wrap,7,18,9,68,2.55,0.98
+Honeycomb Paperboard,7,16,7,99,2.17,0.7
+Recycled PET,6,13,8,77,4.84,0.53
+PLA Bioplastic,7,4,9,95,2.01,0.87
+Bagasse Fiber,7,16,9,95,4.93,0.56
+PLA Bioplastic,6,9,8,71,4.19,0.77
+Corrugated Board,6,13,7,99,2.99,1.1
+Kraft Paper,9,6,9,62,4.09,0.47
+Biodegradable Plastic,8,9,6,77,4.45,0.42
+Recycled Cardboard,5,18,5,66,2.74,0.89
+Paper Foam,5,8,5,90,4.31,0.66
+Kraft Paper,7,8,5,60,4.41,0.73
+Paper Foam,9,4,7,90,2.75,0.72
+Molded Pulp,7,10,9,72,2.13,0.47
+Honeycomb Paperboard,5,9,5,88,2.61,0.4
+Bamboo Fiber Packaging,6,16,5,62,2.6,1.12
+Bamboo Fiber Packaging,8,11,8,88,2.2,0.57
+Corrugated Board,9,17,9,94,4.18,0.74
+Biodegradable Plastic,6,14,9,74,3.14,1.18
+Mycelium Packaging,8,15,8,80,4.65,1.06
+Seaweed Packaging,9,9,9,78,2.76,0.49
+Mycelium Packaging,9,12,6,87,3.36,0.81
+Kraft Paper,5,12,7,63,3.92,0.98
+Paper Foam,6,4,8,72,4.63,0.96
+Recycled Paper Wrap,9,16,5,74,3.57,1.01
+Molded Pulp,9,15,9,98,3.12,0.77
+Recycled Paper Wrap,8,8,6,91,4.6,0.54
+Biodegradable Plastic,5,11,6,62,2.93,0.77
+Seaweed Packaging,7,15,7,89,2.24,0.92
+Seaweed Packaging,5,11,6,79,3.34,0.89
+Kraft Paper,7,15,9,61,4.36,0.46
+PLA Bioplastic,6,7,9,84,2.09,0.45
+Molded Pulp,6,16,6,70,3.76,1.17
+Recycled PET,9,7,9,60,3.78,0.52
+Seaweed Packaging,6,11,9,69,4.79,0.64
+Seaweed Packaging,9,10,5,76,2.86,1.01
+Kraft Paper,5,9,8,89,2.84,0.73
+Corrugated Board,6,10,9,94,3.32,0.55
+Cornstarch Packaging,5,5,9,78,3.07,0.77
+Molded Pulp,5,17,7,93,4.21,0.86
+Recycled Paper Wrap,6,10,8,91,3.93,0.76
+Biodegradable Plastic,5,3,8,71,4.28,1.14
+Seaweed Packaging,6,9,8,76,4.46,0.63
+Seaweed Packaging,6,4,6,65,4.77,0.93
+Bamboo Fiber Packaging,6,16,5,72,3.29,0.49
+Honeycomb Paperboard,7,17,5,98,4.95,0.71
+Corrugated Board,5,16,7,81,2.65,0.99
+Seaweed Packaging,8,19,8,70,4.14,0.58
+Cornstarch Packaging,6,18,8,66,3.6,0.87
+Honeycomb Paperboard,5,3,9,80,4.45,0.52
+Bamboo Fiber Packaging,9,9,6,60,3.43,0.48
+Recycled Cardboard,6,13,6,89,4.35,0.82
+Corrugated Board,6,7,7,78,4.79,0.94
+Biodegradable Plastic,8,19,5,88,4.2,0.49
+Paper Foam,7,13,8,94,4.33,1.13
+Molded Pulp,7,10,7,79,2.2,0.58
+Kraft Paper,6,12,6,95,2.61,0.5
+Biodegradable Plastic,5,14,6,98,4.92,0.56
+Recycled PET,9,12,6,60,4.08,0.54
+Molded Pulp,9,15,8,82,3.68,0.47
+Honeycomb Paperboard,5,12,8,90,3.1,1.04
+PLA Bioplastic,6,19,8,94,2.13,0.8
+Kraft Paper,9,18,9,81,3.11,0.71
+Bagasse Fiber,7,7,5,66,3.5,1.16
+Recycled Paper Wrap,5,5,6,92,2.63,0.7
+Recycled Cardboard,8,17,6,95,2.52,0.53
+Corrugated Board,6,4,9,66,3.53,0.62
+Seaweed Packaging,5,15,6,86,3.76,0.59
+PLA Bioplastic,9,10,6,61,2.72,0.8
+Bamboo Fiber Packaging,6,19,8,76,3.76,0.63
+Recycled PET,7,6,8,60,4.7,0.81
+PLA Bioplastic,6,11,5,89,3.42,0.94
+Biodegradable Plastic,6,17,6,81,4.57,1.02
+Recycled Cardboard,7,11,7,87,4.78,0.97
+Paper Foam,7,11,6,92,2.28,0.56
+Mycelium Packaging,6,16,6,85,2.29,0.49
+Molded Pulp,7,18,5,94,3.43,0.83
+Molded Pulp,5,19,7,70,3.76,0.56
+Biodegradable Plastic,7,15,6,66,3.28,0.47
+Cornstarch Packaging,7,11,7,87,2.98,0.82
+Cornstarch Packaging,6,17,8,84,3.92,0.66
+Seaweed Packaging,5,9,8,90,2.01,1
+Recycled PET,8,3,7,62,4.9,0.65
+Bagasse Fiber,8,3,6,92,2.7,1.18
+Recycled Paper Wrap,9,7,7,93,4.75,1.01
+Kraft Paper,7,11,7,80,2.33,0.45
+Paper Foam,7,14,8,96,2.71,0.81
+Seaweed Packaging,5,8,7,78,2.7,0.85
+Recycled Cardboard,8,15,9,96,4.99,0.96
+Cornstarch Packaging,9,10,9,80,2.01,0.8
+Bagasse Fiber,5,17,8,73,3.92,0.79
+Bagasse Fiber,7,8,6,69,4.61,0.69
+Recycled PET,8,8,6,66,4.02,0.62
+Biodegradable Plastic,9,6,8,88,3.09,1.16
+Paper Foam,6,13,6,99,4.87,0.65
+Honeycomb Paperboard,8,5,5,67,4.68,0.45
+Kraft Paper,9,5,9,98,3.3,0.53
+Recycled PET,5,14,5,72,3.72,1.09
+Recycled Paper Wrap,6,8,5,78,4.9,0.87
+Recycled PET,9,8,5,70,4.95,1.02
+Recycled PET,9,10,8,61,3.35,1.05
+Corrugated Board,7,17,5,65,4.54,1.06
+Biodegradable Plastic,8,18,7,88,2.91,0.84
+Kraft Paper,7,8,6,64,3.12,0.54
+Corrugated Board,6,19,8,89,2.49,0.52
+Corrugated Board,9,11,7,98,2.63,0.86
+Bamboo Fiber Packaging,7,7,7,95,3.97,0.69
+Paper Foam,8,8,9,86,3.53,0.85
+Bamboo Fiber Packaging,6,14,9,77,2.69,0.8
+Paper Foam,5,13,7,95,3.21,0.88
+Seaweed Packaging,7,18,9,75,3.12,0.43
+Recycled Cardboard,6,19,6,64,4.96,0.43
+Bagasse Fiber,5,11,6,68,4.56,0.98
+Kraft Paper,7,3,9,93,3.16,0.55
+Biodegradable Plastic,6,5,5,93,4.74,0.92
+Seaweed Packaging,6,11,7,95,3.03,0.84
+Mycelium Packaging,7,15,6,90,4,1.19
+Recycled PET,6,16,9,79,4.9,1.07
+Molded Pulp,9,9,9,76,3.17,0.73
+Biodegradable Plastic,7,6,6,79,4.04,0.89
+Recycled Cardboard,6,14,6,87,2.89,0.49
+Recycled Paper Wrap,5,16,5,80,2.8,0.71
+PLA Bioplastic,5,4,9,78,3.72,0.99
+PLA Bioplastic,9,3,9,62,4.94,0.9
+Bagasse Fiber,7,10,8,89,3.36,0.79
+PLA Bioplastic,6,5,5,64,4.81,0.54
+PLA Bioplastic,6,8,6,65,4.74,1.04
+Molded Pulp,5,15,6,62,2.76,0.62
+Cornstarch Packaging,9,11,7,83,3.21,1.06
+Bamboo Fiber Packaging,5,11,6,60,3.93,0.89
+Recycled Paper Wrap,5,11,9,95,3.55,0.7
+Bamboo Fiber Packaging,9,17,6,74,2.29,0.43
+Paper Foam,7,15,9,97,4.98,0.59
+Corrugated Board,6,18,9,77,4.26,1.11
+Cornstarch Packaging,7,4,5,82,3.31,1.05
+Bamboo Fiber Packaging,8,16,6,88,3.85,0.86
+Biodegradable Plastic,8,8,5,81,2.26,0.77
+Biodegradable Plastic,8,4,9,83,3.49,0.92
+Bamboo Fiber Packaging,9,10,6,72,4.79,0.77
+Recycled PET,5,6,6,92,4.69,0.92
+Bamboo Fiber Packaging,7,16,5,81,3.01,0.65
+PLA Bioplastic,6,13,5,94,3.59,1.07
+Paper Foam,8,16,9,76,4.09,0.96
+Recycled Cardboard,7,14,9,81,3.02,0.66
+Kraft Paper,8,18,6,64,2.19,1.06
+Cornstarch Packaging,8,8,6,84,3.52,0.79
+Cornstarch Packaging,6,3,8,65,3.8,0.54
+Bamboo Fiber Packaging,9,14,8,76,2.02,0.46
+Honeycomb Paperboard,5,9,7,90,2.29,0.96
+Recycled Paper Wrap,9,10,9,76,2.62,1.09
+Bagasse Fiber,7,11,7,92,3.04,1.05
+Recycled Paper Wrap,9,4,7,98,3.62,0.92
+Kraft Paper,7,19,5,96,2.88,0.51
+Biodegradable Plastic,7,15,5,63,2.83,0.48
+Bamboo Fiber Packaging,5,7,8,73,4.61,0.68
+Biodegradable Plastic,6,12,7,72,2.44,1.08
+Biodegradable Plastic,5,14,8,86,3.49,1.17
+Honeycomb Paperboard,9,19,9,83,4.86,0.59
+Biodegradable Plastic,7,8,6,86,3.88,1.01
+Kraft Paper,8,5,5,67,4.15,0.86
+Seaweed Packaging,8,17,9,98,3.29,0.43
+Paper Foam,7,9,9,80,2.06,0.83
+Mycelium Packaging,5,8,5,70,3.94,1.04
+Bagasse Fiber,6,6,5,90,3.9,0.62
+Bamboo Fiber Packaging,5,7,7,86,2.33,1.12
+Recycled PET,7,5,8,86,3.39,0.59
+Kraft Paper,7,11,9,67,4.75,0.46
+PLA Bioplastic,6,8,7,92,2.62,0.53
+Seaweed Packaging,9,15,7,71,3.38,1.07
+Bagasse Fiber,9,6,9,94,3.38,0.73
+Kraft Paper,6,4,9,93,4.43,1.04
+Seaweed Packaging,9,6,6,75,4.47,0.82
+Biodegradable Plastic,8,10,8,95,4.28,0.78
+Recycled PET,9,15,9,61,3.1,1.05
+Paper Foam,9,12,5,71,2.22,0.74
+Bamboo Fiber Packaging,9,11,6,86,3.05,1.04
+Cornstarch Packaging,8,3,8,76,4.04,0.48
+Recycled Paper Wrap,9,15,5,79,4.11,0.91
+Corrugated Board,8,17,5,80,4.9,0.96
+Mycelium Packaging,6,4,8,89,3.36,1.12
+Paper Foam,5,13,6,79,3.9,0.58
+Cornstarch Packaging,6,16,5,67,3.62,0.88
+Recycled Cardboard,5,17,7,77,2.45,0.75
+Bamboo Fiber Packaging,6,16,8,77,3.38,0.71
+Kraft Paper,5,18,8,77,3.63,0.49
+Recycled Cardboard,5,17,9,61,4.85,0.51
+Cornstarch Packaging,7,11,6,71,3.1,1.07
+Paper Foam,5,7,7,91,4.94,1
+Kraft Paper,5,7,7,67,3.63,0.71
+Bamboo Fiber Packaging,7,13,9,69,2.73,1.06
+PLA Bioplastic,9,6,5,70,2.57,0.46
+Corrugated Board,9,5,5,73,2.43,0.9
+Biodegradable Plastic,7,6,7,85,3.36,1.09
+Kraft Paper,8,16,6,89,2.07,1.07
+PLA Bioplastic,5,9,5,63,3.34,0.7
+Bamboo Fiber Packaging,5,10,8,98,4.97,1
+Bamboo Fiber Packaging,7,18,9,70,4.01,0.74
+Kraft Paper,7,17,6,83,4.28,1.07
+Paper Foam,8,9,5,81,2.36,0.82
+PLA Bioplastic,9,19,7,62,3.42,1.01
+Paper Foam,6,14,9,96,2.86,0.46
+Seaweed Packaging,9,16,5,61,4.68,0.87
+Cornstarch Packaging,5,17,7,71,2.54,0.84
+Molded Pulp,7,17,5,80,3.38,0.89
+Kraft Paper,8,7,9,64,3.76,0.96
+Mycelium Packaging,9,18,8,66,3.54,1.13
+Bamboo Fiber Packaging,8,7,8,63,4.49,1.03
+Recycled Paper Wrap,9,4,7,95,2.69,0.58
+Kraft Paper,5,11,8,81,3.13,1.06
+Cornstarch Packaging,6,11,9,88,4.38,0.5
+Recycled PET,8,6,7,68,3.58,0.9
+Recycled PET,8,17,5,85,3.21,1.11
+Bagasse Fiber,6,13,6,71,2.09,0.48
+Mycelium Packaging,8,3,5,60,4.26,1.08
+Bamboo Fiber Packaging,8,3,9,67,4.92,1.04
+Recycled Cardboard,9,10,7,92,3.86,0.8
+Bamboo Fiber Packaging,9,18,5,63,4.57,0.65
+Seaweed Packaging,6,11,7,73,3.55,0.72
+Biodegradable Plastic,5,14,8,88,2.7,1.17
+PLA Bioplastic,8,7,6,73,2.04,0.56
+Bamboo Fiber Packaging,5,4,9,68,3.96,0.86
+Molded Pulp,6,9,5,68,3.48,0.47
+Corrugated Board,6,12,6,85,4.35,0.57
+Recycled PET,9,17,9,76,4.08,1.01
+Corrugated Board,8,9,9,63,4.96,0.64
+Corrugated Board,7,7,8,62,3.53,1.19
+Paper Foam,6,17,7,88,3.28,0.8
+Corrugated Board,8,17,7,84,2.86,0.81
+Biodegradable Plastic,5,12,6,80,3.43,0.43
+Seaweed Packaging,9,16,8,71,4.62,1.17
+Recycled Cardboard,5,12,9,60,2.13,0.54
+Corrugated Board,6,19,8,60,4.93,0.83
+Mycelium Packaging,6,16,8,66,4.98,0.72
+Kraft Paper,5,4,6,69,3.79,0.73
+Mycelium Packaging,6,18,7,74,2.99,0.91
+Kraft Paper,8,15,8,99,2.67,0.93
+Paper Foam,6,11,8,70,2.83,0.52
+Biodegradable Plastic,9,9,8,82,2.15,0.8
+Recycled Cardboard,8,18,5,72,3.43,1.03
+Molded Pulp,7,12,8,86,2.17,0.75
+Cornstarch Packaging,6,11,8,76,4.16,0.53
+Recycled Cardboard,6,9,9,72,3.12,0.65
+Cornstarch Packaging,9,18,5,71,2.6,0.57
+Mycelium Packaging,9,11,8,88,3.63,0.5
+Bagasse Fiber,5,19,8,80,4.92,0.7
+Recycled PET,5,9,6,79,4.09,0.83
+Cornstarch Packaging,5,13,6,79,3.48,0.46
+Seaweed Packaging,9,10,5,90,4.33,0.88
+Recycled Paper Wrap,5,9,9,67,4.21,1.19
+Seaweed Packaging,5,14,5,83,4.68,1.17
+Bamboo Fiber Packaging,7,9,5,70,2.61,1.06
+Recycled PET,5,10,6,98,4.58,0.61
+Recycled PET,6,9,6,92,2.9,0.42
+Kraft Paper,9,8,9,74,4.82,1.07
+Biodegradable Plastic,8,11,8,63,2.84,0.44
+Honeycomb Paperboard,7,15,9,60,4.78,0.56
+Paper Foam,9,9,8,91,4.89,0.84
+Mycelium Packaging,9,10,7,70,2.44,0.54
+Recycled Paper Wrap,6,19,6,89,4.92,1.07
+Cornstarch Packaging,5,19,7,96,2.26,1.02
+Corrugated Board,6,18,7,78,2.66,1
+Biodegradable Plastic,5,4,6,95,3.33,1.05
+Recycled Paper Wrap,5,10,7,93,4.98,0.58
+Paper Foam,9,19,5,66,3.47,0.98
+Kraft Paper,5,15,8,79,3.65,0.68
+Mycelium Packaging,7,12,9,71,4.08,0.93
+Biodegradable Plastic,7,4,6,91,4.9,0.5
+Paper Foam,7,4,5,61,4.35,0.96
+Bagasse Fiber,9,16,9,81,2.67,1.18
+Bagasse Fiber,6,18,9,99,2.91,0.43
+Seaweed Packaging,8,9,9,83,2.29,0.48
+Seaweed Packaging,5,14,7,90,3.93,0.5
+Paper Foam,8,16,7,63,2.54,0.74
+Recycled Paper Wrap,6,6,7,83,2.77,0.63
+Seaweed Packaging,6,6,7,76,4.66,1.05
+Mycelium Packaging,9,5,5,99,2.98,0.78
+Biodegradable Plastic,7,3,7,78,3.7,0.79
+Recycled Paper Wrap,7,19,6,99,3.19,0.97
+Seaweed Packaging,6,9,9,97,2.22,0.69
+Molded Pulp,9,18,5,93,3.09,0.68
+Cornstarch Packaging,9,7,7,92,3.22,1.01
+Molded Pulp,5,9,9,65,4.69,1.02
+PLA Bioplastic,7,16,5,95,2.97,0.41
+Bagasse Fiber,6,4,9,72,3.14,0.52
+Kraft Paper,8,5,5,68,4.35,0.57
+Recycled Cardboard,7,19,8,94,4.28,0.68
+Cornstarch Packaging,5,18,5,93,4.39,0.63
+Bagasse Fiber,9,10,7,75,4.86,0.93
+Recycled Paper Wrap,6,17,9,77,4.39,1.06
+Recycled Paper Wrap,7,9,9,77,3.22,0.55
+Recycled Paper Wrap,8,11,9,97,4.46,0.85
+Kraft Paper,5,8,6,91,3.53,0.69
+Molded Pulp,5,16,6,66,2.83,0.8
+Recycled Cardboard,7,16,7,82,2.91,0.9
+Mycelium Packaging,8,16,8,82,2.67,1.11
+Seaweed Packaging,5,6,6,77,2.43,0.55
+Recycled Paper Wrap,6,6,5,66,2.55,0.47
+Honeycomb Paperboard,5,17,7,99,2.19,0.9
+PLA Bioplastic,8,17,8,83,4.67,0.72
+Cornstarch Packaging,9,16,5,73,4.79,0.53
+Biodegradable Plastic,9,3,9,64,3.76,0.49
+Seaweed Packaging,7,12,6,81,4.52,0.85
+Honeycomb Paperboard,8,12,5,81,2.55,0.64
+Recycled Cardboard,5,12,8,69,4.71,1.2
+Kraft Paper,5,4,7,85,3.52,0.72
+Mycelium Packaging,9,10,5,74,2.2,0.57
+Mycelium Packaging,9,3,7,97,2.42,0.9
+Recycled Cardboard,6,3,9,60,2.93,0.6
+Biodegradable Plastic,9,6,8,73,2.13,0.8
+Cornstarch Packaging,6,9,8,95,2.93,0.79
+Bamboo Fiber Packaging,5,11,6,90,2.18,0.76
+Biodegradable Plastic,6,18,8,87,2.71,1.04
+Mycelium Packaging,6,7,5,93,2.8,0.57
+Paper Foam,7,4,5,94,4.98,1.12
+Cornstarch Packaging,9,13,5,98,2.71,1.03
+Recycled Cardboard,6,15,9,82,2.72,0.67
+Mycelium Packaging,5,13,8,78,4.06,0.54
+Mycelium Packaging,8,19,8,77,4.58,0.62
+Recycled Paper Wrap,6,7,5,74,3.16,0.67
+Recycled Cardboard,9,15,6,60,4.63,0.85
+Bamboo Fiber Packaging,7,3,6,84,3.02,0.44
+Recycled Cardboard,5,12,8,85,2.59,1.13
+Bamboo Fiber Packaging,7,10,8,94,2.99,0.48
+Cornstarch Packaging,8,10,7,74,3.83,0.62
+PLA Bioplastic,6,8,8,63,3.1,0.49
+Paper Foam,6,14,5,74,4.02,0.61
+Seaweed Packaging,9,9,9,97,2.71,1.07
+Recycled Cardboard,6,18,8,98,4.1,0.89
+Honeycomb Paperboard,5,11,8,60,3.04,0.58
+Bagasse Fiber,8,12,5,81,3.37,1.1
+Corrugated Board,7,12,7,70,3.67,1.04
+Corrugated Board,8,12,8,97,4.06,1
+Recycled Cardboard,6,18,6,96,2.72,1.08
+Bamboo Fiber Packaging,7,3,6,85,4.51,0.9
+Honeycomb Paperboard,9,19,6,86,4.17,0.8
+PLA Bioplastic,8,16,9,72,2.7,0.7
+Recycled Paper Wrap,7,19,9,66,4.92,0.58
+Bamboo Fiber Packaging,7,16,8,67,3.99,0.85
+Kraft Paper,7,10,8,82,3.36,1.11
+Kraft Paper,5,11,8,85,2.47,0.88
+Cornstarch Packaging,8,10,9,86,3.6,1.14
+Corrugated Board,7,15,8,68,2.49,0.69
+Recycled Cardboard,8,19,5,97,3.29,0.96
+Kraft Paper,7,9,7,72,3.23,0.92
+Recycled Cardboard,9,19,6,66,4.16,0.94
+Cornstarch Packaging,9,3,6,70,2.58,0.92
+Corrugated Board,9,7,5,69,4.47,0.58
+Biodegradable Plastic,6,8,8,92,2.98,0.51
+PLA Bioplastic,7,4,9,98,3.33,1.18
+Bagasse Fiber,6,18,8,62,4.32,0.44
+Bagasse Fiber,8,7,8,88,3.88,0.77
+Kraft Paper,6,7,6,96,2.92,0.74
+Bagasse Fiber,8,14,6,75,3.16,0.69
+Mycelium Packaging,8,5,9,75,2.92,1.03
+PLA Bioplastic,8,18,6,66,3.78,1
+Bamboo Fiber Packaging,6,8,8,74,3,1.12
+Biodegradable Plastic,7,17,5,97,4.18,0.72
+PLA Bioplastic,6,17,9,65,3.74,0.85
+Mycelium Packaging,7,18,5,77,2.44,1.11
+Recycled PET,7,15,8,78,2.93,1.2
+Bamboo Fiber Packaging,8,14,9,61,2.66,1.18
+Mycelium Packaging,6,12,5,62,3.17,0.97
+Recycled Cardboard,7,16,9,84,3.55,0.51
+Cornstarch Packaging,9,4,8,95,3.52,0.42
+Seaweed Packaging,7,5,9,87,4.26,1.06
+Biodegradable Plastic,9,11,8,97,2.57,1.07
+Seaweed Packaging,6,13,9,87,4.84,1
+Cornstarch Packaging,6,13,9,91,3.03,0.62
+Cornstarch Packaging,6,12,6,95,2.9,0.91
+Mycelium Packaging,7,16,8,98,4.06,0.65
+Corrugated Board,5,11,7,95,4.42,0.76
+Mycelium Packaging,7,12,9,82,3.14,0.71
+Seaweed Packaging,7,11,5,61,4.24,1.13
+Mycelium Packaging,8,7,6,69,4.65,0.59
+Recycled Cardboard,8,10,6,65,4.3,0.86
+Mycelium Packaging,7,13,9,67,2.1,0.69
+Honeycomb Paperboard,9,3,7,74,4.48,0.93
+Bagasse Fiber,8,12,6,88,4.32,0.85
+Seaweed Packaging,7,3,8,87,4.01,1.14
+Honeycomb Paperboard,5,9,9,81,4.28,0.48
+Corrugated Board,9,16,9,93,4.94,0.58
+Cornstarch Packaging,6,7,7,79,3.29,1.01
+Kraft Paper,7,19,8,92,2.2,0.7
+PLA Bioplastic,7,8,8,74,3.38,0.53
+Bamboo Fiber Packaging,9,18,7,66,2.14,0.8
+Bagasse Fiber,8,13,5,83,2.88,0.92
+Bamboo Fiber Packaging,8,12,8,85,3.76,0.44
+Mycelium Packaging,8,17,5,69,2.93,0.63
+Recycled PET,6,9,5,74,4.06,1.05
+Bagasse Fiber,9,4,9,96,4.47,0.82
+Recycled Cardboard,9,14,9,83,3.26,0.43
+Recycled PET,8,14,6,70,4.7,0.63
+Paper Foam,8,18,9,99,2.24,0.91
+Molded Pulp,5,8,8,80,4.52,0.56
+Molded Pulp,5,5,8,99,4.49,1.06
+Molded Pulp,7,4,5,97,2.97,0.94
+Paper Foam,7,7,8,74,2.9,0.78
+Bamboo Fiber Packaging,9,13,9,74,2.92,1.13
+Recycled Cardboard,9,5,9,96,4.43,0.71
+Recycled PET,6,5,9,73,4.49,0.59
+Paper Foam,6,7,7,80,2.99,0.93
+Molded Pulp,5,13,8,79,3.78,0.86
+Corrugated Board,7,5,6,92,2.42,0.67
+Biodegradable Plastic,5,15,8,62,3.41,0.67
+Recycled PET,5,10,8,99,5,0.72
+Seaweed Packaging,7,12,7,82,2.48,0.63
+Cornstarch Packaging,6,4,8,82,4.84,0.97
+Paper Foam,7,6,5,86,4.47,0.92
+Recycled Cardboard,8,6,9,94,4.92,0.75
+Recycled Cardboard,8,11,9,84,2.54,0.72
+Seaweed Packaging,8,18,7,91,2.64,0.69
+Honeycomb Paperboard,9,8,9,81,2.05,0.63
+Biodegradable Plastic,6,6,5,67,4.17,0.47
+Recycled PET,6,11,7,97,3.93,0.61
+Kraft Paper,9,15,6,77,2.53,0.66
+Bagasse Fiber,5,11,9,87,4.37,0.84
+Molded Pulp,8,8,8,87,2.9,1.02
+Recycled PET,8,16,5,70,2.4,0.72
+Mycelium Packaging,5,17,5,71,3.27,1.16
+Kraft Paper,7,5,9,61,2.27,1.06
+Honeycomb Paperboard,7,7,6,96,2.79,1.19
+Molded Pulp,6,16,8,63,3.11,1.1
+Biodegradable Plastic,9,18,6,93,4.56,0.89
+PLA Bioplastic,6,16,6,82,4.38,0.88
+Mycelium Packaging,7,11,9,72,3.33,0.5
+Honeycomb Paperboard,5,17,8,66,4.17,0.98
+Bamboo Fiber Packaging,6,9,9,91,3.71,0.88
+Molded Pulp,8,16,9,82,3.02,0.81
+Biodegradable Plastic,8,8,5,67,4.18,0.95
+Recycled Paper Wrap,5,17,9,96,4.05,0.76
+Kraft Paper,7,10,7,93,3.86,0.82
+Kraft Paper,8,4,8,88,3.85,0.72
+Bagasse Fiber,8,10,5,96,4.05,0.97
+Seaweed Packaging,9,3,8,82,3.15,1.1
+Biodegradable Plastic,6,19,5,97,4.61,1.07
+Paper Foam,7,7,7,88,2.49,1.03
+Recycled Paper Wrap,6,18,9,64,4.65,0.41
+PLA Bioplastic,7,9,5,99,3.03,1.13
+Corrugated Board,8,9,5,70,2.38,0.62
+Molded Pulp,9,4,5,73,3.8,1.11
+Mycelium Packaging,6,17,7,61,3.13,0.56
+Recycled Paper Wrap,8,16,8,94,4.45,0.75
+Biodegradable Plastic,7,11,7,94,3.29,1
+Bamboo Fiber Packaging,6,16,5,87,4.01,0.91
+Cornstarch Packaging,6,7,5,67,2.92,0.73
+Molded Pulp,8,13,9,91,2.63,0.94
+Recycled Cardboard,6,10,7,63,3.16,0.84
+Kraft Paper,9,7,7,66,3.82,0.62
+Bamboo Fiber Packaging,9,13,6,98,3.97,0.92
+Seaweed Packaging,8,7,8,86,3.73,0.56
+Biodegradable Plastic,7,19,6,96,4.96,0.96
+PLA Bioplastic,8,6,6,76,4.07,0.4
+Recycled Cardboard,9,17,8,69,4.79,0.84
+Bagasse Fiber,5,4,9,63,2.35,0.72
+Mycelium Packaging,5,19,9,82,2.18,0.64
+Recycled PET,6,14,8,73,2.93,0.81
+Honeycomb Paperboard,6,19,8,64,2.41,0.92
+Corrugated Board,5,12,7,61,3.58,1.17
+Corrugated Board,9,15,7,83,3.56,1.07
+Bamboo Fiber Packaging,6,16,7,77,3.73,0.97
+Recycled Cardboard,8,18,7,86,4.24,0.78
+Recycled PET,8,18,5,83,4.91,0.71
+Recycled PET,9,19,5,88,4.63,0.43
+Kraft Paper,6,9,9,70,2.36,0.69
+Bagasse Fiber,8,14,5,77,3.02,1.08
+Cornstarch Packaging,6,4,5,63,2.77,0.71
+Kraft Paper,6,12,7,92,2.53,0.77
+Recycled Paper Wrap,8,7,7,73,3.63,0.62
+Seaweed Packaging,5,5,8,91,3.66,0.62
+Corrugated Board,8,15,7,63,2.68,0.45
+Recycled Paper Wrap,9,14,8,79,4.14,0.89
+PLA Bioplastic,7,5,8,80,4.2,0.76
+Molded Pulp,8,8,5,62,2.06,0.88
+Paper Foam,6,16,7,84,3.19,0.84
+Biodegradable Plastic,6,6,5,63,4.67,1.04
+Mycelium Packaging,8,15,7,70,3.56,1
+Bagasse Fiber,7,5,5,75,3.04,1.02
+Kraft Paper,8,8,5,95,2.76,0.8
+Corrugated Board,7,18,5,65,2.73,0.68
+Recycled Paper Wrap,7,5,9,90,2.3,1.15
+Honeycomb Paperboard,9,14,5,99,4.45,0.44
+Bamboo Fiber Packaging,6,6,6,72,2.26,0.52
+Seaweed Packaging,6,3,6,82,2.88,0.74
+Seaweed Packaging,7,4,6,63,2.14,0.89
+Molded Pulp,6,15,8,96,4.34,0.41
+Biodegradable Plastic,5,15,5,96,2.12,0.98
+Biodegradable Plastic,7,4,6,92,2.92,0.85
+Seaweed Packaging,6,18,8,88,3.72,0.79
+Seaweed Packaging,5,14,6,96,3.23,0.74
+Recycled PET,9,3,7,78,2.85,0.82
+Kraft Paper,6,11,9,79,2.83,0.53
+Recycled PET,5,19,5,91,4.39,0.49
+Bagasse Fiber,8,12,9,75,4.92,0.63
+Cornstarch Packaging,8,9,9,64,3.04,0.97
+PLA Bioplastic,5,17,7,71,2.12,0.87
+Honeycomb Paperboard,7,11,7,80,2.11,0.78
+PLA Bioplastic,7,12,7,73,4.28,0.86
+Kraft Paper,6,6,8,96,3.66,0.85
+Recycled Paper Wrap,8,8,6,81,4.35,0.65
+Paper Foam,7,6,5,89,4.09,0.48
+Seaweed Packaging,7,7,7,82,4.72,1.12
+Recycled Cardboard,8,11,5,64,4.66,0.88
+Cornstarch Packaging,9,14,5,88,4.36,0.96
+Bagasse Fiber,7,10,5,89,3.43,0.77
+Molded Pulp,5,7,7,77,2.92,1.01
+Cornstarch Packaging,6,13,7,60,3.52,0.87
+Seaweed Packaging,7,13,6,98,3.51,0.44
+Corrugated Board,7,15,7,76,3.83,1.11
+Bagasse Fiber,9,16,7,62,2.56,0.64
+Paper Foam,5,10,5,66,3.97,0.51
+Corrugated Board,6,14,6,86,3.37,0.47
+Cornstarch Packaging,7,14,9,87,3.86,0.98
+Recycled Cardboard,6,12,7,90,2.72,0.96
+Recycled Cardboard,8,9,7,74,3.3,0.96
+Recycled PET,7,14,9,67,2.63,1.13
+Paper Foam,7,16,5,65,4.63,0.68
+Biodegradable Plastic,8,17,6,87,3.46,0.85
+Mycelium Packaging,9,18,5,63,2.67,0.9
+Honeycomb Paperboard,7,4,8,89,2.12,1.18
+Seaweed Packaging,6,14,7,76,4.03,0.65
+Molded Pulp,5,18,8,93,2.64,1.17
+Seaweed Packaging,6,15,7,65,4.97,0.52
+Biodegradable Plastic,9,19,8,95,3.6,1.01
+PLA Bioplastic,5,5,9,94,2.87,0.91
+Recycled PET,6,12,7,98,3.97,1.05
+Recycled PET,6,3,7,98,2.83,0.42
+PLA Bioplastic,8,8,8,75,4.46,0.46
+Bamboo Fiber Packaging,9,5,6,61,2.92,0.46
+PLA Bioplastic,8,6,8,67,4.96,0.87
+Recycled Cardboard,5,5,7,74,3.82,0.88
+Recycled Cardboard,8,10,7,86,4.53,1.12
+Recycled Paper Wrap,9,10,6,75,2.22,0.77
+Corrugated Board,7,9,5,60,3.04,0.45
+Cornstarch Packaging,7,4,6,69,4.21,0.57
+Molded Pulp,5,8,5,66,3.97,0.41
+Paper Foam,7,18,7,69,2.58,1.02
+Cornstarch Packaging,8,12,9,71,3.07,1.05
+Seaweed Packaging,5,6,9,76,2.79,1.2
+Recycled Paper Wrap,9,15,8,71,3.84,0.73
+Recycled Cardboard,5,12,6,74,3.03,0.42
+Recycled PET,5,16,6,91,2.93,0.59
+Paper Foam,6,11,9,91,2.62,0.87
+Recycled Cardboard,6,13,5,85,3.23,1.17
+Mycelium Packaging,5,13,6,73,2.59,0.48
+Molded Pulp,7,19,5,85,4.89,0.5
+Corrugated Board,6,4,5,64,2.46,0.96
+Bamboo Fiber Packaging,9,5,5,97,4.74,0.93
+Cornstarch Packaging,8,13,5,63,3.29,0.6
+Cornstarch Packaging,6,5,8,87,3.13,1.05
+PLA Bioplastic,5,17,8,60,2.69,0.5
+Biodegradable Plastic,7,13,9,72,3.91,1.14
+PLA Bioplastic,8,13,8,62,4.06,0.56
+Mycelium Packaging,6,13,6,84,3.4,0.47
+Paper Foam,7,3,8,75,2.17,0.67
+Honeycomb Paperboard,7,7,6,80,4.76,0.55
+PLA Bioplastic,7,12,6,72,4.94,0.82
+Bamboo Fiber Packaging,5,12,5,95,3.29,0.95
+Recycled Paper Wrap,9,16,9,67,3.84,0.79
+PLA Bioplastic,7,4,5,78,3.35,0.93
+PLA Bioplastic,8,6,5,75,2.97,0.69
+Honeycomb Paperboard,6,4,8,71,2.23,0.42
+Biodegradable Plastic,8,15,8,79,3.37,1.18
+Molded Pulp,5,7,6,77,4.46,1.06
+Recycled Paper Wrap,5,4,8,71,2.05,0.46
+PLA Bioplastic,8,13,8,84,3.75,0.76
+Mycelium Packaging,9,8,7,70,4.64,0.91
+Recycled PET,5,12,6,81,2.65,0.55
+Corrugated Board,5,19,6,93,2.55,0.86
+Bamboo Fiber Packaging,8,13,7,72,4.32,0.83
+Honeycomb Paperboard,5,19,6,97,2.77,0.57
+Corrugated Board,9,6,9,71,2.58,0.51
+Honeycomb Paperboard,9,16,9,98,3.13,1.01
+Mycelium Packaging,9,6,7,95,3.18,0.66
+Corrugated Board,6,16,8,87,4.62,0.6
+Honeycomb Paperboard,9,6,9,86,3.86,0.99
+Seaweed Packaging,9,8,7,98,3.22,0.99
+Corrugated Board,6,11,9,72,3.6,0.62
+Biodegradable Plastic,7,14,5,99,4.86,1.1
+Bagasse Fiber,5,10,7,86,2.34,0.95
+Recycled Paper Wrap,9,6,6,90,2.62,0.68
+Paper Foam,5,7,9,61,4.89,0.74
+Molded Pulp,8,8,6,77,4.87,0.98
+Seaweed Packaging,5,7,7,85,2.53,0.57
+Kraft Paper,6,10,9,90,2.44,0.78
+Recycled Cardboard,5,11,6,97,3.26,0.92
+Mycelium Packaging,5,17,8,81,2.15,0.83
+Mycelium Packaging,5,6,8,95,3.96,0.89
+PLA Bioplastic,7,11,5,78,2.23,0.84
+Recycled PET,7,9,7,73,2.17,0.56
+Bamboo Fiber Packaging,8,10,6,73,3.46,0.73
+Paper Foam,6,17,5,88,4.87,0.83
+Recycled Cardboard,5,17,7,76,3.28,1.02
+Mycelium Packaging,5,7,8,96,3.07,0.92
+Recycled Paper Wrap,5,9,6,68,4.99,0.74
+Paper Foam,5,8,9,60,3.6,1.18
+Corrugated Board,7,19,8,63,3.13,0.49
+Corrugated Board,8,12,9,66,3.16,0.57
+Kraft Paper,9,13,9,70,2.58,0.67
+Recycled Cardboard,6,17,6,73,3.54,0.58
+Mycelium Packaging,5,12,6,78,3.32,0.9
+Molded Pulp,8,13,9,99,2.81,0.43
+Mycelium Packaging,9,5,5,62,2.48,0.54
+Recycled Paper Wrap,8,5,9,67,2.93,0.63
+Corrugated Board,7,13,9,88,3.53,0.95
+PLA Bioplastic,9,17,6,96,2.17,1.1
+Bagasse Fiber,8,9,7,68,2.46,1.04
+Biodegradable Plastic,7,12,8,78,4.84,0.55
+Biodegradable Plastic,8,12,6,71,3.63,0.85
+Honeycomb Paperboard,8,15,5,86,2.19,0.42
+Molded Pulp,9,17,8,96,4.08,0.65
+Mycelium Packaging,7,6,6,84,2.19,1.04
+Biodegradable Plastic,5,19,6,97,4.22,0.77
+Honeycomb Paperboard,6,5,7,76,4.25,0.52
+Recycled Cardboard,9,4,5,92,3.95,0.75
+Corrugated Board,7,6,5,98,4.2,0.56
+Bamboo Fiber Packaging,8,3,6,73,2.26,0.71
+Recycled PET,7,17,7,87,4.18,0.79
+Seaweed Packaging,6,3,6,77,2.41,0.68
+Corrugated Board,6,8,9,92,3.02,1.15
+Seaweed Packaging,5,9,9,74,4.83,0.85
+PLA Bioplastic,5,14,7,70,3.51,1.07
+Bagasse Fiber,6,3,6,95,4.9,1.01
+Paper Foam,9,9,7,74,2.27,0.93
+Biodegradable Plastic,9,15,6,89,3.43,0.8
+Recycled Cardboard,8,14,6,74,2.19,0.4
+Seaweed Packaging,5,14,9,82,3.89,0.89
+Recycled PET,8,15,8,74,2.24,0.68
+Cornstarch Packaging,5,16,5,88,2.53,0.49
+Mycelium Packaging,6,14,5,70,2.78,0.76
+Biodegradable Plastic,9,14,7,77,4.25,0.99
+Mycelium Packaging,9,8,5,99,2.49,1.17
+Recycled PET,6,12,9,90,4.54,0.7
+Molded Pulp,8,11,8,68,2.4,0.83
+PLA Bioplastic,8,4,6,81,2.11,1.08
+Paper Foam,7,9,6,70,3.19,0.67
+Biodegradable Plastic,5,11,9,76,4.94,0.51
+Mycelium Packaging,8,14,5,92,2.33,0.63
+Recycled Cardboard,6,7,6,70,2.31,1.12
+Biodegradable Plastic,8,3,5,98,4.25,0.53
+Seaweed Packaging,9,17,9,67,2.94,0.66
+Molded Pulp,5,10,6,63,4.15,0.77
+Cornstarch Packaging,7,3,7,95,2.6,1.08
+Recycled Paper Wrap,5,15,8,78,3.38,1.15
+Kraft Paper,9,3,5,83,2.8,0.74
+Cornstarch Packaging,9,7,5,77,3.35,1.15
+Honeycomb Paperboard,9,18,5,92,4.31,0.53
+Biodegradable Plastic,9,12,5,95,4.29,0.53
+Corrugated Board,6,6,9,69,3.55,1.16
+Bagasse Fiber,7,3,9,73,4.79,0.81
+Corrugated Board,9,10,9,66,2.79,0.55
+Cornstarch Packaging,9,7,9,71,2.72,0.79
+Seaweed Packaging,8,4,6,81,3.84,1.03
+Corrugated Board,7,19,9,86,3.86,1.06
+Recycled Cardboard,5,9,6,96,2.14,1.09
+Corrugated Board,7,19,7,70,3.82,0.86
+Paper Foam,7,8,9,95,3.12,1.09
+Recycled Paper Wrap,7,17,7,72,4.24,0.81
+Biodegradable Plastic,9,7,9,91,4.42,0.89
+Recycled PET,9,17,7,67,3.66,1.01
+PLA Bioplastic,6,8,8,66,2.01,0.74
+Corrugated Board,5,4,7,76,3.91,0.46
+Molded Pulp,8,19,6,81,4.25,0.68
+PLA Bioplastic,7,6,5,93,2.75,0.9
+Recycled Paper Wrap,5,14,7,79,3.39,0.55
+Mycelium Packaging,5,4,5,67,4.9,0.52
+Recycled PET,6,4,8,81,2.89,0.63
+Seaweed Packaging,8,16,8,86,2.67,0.43
+Recycled Paper Wrap,7,17,6,93,2.63,0.99
+Corrugated Board,8,4,6,80,3.68,0.61
+Recycled Paper Wrap,6,6,7,74,4.85,0.5
+PLA Bioplastic,9,11,9,64,3.83,0.96
+Bagasse Fiber,5,9,8,97,2.91,1.07
+Seaweed Packaging,7,15,5,76,3.92,0.42
+Corrugated Board,9,14,9,67,3.87,0.59
+Recycled Cardboard,6,5,8,78,3.79,1.16
+Cornstarch Packaging,8,15,7,64,2.48,0.71
+Paper Foam,5,17,8,82,3.9,1.15
+Kraft Paper,7,16,6,78,3.29,0.62
+Bamboo Fiber Packaging,9,11,5,73,2.06,0.57
+Honeycomb Paperboard,9,15,5,69,3.62,0.57
+Seaweed Packaging,5,6,6,90,4.97,0.47
+Recycled Paper Wrap,8,10,9,72,3.05,1.12
+Recycled Cardboard,6,5,6,81,4.9,1.18
+Biodegradable Plastic,8,4,5,96,2.29,1.16
+Biodegradable Plastic,8,10,7,98,4.2,1.08
+Honeycomb Paperboard,8,19,9,69,2.34,1.08
+Seaweed Packaging,5,15,8,90,2.82,0.93
+Seaweed Packaging,5,9,7,94,3.71,1.06
+Paper Foam,6,11,9,72,3.78,0.57
+Recycled Paper Wrap,8,14,5,89,4.33,0.71
+Recycled PET,5,16,5,93,3.85,0.91
+Bagasse Fiber,6,16,7,95,3.78,1.1
+Honeycomb Paperboard,6,17,9,94,4.74,0.93
+Paper Foam,8,5,8,63,3.36,1.07
+Recycled Paper Wrap,7,17,8,63,2.68,0.78
+PLA Bioplastic,8,16,6,65,2.49,0.97
+Recycled Cardboard,7,10,7,87,3.2,1.18
+Bamboo Fiber Packaging,6,7,9,89,4.14,0.52
+Cornstarch Packaging,5,6,7,86,2.13,1.14
+Bagasse Fiber,9,16,8,64,2.39,0.82
+Recycled PET,6,18,9,98,2.32,0.91
+PLA Bioplastic,5,8,5,94,3.76,1.1
+PLA Bioplastic,6,8,5,98,2.73,0.73
+Kraft Paper,8,5,9,74,2.5,0.73
+Biodegradable Plastic,7,17,7,78,3.78,0.82
+Molded Pulp,6,5,7,89,4.28,0.42
+Recycled Cardboard,5,13,5,97,3,0.8
+Biodegradable Plastic,8,5,5,91,3.73,0.63
+Corrugated Board,9,12,8,99,2.29,1.14
+Bamboo Fiber Packaging,8,3,9,88,4.81,0.47
+PLA Bioplastic,7,18,7,65,3.01,0.77
+Molded Pulp,8,18,8,85,4.99,1.16
+Seaweed Packaging,9,12,7,86,4.94,1.12
+Biodegradable Plastic,5,3,5,94,4.34,0.96
+Recycled PET,6,6,9,87,2.06,0.87
+Recycled PET,7,5,6,64,3.63,0.62
+Recycled PET,9,7,9,75,2.26,0.69
+Paper Foam,7,14,6,77,4.69,0.47
+Bagasse Fiber,8,14,8,72,4.37,1.03
+Mycelium Packaging,7,15,6,84,4.92,0.66
+Biodegradable Plastic,9,14,6,69,3.83,0.93
+Recycled PET,6,18,8,88,3.57,0.69
+Kraft Paper,6,15,9,69,3.56,0.77
+Cornstarch Packaging,7,7,8,65,3.16,0.84
+Paper Foam,5,6,5,75,3.41,1.04
+Mycelium Packaging,7,17,5,84,3.91,0.57
+Recycled Cardboard,8,14,6,63,4.8,0.72
+Recycled Cardboard,6,13,8,96,3.79,0.5
+Recycled Cardboard,6,8,8,93,4.57,0.46
+Recycled Cardboard,6,11,8,78,4.59,0.88
+Cornstarch Packaging,5,3,9,92,3.56,0.55
+Biodegradable Plastic,5,14,7,63,3.04,0.45
+Recycled PET,9,16,7,93,3.92,1.12
+Recycled Paper Wrap,7,8,7,71,3.34,0.83
+Biodegradable Plastic,7,3,9,90,2.24,0.51
+PLA Bioplastic,8,4,8,75,3.13,0.44
+Corrugated Board,6,13,7,61,4.98,0.5
+Mycelium Packaging,5,5,8,61,2.15,0.78
+Recycled PET,8,12,6,95,4.09,0.93
+Bamboo Fiber Packaging,8,8,7,65,4.52,0.91
+Mycelium Packaging,5,8,6,82,3.95,0.52
+Recycled PET,7,4,9,98,3.71,0.91
+Bagasse Fiber,6,12,5,96,4.12,0.72
+Molded Pulp,7,8,9,75,3.29,0.77
+Recycled Paper Wrap,8,19,9,78,2.27,1.04
+Mycelium Packaging,6,16,9,83,4.89,0.67
+Recycled Paper Wrap,9,7,7,86,3.3,0.52
+PLA Bioplastic,8,19,6,66,4,1.1
+Biodegradable Plastic,7,4,7,89,3.59,0.57
+Recycled Paper Wrap,7,11,5,73,2.16,0.64
+Honeycomb Paperboard,7,14,9,74,4.86,0.97
+Honeycomb Paperboard,5,9,8,71,4.38,0.95
+Bamboo Fiber Packaging,8,11,5,88,2.45,1.04
+Corrugated Board,6,18,6,82,4.94,0.55
+Seaweed Packaging,7,13,5,72,4.21,0.68
+Molded Pulp,7,14,7,68,3.42,0.5
+Kraft Paper,5,17,8,83,3.83,0.83
+Cornstarch Packaging,6,18,7,98,2.32,0.63
+Biodegradable Plastic,8,17,9,89,3.68,0.95
+Cornstarch Packaging,9,7,9,60,2.22,0.4
+Bamboo Fiber Packaging,5,13,5,69,3.63,0.45
+Kraft Paper,8,17,9,97,3.66,0.75
+Bamboo Fiber Packaging,9,15,9,74,4.62,1.17
+Recycled PET,7,6,6,68,4.18,1.11
+Biodegradable Plastic,7,19,6,72,2.75,1.2
+Biodegradable Plastic,6,6,7,82,4.67,0.73
+Molded Pulp,9,18,7,92,3.72,0.44
+Cornstarch Packaging,7,17,6,68,3.82,0.64
+Honeycomb Paperboard,7,16,5,62,2.51,0.94
+Recycled Cardboard,6,14,6,89,4.57,0.51
+Cornstarch Packaging,8,5,7,68,4.79,0.64
+Bagasse Fiber,7,12,8,84,4.32,0.44
+Bamboo Fiber Packaging,5,10,9,83,4.82,0.78
+Bagasse Fiber,5,8,8,91,2.91,0.57
+Biodegradable Plastic,8,16,8,66,4.58,0.47
+Recycled Cardboard,9,19,9,95,3.47,0.73
+Paper Foam,6,18,6,84,2.49,0.68
+Kraft Paper,5,17,5,79,4.01,0.83
+Corrugated Board,5,17,8,76,4.05,1
+Recycled Cardboard,8,3,5,95,2.86,0.49
+Recycled PET,9,14,7,85,2.08,1.03
+Corrugated Board,9,12,8,78,2.6,0.42
+Mycelium Packaging,8,16,7,96,3.2,0.75
+Cornstarch Packaging,5,12,6,62,2.5,0.87
+Cornstarch Packaging,6,12,8,87,2.58,1.17
+Corrugated Board,5,13,7,81,3.17,0.86
+Seaweed Packaging,9,18,7,78,4.89,0.53
+Kraft Paper,5,11,6,75,4.29,0.81
+Recycled PET,6,17,5,65,2.96,0.72
+Recycled Cardboard,7,16,5,96,4.85,0.78
+Paper Foam,5,11,8,90,3.94,0.56
+Biodegradable Plastic,8,6,6,93,3.37,0.8
+Molded Pulp,7,9,8,90,3.4,0.52
+Recycled PET,8,10,5,70,3.23,1
+Cornstarch Packaging,8,10,6,95,2.7,0.88
+Bagasse Fiber,8,17,9,65,3.16,0.46
+Kraft Paper,5,18,6,86,3.58,1.11
+Molded Pulp,9,11,6,66,3.58,0.89
+Bamboo Fiber Packaging,7,14,9,91,4.29,0.65
+Bamboo Fiber Packaging,6,18,7,67,3.08,0.44
+Paper Foam,9,6,7,92,4.15,0.91
+Bamboo Fiber Packaging,5,7,7,74,3.73,0.7
+Recycled PET,8,10,5,86,4.89,1.13
+Recycled Paper Wrap,6,3,6,89,3.16,0.43
+PLA Bioplastic,7,8,9,81,4.7,0.43
+Biodegradable Plastic,9,17,5,88,4.46,1.16
+Cornstarch Packaging,9,6,9,89,3.91,1.17
+Biodegradable Plastic,6,13,5,61,3.96,0.42
+Bamboo Fiber Packaging,5,7,5,74,2.25,0.97
+Seaweed Packaging,7,17,5,86,4.85,0.58
+Mycelium Packaging,6,15,9,66,2.32,0.96
+Mycelium Packaging,8,7,8,86,3.69,1.09
+Molded Pulp,7,3,5,80,2.99,0.48
+Mycelium Packaging,9,16,7,72,3.29,0.59
+Mycelium Packaging,6,7,6,76,3.83,0.42
+Biodegradable Plastic,9,8,8,70,4.73,0.44
+PLA Bioplastic,9,18,8,69,3.37,0.42
+Recycled Paper Wrap,9,14,9,92,4.96,1.04
+Molded Pulp,5,4,8,73,3.78,0.64
+Cornstarch Packaging,9,15,9,96,2.48,0.79
+Recycled Cardboard,8,19,9,67,2.57,1.03
+Bagasse Fiber,8,19,7,92,4.15,0.8
+Molded Pulp,7,18,5,66,2.15,0.74
+Honeycomb Paperboard,9,10,8,93,3.44,0.41
+Seaweed Packaging,9,5,5,66,2.44,0.85
+Recycled Paper Wrap,6,19,5,66,3.3,0.5
+Seaweed Packaging,5,8,5,95,4.25,1.01
+Molded Pulp,7,10,9,66,3.38,0.61
+Molded Pulp,9,15,5,79,2.49,0.94
+Honeycomb Paperboard,6,10,8,77,2.76,0.92
+Mycelium Packaging,5,8,9,73,3.1,0.89
+Cornstarch Packaging,7,17,8,99,2.21,0.61
+Recycled PET,7,12,9,73,3.75,0.61
+Recycled PET,9,19,6,80,3.82,1.09
+Seaweed Packaging,7,3,6,86,2.19,0.41
+Molded Pulp,6,9,6,85,3.21,0.55
+Bagasse Fiber,7,15,6,86,3.24,0.89
+Biodegradable Plastic,8,5,9,83,3,1.05
+Cornstarch Packaging,6,17,5,64,3.67,0.69
+Bagasse Fiber,5,7,7,97,3.04,0.92
+Bamboo Fiber Packaging,5,13,7,87,3.25,0.85
+Cornstarch Packaging,9,5,6,91,4.39,0.45
+Bamboo Fiber Packaging,9,8,5,83,2.49,0.9
+Bagasse Fiber,8,5,8,65,3.86,1.05
+PLA Bioplastic,5,7,5,69,3.52,1.19
+Recycled Paper Wrap,5,11,8,62,2.92,0.42
+Mycelium Packaging,5,15,7,66,4.18,0.93
+Bagasse Fiber,5,8,5,88,3.65,0.73
+Corrugated Board,7,13,5,93,3.43,0.41
+Bagasse Fiber,6,16,7,66,4,0.89
+Recycled Cardboard,6,8,5,76,4.41,0.5
+Recycled Cardboard,8,8,8,72,4.92,0.7
+Kraft Paper,7,19,5,80,3.89,0.61
+Bamboo Fiber Packaging,5,13,8,90,4.62,0.69
+Corrugated Board,5,17,6,68,2,0.79
+Mycelium Packaging,9,11,5,72,3.59,0.69
+Corrugated Board,9,19,8,76,2.64,0.84
+Biodegradable Plastic,8,9,7,67,2.28,0.59
+Corrugated Board,5,9,6,68,3.6,0.91
+Biodegradable Plastic,8,3,5,68,4.24,1.08
+Kraft Paper,7,10,8,99,3.24,0.58
+Kraft Paper,6,7,5,89,4.01,0.81
+Recycled Paper Wrap,5,10,8,66,3.47,0.92
+Recycled PET,7,19,5,76,3.31,0.85
+Recycled Cardboard,5,14,6,98,2.87,0.69
+Bagasse Fiber,9,17,6,97,3.15,0.91
+Bagasse Fiber,8,6,5,64,3.05,0.42
+Bamboo Fiber Packaging,9,14,5,76,3.94,0.7
+Honeycomb Paperboard,6,15,9,99,2.35,0.83
+Honeycomb Paperboard,9,16,5,60,2.28,0.42
+Paper Foam,5,7,5,75,3.98,0.81
+Cornstarch Packaging,9,18,6,76,3.64,0.92
+Recycled Paper Wrap,5,9,5,89,3.29,1.01
+Paper Foam,6,17,7,90,2.46,0.49
+Paper Foam,9,15,5,94,3.23,1.19
+Molded Pulp,8,18,9,67,4.37,0.88
+Bamboo Fiber Packaging,8,14,8,89,4.67,0.69
+Molded Pulp,8,9,6,98,4.11,0.6
+Seaweed Packaging,9,18,7,80,2.18,0.86
+Bamboo Fiber Packaging,9,15,8,74,4.01,1.11
+Paper Foam,9,5,7,93,2.72,0.82
+Corrugated Board,5,17,6,86,2.95,0.93
+Cornstarch Packaging,6,5,9,61,2.59,0.69
+Recycled PET,8,9,6,69,4.33,0.71
+Recycled Paper Wrap,5,16,7,64,3.95,0.63
+Bamboo Fiber Packaging,8,16,7,86,3.84,0.96
+Recycled PET,5,8,6,63,4,0.69
+Paper Foam,9,10,5,72,2.71,0.55
+Mycelium Packaging,8,9,6,76,3.33,0.7
+PLA Bioplastic,9,17,9,80,3.9,1.08
+Bagasse Fiber,8,4,6,82,3.91,0.99
+Cornstarch Packaging,7,10,8,92,4.38,0.67
+Molded Pulp,5,13,5,74,2.86,1.13
+Seaweed Packaging,7,15,8,73,4.31,0.46
+Bagasse Fiber,5,11,6,68,3.32,0.44
+Recycled PET,6,11,5,96,4.01,0.5
+Bamboo Fiber Packaging,8,19,8,89,3.37,0.49
+Molded Pulp,6,9,8,88,4.85,0.47
+Molded Pulp,6,11,5,82,2.54,0.93
+Cornstarch Packaging,5,3,5,93,4.03,0.88
+Molded Pulp,7,4,7,66,3.73,0.92
+Recycled PET,9,6,5,68,2.52,0.95
+PLA Bioplastic,5,16,6,63,2.2,1.01
+Kraft Paper,9,6,9,61,4.4,0.57
+Seaweed Packaging,6,4,7,86,2.47,0.9
+Recycled Cardboard,9,10,5,92,2.56,0.86
+Recycled PET,7,16,9,91,4.94,1.15
+Kraft Paper,5,12,7,96,4.15,0.59
+Recycled PET,7,19,6,86,2.75,0.45
+Recycled Cardboard,7,10,9,87,3.77,0.92
+Honeycomb Paperboard,5,16,5,62,3.6,0.99
+Mycelium Packaging,7,10,5,95,4.53,0.63
+Honeycomb Paperboard,8,7,6,67,4.19,0.86
+Molded Pulp,8,18,7,96,4.5,0.45
+Recycled Paper Wrap,8,10,9,97,2.63,1.17
+Recycled Paper Wrap,9,12,6,81,3.92,0.49
+Recycled Cardboard,7,10,7,73,2.12,0.45
+Bagasse Fiber,5,11,8,74,2.21,0.44
+Cornstarch Packaging,5,5,8,63,4.14,0.74
+Molded Pulp,9,19,7,77,2.07,0.48
+Cornstarch Packaging,5,17,5,60,3.74,1
+Kraft Paper,8,19,5,71,4.52,1.12
+Recycled Paper Wrap,7,10,8,76,3.14,0.61
+Corrugated Board,5,4,5,78,2.13,0.9
+Seaweed Packaging,5,19,5,95,4.14,0.43
+Kraft Paper,6,7,7,66,4.79,0.71
+Mycelium Packaging,6,11,7,68,4.15,0.63
+Seaweed Packaging,6,11,5,67,3.74,0.58
+PLA Bioplastic,7,4,7,84,2.69,0.92
+Kraft Paper,8,4,9,66,2.05,0.5
+Recycled Cardboard,8,5,8,67,4.08,1.09
+PLA Bioplastic,8,19,9,83,2.69,0.93
+Biodegradable Plastic,7,16,9,76,4.57,0.97
+Kraft Paper,7,16,5,71,3.4,1.15
+PLA Bioplastic,6,16,5,90,3.59,1.15
+Molded Pulp,5,8,9,71,4.26,0.84
+Seaweed Packaging,9,5,9,61,4.34,0.8
+Paper Foam,9,3,6,71,3.93,0.67
+Paper Foam,5,18,6,86,4.82,0.97
+Molded Pulp,6,6,8,66,4.95,0.83
+Recycled PET,5,3,9,72,4.84,1.15
+Biodegradable Plastic,5,19,7,95,4.47,0.59
+Mycelium Packaging,9,10,6,60,4.12,0.65
+Biodegradable Plastic,6,4,5,94,3.99,0.65
+Recycled Cardboard,7,18,9,89,2.31,1.04
+Recycled Paper Wrap,9,12,7,90,2.81,0.48
+Cornstarch Packaging,7,10,7,76,2.02,0.76
+Seaweed Packaging,6,14,7,67,2.41,0.74
+Biodegradable Plastic,5,18,5,62,3.32,0.46
+Corrugated Board,8,14,6,69,2.44,0.73
+Recycled Cardboard,8,13,7,93,4.7,0.81
+Honeycomb Paperboard,6,3,6,81,4.42,0.45
+Bagasse Fiber,8,5,8,63,2.21,0.81
+Honeycomb Paperboard,7,14,5,91,2.75,1.17
+Mycelium Packaging,8,11,6,88,4.46,1.18
+Recycled Cardboard,6,7,6,70,4.41,0.83
+Seaweed Packaging,6,3,7,72,4.84,0.81
+PLA Bioplastic,7,12,7,63,4.99,0.63
+Kraft Paper,8,19,5,61,4.93,1.2
+Cornstarch Packaging,8,6,6,93,3.23,0.62
+Bagasse Fiber,5,17,9,81,2.75,0.76
+Honeycomb Paperboard,9,10,7,64,4.28,0.4
+Recycled PET,6,17,7,68,2.9,0.68
+Bagasse Fiber,5,9,8,79,4.42,0.46
+Corrugated Board,6,17,5,80,3.6,1
+Corrugated Board,5,10,6,76,4.38,0.85
+PLA Bioplastic,9,12,6,71,2.83,0.86
+Mycelium Packaging,5,6,6,87,3.52,0.63
+Corrugated Board,6,17,7,77,3.69,1.05
+Recycled Cardboard,8,13,5,62,4.83,0.4
+Cornstarch Packaging,6,5,6,64,2.8,0.67
+Seaweed Packaging,7,17,9,73,4.81,0.93
+PLA Bioplastic,7,5,8,85,4.41,1.13
+Recycled Cardboard,7,17,8,78,4.19,0.59
+Paper Foam,7,8,6,76,4.36,0.83
+Recycled PET,9,3,7,98,3.82,0.83
+Kraft Paper,8,16,8,63,2.73,1.1
+Bamboo Fiber Packaging,8,18,8,94,2.57,0.44
+Kraft Paper,6,3,8,83,4.6,0.74
+Corrugated Board,5,19,8,72,4.18,0.55
+Paper Foam,6,10,6,92,2.64,0.42
+Biodegradable Plastic,6,18,5,74,3.85,0.52
+Biodegradable Plastic,6,8,5,74,3.34,1.18
+Seaweed Packaging,6,12,7,90,2.48,0.57
+Corrugated Board,8,12,9,87,3.6,1.15
+Honeycomb Paperboard,5,7,5,69,2.84,0.56
+Recycled Cardboard,6,14,9,66,2.29,1.15
+Corrugated Board,8,19,5,92,3.4,0.92
+Recycled Paper Wrap,6,16,5,66,3.77,0.49
+Bagasse Fiber,7,16,7,64,2.14,0.87
+Seaweed Packaging,6,5,8,85,3.21,0.65
+Kraft Paper,6,14,7,75,2.77,0.71
+Biodegradable Plastic,9,14,5,67,2.09,0.75

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<title>EcoPackAI</title>
+
+<style>
+
+body{
+margin:0;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:black;
+font-family:Arial;
+overflow:hidden;
+}
+
+/* svg canvas */
+
+svg{
+width:800px;
+}
+
+/* animated text */
+
+text{
+font-size:110px;
+fill:none;
+stroke:#00ffcc;
+stroke-width:3;
+
+stroke-dasharray:1000;
+stroke-dashoffset:1000;
+
+animation:draw 3s linear forwards,
+glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes draw{
+to{ stroke-dashoffset:0; }
+}
+
+@keyframes glow{
+from{ filter:drop-shadow(0 0 5px #00ffcc); }
+to  { filter:drop-shadow(0 0 25px #00ffcc); }
+}
+
+/* moving dot */
+
+.dot{
+position:absolute;
+width:10px;
+height:10px;
+background:#00ffcc;
+border-radius:50%;
+animation:moveDot 3s linear infinite;
+}
+
+@keyframes moveDot{
+0%  { left:35%; top:50%; }
+50% { left:57%; top:50%; }
+100%{ left:35%; top:50%; }
+}
+
+/* logo — static, big, right after AI */
+
+.svg-logo{
+filter:drop-shadow(0 0 10px #00ffcc99);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<svg viewBox="0 0 1200 380">
+
+<text id="ecoText" x="30" y="190" font-family="Arial" dominant-baseline="middle">
+EcoPackAI
+</text>
+
+<image class="svg-logo" id="ecoLogo"
+  href="{{ url_for('static', filename='images/ecopack_logo.png') }}"
+  x="800" y="10" width="350" height="350"/>
+
+</svg>
+
+<div class="dot"></div>
+
+<script>
+
+/* Position logo dynamically right after text */
+window.addEventListener('load', function(){
+  var txt  = document.getElementById('ecoText');
+  var logo = document.getElementById('ecoLogo');
+  var box  = txt.getBBox();
+  logo.setAttribute('x', box.x + box.width + 10);
+  logo.setAttribute('y', box.y + (box.height - 350) / 2);
+});
+
+/* Redirect to homepage after 5 seconds */
+setTimeout(function(){
+sessionStorage.setItem('splashSeen','1');
+window.location.replace("/home");
+},5000);
+
+</script>
+
+</body>
+
+</html>

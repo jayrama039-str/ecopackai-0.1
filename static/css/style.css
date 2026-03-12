@@ -1,0 +1,100 @@
+body{
+background:red;
+}
+
+/* Home page background */
+
+body{
+background: linear-gradient(135deg,#e8f5e9,#f1f8f4);
+font-family: 'Segoe UI', sans-serif;
+}
+
+/* Hero section */
+
+.hero{
+padding:80px 0;
+background:transparent;
+}
+
+/* Title styling */
+
+.hero-title{
+font-size:42px;
+font-weight:700;
+color:#2d6a4f;
+}
+
+/* Description */
+
+.hero-text{
+font-size:18px;
+color:#555;
+margin-top:15px;
+}
+
+/* Image styling */
+
+.hero-img{
+border-radius:15px;
+box-shadow:0 10px 25px rgba(0,0,0,0.1);
+}
+.card{
+border-radius:12px;
+border:none;
+box-shadow:0 6px 18px rgba(0,0,0,0.08);
+transition:0.3s;
+}
+
+.card:hover{
+transform:translateY(-5px);
+box-shadow:0 10px 25px rgba(0,0,0,0.12);
+}
+
+/* Card layout */
+
+.auth-card{
+max-width:850px;
+margin:auto;
+border-radius:15px;
+overflow:hidden;
+background:white;
+box-shadow:0 10px 25px rgba(0,0,0,0.1);
+}
+
+/* Left side */
+
+.auth-left{
+background:#2d6a4f;
+color:white;
+padding:40px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+}
+
+.auth-left h2{
+font-weight:600;
+}
+
+.auth-img{
+margin-top:20px;
+border-radius:10px;
+width:100%;
+}
+
+/* Right form */
+
+.card-body{
+padding:40px;
+}
+
+.form-control{
+border-radius:8px;
+padding:10px;
+}
+
+button{
+border-radius:8px;
+padding:10px;
+font-weight:500;
+}

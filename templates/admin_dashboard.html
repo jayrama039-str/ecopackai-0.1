@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<title>EcoPackAI - Admin Dashboard</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+<style>
+
+body{
+background:linear-gradient(135deg,#e8f5e9,#f1f8f4);
+font-family:'Segoe UI',sans-serif;
+}
+
+.stat-card{
+border-radius:15px;
+padding:20px;
+transition:0.3s;
+}
+
+.stat-card:hover{
+transform:translateY(-5px);
+box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+.stat-icon{
+font-size:35px;
+color:#2d6a4f;
+}
+
+.chart-card{
+border-radius:15px;
+padding:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+
+<div class="container">
+
+<a class="navbar-brand" href="#">
+⚙ EcoPackAI Admin
+</a>
+
+<div class="collapse navbar-collapse justify-content-end">
+
+<ul class="navbar-nav">
+
+<li class="nav-item">
+<a class="nav-link active" href="/admin_dashboard">Dashboard</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="/history">Recommendations</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="/admin_users">Users</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="/">Logout</a>
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</nav>
+
+
+<div class="container mt-5">
+
+<h2 class="mb-4">
+<i class="fa-solid fa-chart-line"></i>
+Admin Dashboard
+</h2>
+
+<!-- STATS -->
+
+<div class="row">
+
+<div class="col-md-4">
+
+<div class="card stat-card shadow text-center" data-aos="fade-up">
+
+<i class="fa-solid fa-users stat-icon"></i>
+
+<h5 class="mt-2">Total Users</h5>
+
+<h2 class="text-success">{{ total_users }}</h2>
+
+</div>
+
+</div>
+
+
+<div class="col-md-4">
+
+<div class="card stat-card shadow text-center" data-aos="fade-up" data-aos-delay="200">
+
+<i class="fa-solid fa-box stat-icon"></i>
+
+<h5 class="mt-2">Total Recommendations</h5>
+
+<h2 class="text-success">{{ total_recommendations }}</h2>
+
+</div>
+
+</div>
+
+
+<div class="col-md-4">
+
+<div class="card stat-card shadow text-center" data-aos="fade-up" data-aos-delay="400">
+
+<i class="fa-solid fa-leaf stat-icon"></i>
+
+<h5 class="mt-2">CO₂ Reduction</h5>
+
+<h2 class="text-success">28%</h2>
+
+</div>
+
+</div>
+
+</div>
+
+
+<!-- CHARTS -->
+
+<div class="row mt-5">
+
+<div class="col-md-6">
+
+<div class="card chart-card shadow" data-aos="zoom-in">
+
+<h5>Top Packaging Materials</h5>
+
+<canvas id="materialChart"></canvas>
+
+</div>
+
+</div>
+
+
+<div class="col-md-6">
+
+<div class="card chart-card shadow" data-aos="zoom-in">
+
+<h5>Recommendations (Last 7 Days)</h5>
+
+<canvas id="trendChart"></canvas>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<!-- CHART SCRIPTS -->
+
+<script>
+
+const labels = {{ labels | tojson }};
+const values = {{ values | tojson }};
+
+/* MATERIAL CHART */
+
+new Chart(document.getElementById("materialChart"), {
+type: "bar",
+data: {
+labels: labels,
+datasets: [{
+label: "Material Usage",
+data: values,
+backgroundColor: [
+"#2d6a4f",
+"#52b788",
+"#74c69d",
+"#95d5b2",
+"#b7e4c7"
+]
+}]
+},
+options:{
+responsive:true,
+plugins:{
+legend:{
+display:false
+}
+}
+}
+});
+
+
+/* TREND CHART */
+
+new Chart(document.getElementById("trendChart"), {
+type: "line",
+data: {
+labels: ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"],
+datasets: [{
+label: "Recommendations",
+data: [10,18,25,20,30,28,35],
+borderColor:"#2d6a4f",
+backgroundColor:"rgba(45,106,79,0.1)",
+fill:true
+}]
+}
+});
+
+</script>
+
+
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+<script>
+AOS.init({
+duration:1000
+});
+</script>
+
+</body>
+
+</html>

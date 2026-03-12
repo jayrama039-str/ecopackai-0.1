@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<title>EcoPackAI - Login</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+<style>
+
+/* Page background */
+
+.auth-bg{
+background:linear-gradient(135deg,#e8f5e9,#f1f8f4);
+min-height:100vh;
+}
+
+/* Card */
+
+.auth-card{
+border-radius:15px;
+overflow:hidden;
+}
+
+/* Left side */
+
+.auth-left{
+background:#2d6a4f;
+color:white;
+padding:40px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+}
+
+.auth-img{
+border-radius:10px;
+margin-top:20px;
+}
+
+/* Inputs */
+
+.form-control{
+border-radius:8px;
+padding:10px;
+}
+
+/* Button animation */
+
+.btn{
+transition:0.3s;
+}
+
+.btn:hover{
+transform:translateY(-2px);
+box-shadow:0 6px 20px rgba(0,0,0,0.2);
+}
+
+</style>
+
+</head>
+
+<body class="auth-bg">
+
+<div class="container">
+
+<div class="row justify-content-center align-items-center vh-100">
+
+<div class="col-md-10">
+
+<div class="card auth-card shadow-lg" data-aos="zoom-in">
+
+<div class="row g-0">
+
+<!-- LEFT SIDE -->
+
+<div class="col-md-6 auth-left text-center">
+
+<h2 class="mb-3">Welcome Back</h2>
+
+<p>
+Login to EcoPackAI to explore sustainable packaging recommendations powered by AI.
+</p>
+
+<img src="https://images.unsplash.com/photo-1556745757-8d76bdb6984b"
+class="img-fluid auth-img">
+
+</div>
+
+<!-- RIGHT SIDE -->
+
+<div class="col-md-6">
+
+<div class="card-body p-4">
+
+<h4 class="mb-4 text-center">User Login</h4>
+
+<form action="/login_user" method="POST">
+
+<div class="mb-3">
+
+<label class="form-label">Email</label>
+
+<div class="input-group">
+
+<span class="input-group-text">
+<i class="fa fa-envelope"></i>
+</span>
+
+<input type="email" name="email" class="form-control" placeholder="Enter email" required>
+
+</div>
+
+</div>
+
+<div class="mb-3">
+
+<label class="form-label">Password</label>
+
+<div class="input-group">
+
+<span class="input-group-text">
+<i class="fa fa-lock"></i>
+</span>
+
+<input type="password" name="password" class="form-control" placeholder="Enter password" required>
+
+</div>
+
+</div>
+
+<div class="form-check mb-3">
+
+<input class="form-check-input" type="checkbox">
+
+<label class="form-check-label">
+Remember me
+</label>
+
+</div>
+
+<button type="submit" class="btn btn-success w-100">
+
+<i class="fa fa-sign-in-alt"></i> Login
+
+</button>
+
+<p class="text-center mt-3">
+
+Don't have an account?
+<a href="/signup">Signup</a>
+
+</p>
+
+</form>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+<script>
+
+AOS.init({
+duration:1000
+});
+
+</script>
+
+</body>
+
+</html>
