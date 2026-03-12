@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: ecopackai-web
+    env: python
+    repo: https://github.com/jayrama039-str/ecopackai-0.1
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: ecopackai-db
+          property: connectionString
+
+databases:
+  - name: ecopackai-db
+    databaseName: ecopackai
+    user: postgres
+    plan: free
