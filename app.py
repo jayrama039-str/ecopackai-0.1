@@ -2,6 +2,7 @@ from reportlab.pdfgen import canvas
 from flask import send_file
 import io
 from flask import Flask, render_template, request, redirect, session
+import os
 import psycopg2
 import pickle
 import numpy as np
@@ -12,13 +13,17 @@ def splash():
 app.secret_key = "ecopackai_secret"
 # ---------------- DATABASE CONNECTION ----------------
 
-conn = psycopg2.connect(
-    host="localhost",
-    database="ecopackai",
-    user="postgres",
-    password="1234",
-    port=5432
-)
+DATABASE_URL = os.environ.get("DATABASE_URL")
+if DATABASE_URL:
+    conn = psycopg2.connect(DATABASE_URL)
+else:
+    conn = psycopg2.connect(
+        host="localhost",
+        database="ecopackai",
+        user="postgres",
+        password="1234",
+        port=5432
+    )
 
 cursor = conn.cursor()
 
