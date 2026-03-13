@@ -50,11 +50,10 @@ conn.commit()
 
 # ---------------- LOAD ML MODEL ----------------
 
-model_path = os.path.join("ml_model", "packaging_model.pkl")
-encoder_path = os.path.join("ml_model", "le_material.pkl")
+# ---------------- LOAD ML MODEL ----------------
 
-model = pickle.load(open(model_path, "rb"))
-le_material = pickle.load(open(encoder_path, "rb"))
+model = pickle.load(open("ml_model/packaging_model.pkl", "rb"))
+le_material = pickle.load(open("ml_model/le_material.pkl", "rb"))
 
 # ---------------- SPLASH ----------------
 
@@ -301,3 +300,4 @@ def admin_users():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
