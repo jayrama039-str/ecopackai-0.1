@@ -1,9 +1,7 @@
 services:
   - type: web
-    name: ecopackai-web
+    name: ecopackai
     env: python
-    repo: https://github.com/jayrama039-str/ecopackai-0.1
-    branch: main
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app
     envVars:
