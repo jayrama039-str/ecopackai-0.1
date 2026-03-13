@@ -14,21 +14,11 @@ app.secret_key = "ecopackai_secret"
 # ---------------- DATABASE CONNECTION ----------------
 
 DATABASE_URL = os.environ.get("DATABASE_URL")
-if DATABASE_URL:
-    conn = psycopg2.connect(DATABASE_URL)
-else:
-    conn = psycopg2.connect(
-        host="localhost",
-        database="ecopackai",
-        user="postgres",
-        password="1234",
-        port=5432
-    )
 
+conn = psycopg2.connect(DATABASE_URL)
 cursor = conn.cursor()
 
 print("Database connected successfully")
-
 
 # ---------------- LOAD ML MODEL ----------------
 
@@ -292,6 +282,7 @@ def admin_users():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
+
 
 
 
